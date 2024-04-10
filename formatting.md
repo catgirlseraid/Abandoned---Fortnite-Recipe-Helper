@@ -143,3 +143,19 @@ mobs.json
         }
     }
 },
+
+
+seperate-village-upgrades.json
+{
+    "type": "",
+    "description": ""
+}
+
+
+village-block.json
+{
+    "level": "",
+    "perks": {
+           
+    }
+}

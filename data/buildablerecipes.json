@@ -460,6 +460,49 @@
 
 
 
+    
+
+
+    {
+      "workbench": "buildable",
+      "items": {
+        "wood": 3
+      },
+      "amount": "1",
+      "output": "campfire"
+    },
+    {
+      "workbench": "buildable",
+      "items": {
+        "granite": 2
+      },
+      "amount": "1",
+      "output": "map-marker"
+    },
+    {
+      "workbench": "buildable",
+      "items": {
+        "wood": 10,
+        "granite": 10
+      },
+      "amount": "1",
+      "output": "village-square"
+    },
+    {
+      "workbench": "buildable",
+      "items": {
+        "soil": 2,
+        "fertilizer": 1
+      },
+      "amount": "1",
+      "output": "garden-plot"
+    },
+
+
+
+
+
+
 
 
 

@@ -1,0 +1,50 @@
+[
+    {
+        "type": "friendly-visitors",
+        "description": "Friendly explorers will visit the village."
+    },
+    {
+        "type": "growing-village",
+        "description": "An additional villager can live at this village."
+    },
+    {
+        "type": "foragers-for-hire",
+        "description": "Villages can be asked to forage nearby resources, refine wood, refine stone, or compost"
+    },
+    {
+        "type": "for-me",
+        "description": "Villages will occationally gift items."
+    },
+    {
+        "type": "get-cooking",
+        "description": "Villages can be asked to cook, extract seeds, or tend dirt plots."
+    },
+    {
+        "type": "branching-out",
+        "description": "Villages assigned to woodcutting will produce more wood types"
+    },
+    {
+        "type": "must-see-destination",
+        "description": "Rarer explorers will visit this village"
+    },
+    {
+        "type": "well-rested",
+        "description": "Villages gain bonus health and defense."
+    },
+    {
+        "type": "refined-production",
+        "description": "Villages can be asked to smelt metal, refine textiles, and collect gems."
+    },
+    {
+        "type": "ready-to-rock",
+        "description": "Villages assigned to stonecutting will produce more stone types."
+    },
+    {
+        "type": "gifts-galore",
+        "description": "Villages can gift unique new recipes."
+    },
+    {
+        "type": "go-forth-and-forage",
+        "description": "NPCs in this village can forage resources from other biomes. Woodcutters will also produce more wood types, and stonecutters will produce more stone types."
+    }
+]

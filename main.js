@@ -216,6 +216,7 @@ function search() {
         }
         let recipesdropdown = document.createElement("details")
         recipesdropdown.setAttribute("id", "recipes-dropdown");
+        //TODO remove this line later, it was added for debug
         recipesdropdown.open = true
         recipesdropdown.innerHTML = "<summary><strong>Recipes</strong></summary>"
         displayperitem.append(recipesdropdown)

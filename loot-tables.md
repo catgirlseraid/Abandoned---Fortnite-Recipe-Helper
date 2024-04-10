@@ -190,25 +190,30 @@ chests without a change: 0
 
 ----------
 grasslands build chests
-chests without a change: 0
+chests without a change: 1
 ----------
 1 boom barrel
-1 metal box
+1-2 metal box
 
-5-9 wood
-8 granite
+4-9 wood
+2 glass
+7-8 granite
 
 1-2 soil
 2 sand
 
 1 pumpkin
 1 egg
+1-3 corn
+3 raspberry
 
 1-2 wool
 6 arrow
 1 bone
+4-8 feather
 
-4 wheat grain
+2-4 wheat grain
+2-3 pumpkin seeds
 
 1 torch
 
@@ -216,44 +221,47 @@ chests without a change: 0
 grasslands mod guarded chests
 chests without a change: 0
 -------------------
-1-8 glass
+1-9 glass
 6 planks
 8-30 granite
 7-26 wood
 2 soil
 
-2 common shortswords
+1-2 common shortswords
 2 common crossbow
 1-2 common shield
+1-2 common shovel
 
-1 power cell
+1-2 power cell
 
 5-10 arrow
 2-4 feather
-2-4 silk
-1-9 wolf claw
+2-6 silk
+1-10 wolf claw
 1 shell
-1 bone
+1-2 bone
+3-5 wool
 2 heavy wool
 4 blast powder
+2 dynamite
 
-3 spicy pepper
+3-6 spicy pepper
 
-1-2 milk
+1-6 milk
 1-4 bread
-2 egg
-2-3 pumpkin
-1 slap juice
+1-2 egg
+2-4 pumpkin
+1-2 slap juice
+1 snowberry shake
 5 snow berry
-
-4 slapberry
+4-8 slapberry
 
 5 snowberry seed
-3 pepper seed
-4 pumpkin seed
-3 corn kernel
-5 wheat grain
-5 slapberry seed
+3-6 pepper seed
+4-12 pumpkin seed
+3-5 corn kernel
+5-13 wheat grain
+5-10 slapberry seed
 
 1 cord
 1-2 wooden rod
@@ -265,6 +273,7 @@ chests without a change: 0
 1 boom barrel
 
 4 soil
+8 wood
 
 3 silk
 2 wolf claw
@@ -274,30 +283,233 @@ chests without a change: 0
 1 bread
 3 slap berry
 
-2 corn kernel
+2-4 corn kernel
+2 slap berry seeds
 
-1 spicy pepper
+1-2 spicy pepper
+
+---------------
+shore mob guarded chest
+chests without a change: 0
+------------------
+3-5 blast powder 
+
+6 raspberry
+3 slapberry
+
+1 snowberry shake
+1 slurp juice
+1-2 snowberry
+1 spicy burger
+2 corn
+
+3 glass
+6 plank
+11-16 granite
+25 wood
+
+1 power cell
+1 drawstring
+
+4 wolf claw
+
+3-4 spicy pepper
+3 flour
+
+4-5 snowberry seed
+9 wheat grain
+
+1 crossbow uncommon
+1 common shield
+
+
+------------------
+dry valley caves
+chests without a change: 1
+-----------------------
+1-3 dynamite
+
+3-12 spicy pepper
+
+2-4 snowberry seed
+3-10 slapberry seed
+3-6 raspberry seed
+4-5 pepper seed
+3-5 pumpkin seed
+4 corn kernal
+3 wheat grain
+
+7-11 wood
+8-23 granite
+1-3 glass
+1-4 marble
+1 marble slab
+1 obsidian
+
+1 sand shell
+1 brute scale
+1 sand brute scale
+7 arrow
+2-4 sand claw
+
+1-3 torch
+1-2 drawstring
+1 blastcore
+
+1 slap juice
+
+2-4 slurp mushroom
+
+1 uncommon shield
+
 
 
 
 
 
 ------------------
-dry valley caves
+dry valley builds
 chests without a change: 0
 -----------------------
-2 dynamite
+1 metal box
+1 boom barrel
 
-3-7 spicy pepper
+8-12 wood
+9-13 granite
+3 sand
 
-2-4 snowberry seed
-3-6 slapberry seed
-3-5 raspberry seed
-4 pepper seed
+2 wool
 
-7-11 wood
-3 glass
+1-2 flour
+1 wheat
 
-1 sand shell
+3 wheat grain
+3 spicy pepper
+
+1 slurp juice
+4-7 slap berry
+
+2 feather
+1 wool
 
 1 torch
+
+
+---------
+supply drop
+chests without a change: 0
+--------------------
+7 raspberry seed
+5 pumpkin seed
+
+25 granite
+15 planks
+
+2 dynamite
+
+
+3 slap juice
+
+
+
+
+----------
+grassland caves
+chests without a change: 0
+----------------
+1-3 wolf claw
+3 wool
+5 arrow
+3 feather
+
+1 wooden rod
+2-3 cord
+
+2 corn kernel
+2-4 pumpkin seed
+3-4 slapberry seeds
+
+2 pumpkin
+2 snowberry
+2 corn
+
+8 wood
+8-10 granite
+
+
+--------------
+dry valley mountain chests
+chests without a change: 0
+--------------
+10-21 wood
+13 granite
+6 plank
+3 soil
+1 glass
+
+2-6 silk
+1-3 wool
+
+1-2 flour
+
+1 slurp juice
+1 slap juice
+6 raspberry
+5-6 slapberry
+2-3 pumpkin
+1 bread
+
+1 sand claw
+
+2-5 corn kernal
+4 raspberry seed
+3-5 pumpkin seed
+
+3-5 spicy pepper
+
+4 slurp mushroom
+
+1 drawstring
+
+------------------
+dry valley guarded chest 
+chests without a change: 0
+-----------------------
+6 plank
+12-19 granite
+12-18 wood
+6 glass
+
+2-6 flour
+
+1-4 slap juice
+2-4 pumpkin
+5-9 slapberry
+3-8 spicy pepper
+10 milk
+4 cheese
+2 snowberry shake
+1-14 snow berry
+1 spicy burger
+
+3-4 corn kernel
+4 wheat grain
+5 raspberry seed
+7-15 slapberry seed
+7 snowberry seed
+5 pepper seed
+
+1 power cell
+
+4-10 blast powder
+3-5 wool
+4-5 silk
+20 arrow
+2-3 sand claw
+4 dynamite
+5 heavy wool
+
+1 uncommon shield
+1 uncommon sword
+1 uncommon crossbow
+1 uncommon shovel

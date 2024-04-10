@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Crafting Bench Common",
+        "id": "crafting-bench-common",
+        "description": "Craft basic tools, weapons, survival equipment, and accessories. Upgrade your bench to build better gear.",
+        "flavour-text": "Placeable!",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Crafting Bench Unommon",
+        "id": "crafting-bench-uncommon",
+        "description": "Craft intermediate tools, weapons, survival equipment, and accessories. Upgrade your bench to build better gear.",
+        "flavour-text": "Your creative crafting skills are unmatched!",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Crafting Bench Rare",
+        "id": "crafting-bench-rare",
+        "description": "Craft advanced tools, weapons, survival equipment, and accessories. Upgrade your bench to build better gear.",
+        "flavour-text": "You're taking crafting to the next level!",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Crafting Bench Epic",
+        "id": "crafting-bench-epic",
+        "description": "Craft expert tools, weapons, survival equipment, and accessories. Upgrade your bench to build better gear.",
+        "flavour-text": "You're a big-time builder who can craft just about ANYTHING!",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "workbench": "buildable",
+        "items": {
+            "wood": 3,
+            "granite": 5
+        },
+        "amount": 1,
+        "output": "crafting-bench-common"
+    },
+    {
+        "workbench": "crafting-bench-common",
+        "items": {
+            "plank": 8,
+            "shell": 3
+        },
+        "amount": 1,
+        "output": "crafting-bench-uncommon"
+    },
+    {
+        "workbench": "crafting-bench-uncommon",
+        "items": {
+            "knotroot-rod": 12,
+            "marble-slab": 15,
+            "sand-claw": 6,
+            "sand-shell": 3
+        },
+        "amount": 1,
+        "output": "crafting-bench-rare"
+    },
+    {
+        "workbench": "crafting-bench-rare",
+        "items": {
+            "copper-bar": 15,
+            "obsidian-slab": 25,
+            "brute-scale": 1
+        },
+        "amount": 1,
+        "output": "crafting-bench-epic"
+    }
+]

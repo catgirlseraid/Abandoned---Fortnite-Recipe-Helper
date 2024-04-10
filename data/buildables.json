@@ -1,5 +1,53 @@
 [
   {
+    "name": "Campfire",
+    "id": "campfire",
+    "description": "Provides warmth and light. The smoke can be seen over long distances.",
+    "flavour-text": "Buildable!",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": "1"
+    }
+  },
+  {
+    "name": "Map Marker",
+    "id": "map-marker",
+    "description": "Marks a location on the map.",
+    "flavour-text": "Buildable!",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": "1"
+    }
+  },
+  {
+    "name": "Village Square",
+    "id": "village-square",
+    "description": "Establishes a village in the surrounding area.",
+    "flavour-text": "Buildable!",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": "1"
+    }
+  },
+  {
+    "name": "Garden Plot",
+    "id": "garden-plot",
+    "description": "Plant seeds inside and watch them grow.",
+    "flavour-text": "Buildable!",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": "1"
+    }
+  },
+  
+  
+
+
+
+
+  
+  
+  {
       "name": "Ancient Bed",
       "id": "ancient-bed",
       "description": "A comfortable place to rest. Assign to new friends in order to recruit them.",
