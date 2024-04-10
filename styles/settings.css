@@ -1,0 +1,55 @@
+.dialog-settings-close {
+    border: none;
+    border-left: 2px solid black;
+    height: 50px;
+    width: 50px;
+}
+
+.dialog-settings-close:hover {
+    background-color: #e76f5d;
+    color: white;
+    cursor: pointer;
+}
+
+.dialog-settings {
+    min-height: 200px;
+    min-width: 100px;
+    padding: 0px;
+    border-radius: 10px;
+    border: 5px solid black;
+    outline-offset: -6px;
+    background: rgb(175,175,175);
+    background: linear-gradient(315deg, rgba(175,175,175,1) 0%, rgba(185,227,255,1) 100%);
+}
+
+.dialog-settings[open]::backdrop{
+    background-color: rgb(0,0,0,0.5);
+}
+
+
+.dialog-settings-content {
+    border-top: 2px black solid;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.dialog-settings-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dialog-settings-header h2{
+    margin: 0px 10px;
+
+}
+
+.dialog-settings-dark-theme-toggle {
+    width: 35px;
+}
+
+.dialog-settings-content > p {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

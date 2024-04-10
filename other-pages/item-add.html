@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Helper</title>
+
+    <link href="../styles/mainstyle.css" rel="stylesheet">
+    <link href="../styles/settings.css" rel="stylesheet">
+    <link href="../styles/add-item.css" rel="stylesheet">
+
+    <script src="../scripts/settings.js" defer></script>
+    <script src="../scripts/supersecretscript.js" defer></script>
+    <script src="../scripts/add-item.js" defer></script>
+</head>
+<body>
+    <nav class="nav-bar">
+        <button id="settings-icon" class="nav-bar-settings-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-settings"><path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"/><circle cx="12" cy="12" r="3"/></svg></button>
+        <div class="nav-bar-title-text">
+            <a href="../index.html" class="nav-bar-link-to-main-page"><h1>LEGO Fortnite Recipe Helper</h1></a>
+        </div>
+        <div>
+            <button class="nav-bar-preset-type-button">Preset Type</button>
+        </div>
+    </nav>
+
+    <div>
+        <dialog class="dialog-settings" id="dialog-settings">
+            <div class="dialog-settings-header">
+                <h2>Settings</h2>
+                <button class="dialog-settings-close" id="dialog-settings-close"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-x"><circle cx="12" cy="12" r="10"/><path d="m15 9-6 6"/><path d="m9 9 6 6"/></svg></button>
+            </div>
+
+            <div class="dialog-settings-content">
+                <p>Dark Theme: <img class="dialog-settings-dark-theme-toggle" id="dialog-settings-dark-theme-toggle" src="../images/toggle-left-icon.svg"></p>
+            </div>
+
+            
+        </dialog>
+    </div>
+
+    <div class="page-display">
+        <div class="item-input">
+            <div class="item-input-header">
+                <!-- TODO make this a dropdown to choose what type of item to add -->
+                <h2>Buildable Structure</h2>
+            </div>
+            <div class="item-input-field"> 
+                <input  type="text" id="name" placeholder="Item Name">
+                <input  type="text" id="id" placeholder="Item ID">
+                <input  type="text" id="description" placeholder="Item Description">
+                <input  type="text" id="flavour-text" placeholder="Item Flavour Text">
+                <div class="item-input-field-attributes">
+                    <h3>Attributes</h3>
+                    <input  type="text" id="attributes-rarity" placeholder="Item Rarity">
+                    <input  type="text" id="attributes-max-stack" placeholder="Item Max Stack">
+                    <input  type="text" id="attributes-dimensions" placeholder="Item Dimensions">
+                </div>
+            </div>
+            <div>
+                <button id="generateitem">Generate Item</button>
+                <p>buildables.json</p>
+                <div class="item-input-display-output" id="item-input-display-output">
+                </div>
+            </div>
+        </div>
+    
+        <div class="item-input">
+            <div class="item-input-header">
+                <!-- TODO make this a dropdown to choose what type of item to add -->
+                <h2>Buildable Structure Recipe</h2>
+            </div>
+            <div class="item-input-field"> 
+                <input  type="text" id="workbench" placeholder="Workbench">
+                <div class="item-input-field-attributes">
+                    <h3>Items</h3>
+                    <div class="display-side-by-side">
+                        <input  type="text" id="items-1" placeholder="Item 1">
+                        <input  type="text" id="items-1-amount" placeholder="Amount">
+                    </div>
+                    <div class="display-side-by-side">
+                        <input  type="text" id="items-2" placeholder="Item 2">
+                        <input  type="text" id="items-2-amount" placeholder="Amount">
+                    </div>
+                    <div class="display-side-by-side">
+                        <input  type="text" id="items-3" placeholder="Item 3">
+                        <input  type="text" id="items-3-amount" placeholder="Amount">
+                    </div>
+                    <div class="display-side-by-side">
+                        <input  type="text" id="items-4" placeholder="Item 4">
+                        <input  type="text" id="items-4-amount" placeholder="Amount">
+                    </div>
+
+
+                </div>
+                <div class="display-side-by-side">
+                    <input  type="text" id="output" placeholder="Item Output">
+                    <input  type="text" id="amount" placeholder="Amount">
+                </div>
+                
+            </div>
+            <div>
+                <button id="generateitemrecipes">Generate Item</button>
+                <p>buildablerecipes.json</p>
+                <div class="item-input-display-output" id="item-input-display-output-recipe">
+                </div>
+            </div>
+        </div>
+    
+        <footer>
+            <p id=gravytime></p>
+            <p id="signedbyktrain"></p>
+        </footer>
+    </div>
+    
+</body>
+</html>

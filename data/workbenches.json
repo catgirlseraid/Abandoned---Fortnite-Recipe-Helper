@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Crafting Bench",
+        "id": "crafting-bench",
+        "description": "Craft basic tools, weapons, survival equipment, and accessories. Upgrade your bench to build better gear.",
+        "flavour-text": "Placeable!",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Compost Bin",
+        "id": "compost-bin",
+        "description": "Take oraganic material to turn it into Fertilizer, Soil, or Biomass",
+        "flavour-text": "Placeable!",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Lumber Mill",
+        "id": "lumber-mill",
+        "description": "Builds objects like Planks and Rods for use in crafting.",
+        "flavour-text": "Placeable!",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Grill",
+        "id": "grill",
+        "description": "Turn raw ingredients into food used for healing and reducing Hunger.",
+        "flavour-text": "Placeable!",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Spinning Wheel",
+        "id": "spinning-wheel",
+        "description": "Spins objects like Thread and Rope for use in crafting.",
+        "flavour-text": "Placeable!",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Food Processor",
+        "id": "food-processor",
+        "description": "Break down different foods. Turn fish into Fish Fillets and more!",
+        "flavour-text": "Placeable!",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Stone Breaker",
+        "id": "stone-breaker",
+        "description": "Breaks down Stones for use in crafting.",
+        "flavour-text": "Placeable!",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Grain Mill",
+        "id": "grain-mill",
+        "description": "Grinds food down to their smallest elements, and removes seeds from plants.",
+        "flavour-text": "Placeable!",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Juicer",
+        "id": "juicer",
+        "description": "Makes various drinks used for healing and bolstering attributes.",
+        "flavour-text": "Placeable!",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Gem Cutter",
+        "id": "gem-cutter",
+        "description": "Carves Gems for use in crafting.",
+        "flavour-text": "Placeable!",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Loom",
+        "id": "loom",
+        "description": "Create objects made of fabric.",
+        "flavour-text": "Placeable!",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Essence Table",
+        "id": "essence-table",
+        "description": "Enchant weapons and tools with uniquely powerful essences.",
+        "flavour-text": "Placeable!",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Metal Smelter",
+        "id": "metal-smelter",
+        "description": "Refines Metal for use in crafting.",
+        "flavour-text": "Placeable!",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Oven",
+        "id": "oven",
+        "description": "Cook more potent foods used for healing and reducing Hunger.",
+        "flavour-text": "Placeable!",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    }
+]

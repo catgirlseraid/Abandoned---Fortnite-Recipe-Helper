@@ -1,0 +1,322 @@
+[
+    {
+        "name": "Simple Shack",
+        "id": "simple-shack",
+        "description": "3 Stages",
+        "flavour-text": "Starter Shacks",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Double Shack",
+        "id": "double-shack",
+        "description": "7 Stages",
+        "flavour-text": "Starter Shacks",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Roomy Shack",
+        "id": "roomy-shack",
+        "description": "7 Stages",
+        "flavour-text": "Starter Shacks",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Porch Shack",
+        "id": "porch-shack",
+        "description": "8 Stages",
+        "flavour-text": "Starter Shacks",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Log Lookout",
+        "id": "log-lookout",
+        "description": "3 Stages",
+        "flavour-text": "Log Cabin",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Log Shed",
+        "id": "log-shed",
+        "description": "9 Stages",
+        "flavour-text": "Log Cabin",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Palisade Gate",
+        "id": "palisade-gate",
+        "description": "6 Stages",
+        "flavour-text": "Log Cabin",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Log Cabin",
+        "id": "log-cabin",
+        "description": "15 Stages",
+        "flavour-text": "Log Cabin",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Log Watch Tower",
+        "id": "log-watch-tower",
+        "description": "13 Stages",
+        "flavour-text": "Log Cabin",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Log Home",
+        "id": "log-home",
+        "description": "19 Stages",
+        "flavour-text": "Log Cabin",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Jumbo Lodge",
+        "id": "jumbo-lodge",
+        "description": "26 Stages",
+        "flavour-text": "Log Cabin",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Lonely Lodge",
+        "id": "lonely-lodge",
+        "description": "26 Stages",
+        "flavour-text": "Log Cabin",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Bungalow",
+        "id": "bungalow",
+        "description": "23 Stages",
+        "flavour-text": "Pleasant Park",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Pleasant Pavilion",
+        "id": "pleasant-pavilion",
+        "description": "8 Stages",
+        "flavour-text": "Pleasant Park",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Detached Garage",
+        "id": "detached-garage",
+        "description": "9 Stages",
+        "flavour-text": "Pleasant Park",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Roomy Home",
+        "id": "roomy-home",
+        "description": "27 Stages",
+        "flavour-text": "Pleasant Park",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Spacious House",
+        "id": "spacious-house",
+        "description": "24 Stages",
+        "flavour-text": "Pleasant Park",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Humble Manor",
+        "id": "humble-manor",
+        "description": "18 Stages",
+        "flavour-text": "Majestic Manors",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Manor Gates",
+        "id": "manor-gates",
+        "description": "5 Stages",
+        "flavour-text": "Majestic Manors",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Manor Stables",
+        "id": "manor-stables",
+        "description": "14 Stages",
+        "flavour-text": "Majestic Manors",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Tower Manor",
+        "id": "tower-manor",
+        "description": "37 Stages",
+        "flavour-text": "Majestic Manors",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Noble Manor",
+        "id": "noble-manor",
+        "description": "20 Stages",
+        "flavour-text": "Majestic Manors",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Grand Manor",
+        "id": "grand-manor",
+        "description": "59 Stages",
+        "flavour-text": "Majestic Manors",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Starter Palace",
+        "id": "starter-palace",
+        "description": "7 Stages",
+        "flavour-text": "Shogun Palace",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Palace Pavilion",
+        "id": "palace-pavilion",
+        "description": "6 Stages",
+        "flavour-text": "Shogun Palace",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Palace Gates",
+        "id": "palace-gates",
+        "description": "6 Stages",
+        "flavour-text": "Shogun Palace",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Tiered Palace",
+        "id": "tiered-palace",
+        "description": "14 Stages",
+        "flavour-text": "Shogun Palace",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Palace Tower",
+        "id": "palace-tower",
+        "description": "32 Stages",
+        "flavour-text": "Shogun Palace",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Grand Palace",
+        "id": "grand-palace",
+        "description": "31 Stages",
+        "flavour-text": "Shogun Palace",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Speeder",
+        "id": "speeder",
+        "description": "4 Stages",
+        "flavour-text": "Rugged Rollers",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Offroader",
+        "id": "offroader",
+        "description": "5 Stages",
+        "flavour-text": "Rugged Rollers",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Hauler",
+        "id": "hauler",
+        "description": "7 Stages",
+        "flavour-text": "Rugged Rollers",
+        "attributes": {
+            "rarity": "buildable",
+            "max-stack": 1
+        }
+    }
+]

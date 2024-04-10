@@ -1,0 +1,2 @@
+document.getElementById("settings-icon").addEventListener("click", (() => document.getElementById("dialog-settings").showModal()))
+document.getElementById("dialog-settings-close").addEventListener("click", (() => document.getElementById("dialog-settings").close()))

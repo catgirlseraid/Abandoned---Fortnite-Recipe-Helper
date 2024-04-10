@@ -1,0 +1,7840 @@
+[
+  {
+      "name": "Ancient Bed",
+      "id": "ancient-bed",
+      "description": "A comfortable place to rest. Assign to new friends in order to recruit them.",
+      "flavour-text": "Shogun Palace Starter",
+      "attributes": {
+          "rarity": "buildable",
+          "max-stack": 1
+      }
+  },
+  {
+      "name": "Bed",
+      "id": "bed",
+      "description": "A comfortable place to rest. Assign to new friends in order to recruit them.",
+      "flavour-text": "Starter Shacks",
+      "attributes": {
+          "rarity": "buildable",
+          "max-stack": 1
+      }
+  },
+  {
+      "name": "Charming Bed",
+      "id": "charming-bed",
+      "description": "A comfortable place to rest. Assign to new friends in order to recruit them.",
+      "flavour-text": "Log Cabin Bedroom",
+      "attributes": {
+          "rarity": "buildable",
+          "max-stack": 1
+      }
+  },
+  {
+      "name": "Drowsy Bed",
+      "id": "drowsy-bed",
+      "description": "A comfortable place to rest. Assign to new friends in order to recruit them.",
+      "flavour-text": "Pleasent Park Starter",
+      "attributes": {
+          "rarity": "buildable",
+          "max-stack": 1
+      }
+  },
+  {
+      "name": "Good Knight Bed",
+      "id": "good-knight-bed",
+      "description": "A comfortable place to rest. Assign to new friends in order to recruit them.",
+      "flavour-text": "Majestic Manors Starter",
+      "attributes": {
+          "rarity": "buildable",
+          "max-stack": 1
+      }
+  },
+  {
+      "name": "Panel Bed",
+      "id": "panel-bed",
+      "description": "A comfortable place to rest. Assign to new friends in order to recruit them.",
+      "flavour-text": "Pleasent Park Bedroom",
+      "attributes": {
+          "rarity": "buildable",
+          "max-stack": 1
+      }
+  },
+  {
+    "name": "Small Dynamic Foundation",
+    "id": "small-dynamic-foundation",
+    "description": "Attach items such as balloons for unique ways to travel by land or sea.",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "8x16x2"
+    }
+  },
+  {
+    "name": "Medium Dynamic Foundation",
+    "id": "medium-dynamic-foundation",
+    "description": "Attach items such as balloons for unique ways to travel by land or sea.",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "8x24x2"
+    }
+  },
+  {
+    "name": "Large Dynamic Foundation",
+    "id": "large-dynamic-foundation",
+    "description": "Attach items such as balloons for unique ways to travel by land or sea.",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Boom Barrel",
+    "id": "boom-barrel",
+    "description": "Use this to make things go BOOM!",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Small Balloon",
+    "id": "small-balloon",
+    "description": "Attach small balloons onto existing structures and dynamic objects.",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Large Balloon",
+    "id": "large-balloon",
+    "description": "Attach large balloons onto existing structures and dynamic objects.",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Small Simple Wheel",
+    "id": "small-simple-wheel",
+    "description": "Attach small wheels onto existing structures and dynamic objects.",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Large Simple Wheel",
+    "id": "large-simple-wheel",
+    "description": "Attach large wheels onto existing structures and dynamic objects.",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Metal Crate",
+    "id": "metal-crate",
+    "description": "A large, dynamic box that can be pushed or picked up.",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Launch Pad",
+    "id": "launch-pad",
+    "description": "Step on this to launch yourself in the air!",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Small Driver's Seat",
+    "id": "small-drivers-seat",
+    "description": "Allows players to control Turnable, Powered, and Activatable Toys.",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Medium Driver's Seat",
+    "id": "medium-drivers-seat",
+    "description": "Allows players to control Turnable, Powered, and Activatable Toys.",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Large Driver's Seat",
+    "id": "large-drivers-seat",
+    "description": "Allows players to control Turnable, Powered, and Activatable Toys.",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Small Power Center",
+    "id": "small-power-center",
+    "description": "Place on a build and deposit Power Cells to provide Power to connected Toys. Holds a small amount of Power.",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Medium Power Center",
+    "id": "medium-power-center",
+    "description": "Place on a build and deposit Power Cells to provide Power to connected Toys. Holds a medium amount of Power.",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Large Power Center",
+    "id": "large-power-center",
+    "description": "Place on a build and deposit Power Cells to provide Power to connected Toys. Holds a large amount of Power.",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Small Powered Wheel",
+    "id": "small-powered-wheel",
+    "description": "Spins when given a signal from a Driver's Seat. Consumes a bit of Power per second from a Power Center",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Medium Powered Wheel",
+    "id": "medium-powered-wheel",
+    "description": "Spins when given a signal from a Driver's Seat. Consumes some Power per second from a Power Center",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Large Powered Wheel",
+    "id": "large-powered-wheel",
+    "description": "Spins when given a signal from a Driver's Seat. Consumes a moderate amount of Power per second from a Power Center",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Small Turnable Wheel",
+    "id": "small-turnable-wheel",
+    "description": "Spins and turns when given signals from a Driver's Seat. Consumes a bit of Power per second from a Power Center.",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Medium Turnable Wheel",
+    "id": "medium-turnable-wheel",
+    "description": "Spins and turns when given signals from a Driver's Seat. Consumes some Power per second from a Power Center.",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Large Turnable Wheel",
+    "id": "large-turnable-wheel",
+    "description": "Spins and turns when given signals from a Driver's Seat. Consumes a moderate amount of Power per second from a Power Center.",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Activation Switch",
+    "id": "activation-switch",
+    "description": "Attach to a build and toggle on and off your dynamic objects.",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Small Thruster",
+    "id": "small-thruster",
+    "description": "Attach small thrusters onto existing structures and dynamic objects.",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Large Thruster",
+    "id": "large-thruster",
+    "description": "Attach large thrusters onto existing structures and dynamic objects.",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Small Car Jack",
+    "id": "small-car-jack",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x4x8"
+    }
+  },
+  {
+    "name": "Large Car Jack",
+    "id": "large-car-jack",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x4x12"
+    }
+  },
+  {
+    "name": "Platform Bumper 01",
+    "id": "platform-bumper-01",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x6x2"
+    }
+  },
+  {
+    "name": "Platform Bumper 02",
+    "id": "platform-bumper-02",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x2"
+    }
+  },
+  {
+    "name": "Vehicle Base 01",
+    "id": "vehicle-base-01",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x2x2"
+    }
+  },
+  {
+    "name": "Vehicle Base 02",
+    "id": "vehicle-base-02",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "6x2x2"
+    }
+  },
+  {
+    "name": "Vehicle Base 03",
+    "id": "vehicle-base-03",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x6x2"
+    }
+  },
+  {
+    "name": "Vehicle Base 04",
+    "id": "vehicle-base-04",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x4x2"
+    }
+  },
+  {
+    "name": "Vehicle Base 05",
+    "id": "vehicle-base-05",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "5x4x2"
+    }
+  },
+  {
+    "name": "Vehicle Base 06",
+    "id": "vehicle-base-06",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "6x4x2"
+    }
+  },
+  {
+    "name": "Vehicle Base 07",
+    "id": "vehicle-base-07",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x6x2"
+    }
+  },
+  {
+    "name": "Vehicle Base 08",
+    "id": "vehicle-base-08",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "6x6x2"
+    }
+  },
+  {
+    "name": "Vehicle Base 09",
+    "id": "vehicle-base-09",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "8x8x2"
+    }
+  },
+  {
+    "name": "Vehicle Base 10",
+    "id": "vehicle-base-10",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "12x8x2"
+    }
+  },
+  {
+    "name": "Vehicle Base 11",
+    "id": "vehicle-base-11",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "20x16x2"
+    }
+  },
+  {
+    "name": "Vehicle Base 12",
+    "id": "vehicle-base-12",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "20x20x2"
+    }
+  },
+  {
+    "name": "Vehicle Base Single Rider",
+    "id": "vehicle-base-single-rider",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "9x4x2"
+    }
+  },
+  {
+    "name": "Enclosed Cabin Rear",
+    "id": "enclosed-cabin-rear",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x6"
+    }
+  },
+  {
+    "name": "Open Cabin Rear",
+    "id": "open-cabin-rear",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x6"
+    }
+  },
+  {
+    "name": "Windshield",
+    "id": "windshield",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "3x8x6"
+    }
+  },
+  {
+    "name": "Medium Cabin Roof",
+    "id": "medium-cabin-roof",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x8x1"
+    }
+  },
+  {
+    "name": "Large Cabin Roof",
+    "id": "large-cabin-roof",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "8x8x1"
+    }
+  },
+  {
+    "name": "Left Fender",
+    "id": "left-fender",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "5x2x2"
+    }
+  },
+  {
+    "name": "Right Fender",
+    "id": "right-fender",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "5x2x2"
+    }
+  },
+  {
+    "name": "Medium Fender",
+    "id": "medium-fender",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "3x2x4"
+    }
+  },
+  {
+    "name": "Large Fender",
+    "id": "large-fender",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "16x2x4"
+    }
+  },
+  {
+    "name": "Small Front Brush Guard",
+    "id": "small-front-brush-guard",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x6x2"
+    }
+  },
+  {
+    "name": "Small Front Brush Guard",
+    "id": "small-front-brush-guard",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x6x2"
+    }
+  },
+  {
+    "name": "Medium Front Brush Guard",
+    "id": "medium-front-brush-guard",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x3"
+    }
+  },
+  {
+    "name": "Large Front Brush Guard",
+    "id": "large-front-brush-guard",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "5x8x3"
+    }
+  },
+  {
+    "name": "Small Rear Brush Guard",
+    "id": "small-rear-brush-guard",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x4x2"
+    }
+  },
+  {
+    "name": "Medium Rear Brush Guard",
+    "id": "medium-rear-brush-guard",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x6x3"
+    }
+  },
+  {
+    "name": "Suspension 01",
+    "id": "suspension-01",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x4x1"
+    }
+  },
+  {
+    "name": "Suspension 02",
+    "id": "suspension-02",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x6x1"
+    }
+  },
+  {
+    "name": "Suspension 03",
+    "id": "suspension-03",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x1"
+    }
+  },
+  {
+    "name": "Suspension 04",
+    "id": "suspension-04",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x4"
+    }
+  },
+  {
+    "name": "Suspension 05",
+    "id": "suspension-05",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x14x4"
+    }
+  },
+  {
+    "name": "Angled Light Bar",
+    "id": "angled-light-bar",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x1"
+    }
+  },
+  {
+    "name": "Flat Light Bar",
+    "id": "flat-light-bar",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x1"
+    }
+  },
+  {
+    "name": "Vehicle Railing",
+    "id": "vehicle-railing",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x6x2"
+    }
+  },
+  {
+    "name": "Engine Bay",
+    "id": "engine-bay",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x6x6"
+    }
+  },
+  {
+    "name": "Wood Foundation 01",
+    "id": "wood-foundation-01",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x4x2"
+    }
+  },
+  {
+    "name": "Wood Foundation 02",
+    "id": "wood-foundation-02",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x16x2"
+    }
+  },
+  {
+    "name": "Wood Foundation 03",
+    "id": "wood-foundation-03",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "8x8x2"
+    }
+  },
+  {
+    "name": "Wood Foundation 04",
+    "id": "wood-foundation-04",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "16x16x2"
+    }
+  },
+  {
+    "name": "Granite Foundation 01",
+    "id": "granite-foundation-01",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x4x2"
+    }
+  },
+  {
+    "name": "Granite Foundation 02",
+    "id": "granite-foundation-02",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x16x2"
+    }
+  },
+  {
+    "name": "Granite Foundation 03",
+    "id": "granite-foundation-03",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "8x8x2"
+    }
+  },
+  {
+    "name": "Granite Foundation 04",
+    "id": "granite-foundation-04",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "16x16x2"
+    }
+  },
+  {
+    "name": "Rustic Thin Floor 01",
+    "id": "rustic-thin-floor-01",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "6x2x1"
+    }
+  },
+  {
+    "name": "Rustic Thin Floor 02",
+    "id": "rustic-thin-floor-02",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "8x2x1"
+    }
+  },
+  {
+    "name": "Rustic Thin Floor 03",
+    "id": "rustic-thin-floor-03",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "12x2x1"
+    }
+  },
+  {
+    "name": "Rustic Thin Floor 04",
+    "id": "rustic-thin-floor-04",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "16x2x1"
+    }
+  },
+  {
+    "name": "Castle Thin Floor 01",
+    "id": "castle-thin-floor-01",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "6x2x1"
+    }
+  },
+  {
+    "name": "Castle Thin Floor 02",
+    "id": "castle-thin-floor-02",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "8x2x1"
+    }
+  },
+  {
+    "name": "Castle Thin Floor 03",
+    "id": "castle-thin-floor-03",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x2x1"
+    }
+  },
+  {
+    "name": "Castle Thin Floor 04",
+    "id": "castle-thin-floor-04",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "12x2x1"
+    }
+  },
+  {
+    "name": "Castle Thin Floor 05",
+    "id": "castle-thin-floor-05",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "16x2x1"
+    }
+  },
+  {
+    "name": "Slate Thin Floor 01",
+    "id": "slate-thin-floor-01",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x2x1"
+    }
+  },
+  {
+    "name": "Slate Thin Floor 02",
+    "id": "slate-thin-floor-02",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "12x2x1"
+    }
+  },
+  {
+    "name": "Slate Thin Floor 03",
+    "id": "slate-thin-floor-03",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "16x2x1"
+    }
+  },
+  {
+    "name": "Wood Thin Floor 01",
+    "id": "wood-thin-floor-01",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "6x2x1"
+    }
+  },
+  {
+    "name": "Wood Thin Floor 02",
+    "id": "wood-thin-floor-02",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "8x2x1"
+    }
+  },
+  {
+    "name": "Wood Thin Floor 03",
+    "id": "wood-thin-floor-03",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "12x2x1"
+    }
+  },
+  {
+    "name": "Wood Thin Floor 04",
+    "id": "wood-thin-floor-04",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "16x2x1"
+    }
+  },
+  {
+    "name": "Ancient Thin Floor 01",
+    "id": "ancient-thin-floor-01",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "6x2x1"
+    }
+  },
+  {
+    "name": "Ancient Thin Floor 02",
+    "id": "ancient-thin-floor-02",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "8x2x1"
+    }
+  },
+  {
+    "name": "Ancient Thin Floor 03",
+    "id": "ancient-thin-floor-03",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "12x2x1"
+    }
+  },
+  {
+    "name": "Ancient Thin Floor 04",
+    "id": "ancient-thin-floor-04",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "16x2x1"
+    }
+  },
+  {
+    "name": "Sugi Thin Floor 01",
+    "id": "sugi-thin-floor-01",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "8x2x1"
+    }
+  },
+  {
+    "name": "Sugi Thin Floor 01 Old",
+    "id": "sugi-thin-floor-01-old",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "6x2x1"
+    }
+  },
+  {
+    "name": "Sugi Thin Floor 02 Old",
+    "id": "sugi-thin-floor-02-old",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "8x2x1"
+    }
+  },
+  {
+    "name": "Sugi Thin Floor 03 Old",
+    "id": "sugi-thin-floor-03-old",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "12x2x1"
+    }
+  },
+  {
+    "name": "Sugi Thin Floor 04 Old",
+    "id": "sugi-thin-floor-04-old",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "16x2x1"
+    }
+  },
+  {
+    "name": "Tatami Thin Floor 01",
+    "id": "tatami-thin-floor-01",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "6x2x1"
+    }
+  },
+  {
+    "name": "Tatami Thin Floor 02",
+    "id": "tatami-thin-floor-02",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "16x2x1"
+    }
+  },
+  {
+    "name": "Shack Thin Floor 01",
+    "id": "shack-thin-floor-01",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "6x2x1"
+    }
+  },
+  {
+    "name": "Shack Thin Floor 02",
+    "id": "shack-thin-floor-02",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "16x2x1"
+    }
+  },
+  {
+    "name": "Rustic Floor 01",
+    "id": "rustic-floor-01",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x4x1"
+    }
+  },
+  {
+    "name": "Rustic Floor 02",
+    "id": "rustic-floor-02",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "6x4x1"
+    }
+  },
+  {
+    "name": "Rustic Floor 03",
+    "id": "rustic-floor-03",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "8x4x1"
+    }
+  },
+  {
+    "name": "Rustic Floor 04",
+    "id": "rustic-floor-04",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "8x8x1"
+    }
+  },
+  {
+    "name": "Castle Floor 01",
+    "id": "castle-floor-01",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x4x1"
+    }
+  },
+  {
+    "name": "Castle Floor 02",
+    "id": "castle-floor-02",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "6x4x1"
+    }
+  },
+  {
+    "name": "Castle Floor 03",
+    "id": "castle-floor-03",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "8x4x1"
+    }
+  },
+  {
+    "name": "Castle Floor 04",
+    "id": "castle-floor-04",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "6x6x1"
+    }
+  },
+  {
+    "name": "Castle Floor 05",
+    "id": "castle-floor-05",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "8x8x1"
+    }
+  },
+  {
+    "name": "Slate Floor 01",
+    "id": "slate-floor-01",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "8x4x1"
+    }
+  },
+  {
+    "name": "Slate Floor 02",
+    "id": "slate-floor-02",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "8x8x1"
+    }
+  },
+  {
+    "name": "Wood Floor 01",
+    "id": "wood-floor-01",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x4x1"
+    }
+  },
+  {
+    "name": "Wood Floor 02",
+    "id": "wood-floor-02",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "8x4x1"
+    }
+  },
+  {
+    "name": "Wood Floor 03",
+    "id": "wood-floor-03",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "8x8x1"
+    }
+  },
+  {
+    "name": "Ancient Floor 01",
+    "id": "ancient-floor-01",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x4x1"
+    }
+  },
+  {
+    "name": "Ancient Floor 02",
+    "id": "ancient-floor-02",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "8x4x1"
+    }
+  },
+  {
+    "name": "Ancient Floor 03",
+    "id": "ancient-floor-03",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "8x8x1"
+    }
+  },
+  {
+    "name": "Sugi Floor",
+    "id": "sugi-floor",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "8x8x1"
+    }
+  },
+  {
+    "name": "Sugi Floor 01 Old",
+    "id": "sugi-floor-01-old",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x4x1"
+    }
+  },
+  {
+    "name": "Sugi Floor 02 Old",
+    "id": "sugi-floor-02-old",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "8x8x1"
+    }
+  },
+  {
+    "name": "Tatami Floor 01",
+    "id": "tatami-floor-01",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x4x1"
+    }
+  },
+  {
+    "name": "Tatami Floor 02",
+    "id": "tatami-floor-02",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "8x4x1"
+    }
+  },
+  {
+    "name": "Tatami Floor 03",
+    "id": "tatami-floor-03",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "8x8x1"
+    }
+  },
+  {
+    "name": "Tatami Floor 04",
+    "id": "tatami-floor-04",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "16x8x1"
+    }
+  },
+  {
+    "name": "Shack Floor",
+    "id": "shack-floor",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x4x1"
+    }
+  },
+  {
+    "name": "Rustic Wide Floor 01",
+    "id": "rustic-wide-floor-01",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "12x12x1"
+    }
+  },
+  {
+    "name": "Rustic Wide Floor 02",
+    "id": "rustic-wide-floor-02",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "16x16x1"
+    }
+  },
+  {
+    "name": "Castle Wide Floor 01",
+    "id": "castle-wide-floor-01",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "12x12x1"
+    }
+  },
+  {
+    "name": "Castle Wide Floor 02",
+    "id": "castle-wide-floor-02",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "16x16x1"
+    }
+  },
+  {
+    "name": "Pattern Wide Floor 01",
+    "id": "pattern-wide-floor-01",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "12x12x1"
+    }
+  },
+  {
+    "name": "Pattern Wide Floor 02",
+    "id": "pattern-wide-floor-02",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "16x16x1"
+    }
+  },
+  {
+    "name": "Pattern Wide Floor 02 Extra",
+    "id": "pattern-wide-floor-02-extra",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "16x16x1"
+    }
+  },
+  {
+    "name": "Wood Wide Floor 01",
+    "id": "wood-wide-floor-01",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "12x12x1"
+    }
+  },
+  {
+    "name": "Wood Wide Floor 02",
+    "id": "wood-wide-floor-02",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "16x16x1"
+    }
+  },
+  {
+    "name": "Ancient Wide Floor 01",
+    "id": "ancient-wide-floor-01",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "12x12x1"
+    }
+  },
+  {
+    "name": "Ancient Wide Floor 02",
+    "id": "ancient-wide-floor-02",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "16x16x1"
+    }
+  },
+  {
+    "name": "Sugi Wide Floor",
+    "id": "sugi-wide-floor",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "16x16x1"
+    }
+  },
+  {
+    "name": "Tatami Wide Floor 01",
+    "id": "tatami-wide-floor-01",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "12x12x1"
+    }
+  },
+  {
+    "name": "Tatami Wide Floor 02",
+    "id": "tatami-wide-floor-02",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "16x16x1"
+    }
+  },
+  {
+    "name": "Shack Wide Floor",
+    "id": "shack-wide-floor",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "16x16x1"
+    }
+  },
+  {
+    "name": "Beam Wall",
+    "id": "beam-wall",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Fort Wall 01",
+    "id": "fort-wall-01",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x12"
+    }
+  },
+  {
+    "name": "Fort Wall 02",
+    "id": "fort-wall-02",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x4x12"
+    }
+  },
+  {
+    "name": "Fort Wall 03",
+    "id": "fort-wall-03",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x12"
+    }
+  },
+  {
+    "name": "Fort Wall 04",
+    "id": "fort-wall-04",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Log Corner",
+    "id": "log-corner",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x12"
+    }
+  },
+  {
+    "name": "Log Wall 01",
+    "id": "log-wall-01",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x12"
+    }
+  },
+  {
+    "name": "Log Wall 02",
+    "id": "log-wall-02",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x4x12"
+    }
+  },
+  {
+    "name": "Log Wall 03",
+    "id": "log-wall-03",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x6x12"
+    }
+  },
+  {
+    "name": "Log Wall 04",
+    "id": "log-wall-04",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x12"
+    }
+  },
+  {
+    "name": "Log Wall 05",
+    "id": "log-wall-05",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Umber Wall",
+    "id": "umber-wall",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x12"
+    }
+  },
+  {
+    "name": "Carved Wall",
+    "id": "carved-wall",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x4x12"
+    }
+  },
+  {
+    "name": "Castle Wall 01",
+    "id": "castle-wall-01",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x12"
+    }
+  },
+  {
+    "name": "Castle Wall 02",
+    "id": "castle-wall-02",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x4x12"
+    }
+  },
+  {
+    "name": "Castle Wall 03",
+    "id": "castle-wall-03",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x6x12"
+    }
+  },
+  {
+    "name": "Castle Wall 04",
+    "id": "castle-wall-04",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x12"
+    }
+  },
+  {
+    "name": "Castle Wall 05",
+    "id": "castle-wall-05",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x12"
+    }
+  },
+  {
+    "name": "Castle Wall 05 Arch 01",
+    "id": "castle-wall-05-arch-01",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x12"
+    }
+  },
+  {
+    "name": "Castle Wall 05 Arch 02",
+    "id": "castle-wall-05-arch-02",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x12"
+    }
+  },
+  {
+    "name": "Castle Wall 05 Framed 01",
+    "id": "castle-wall-05-framed-01",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x12"
+    }
+  },
+  {
+    "name": "Castle Wall 05 Framed 02",
+    "id": "castle-wall-05-framed-02",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x12"
+    }
+  },
+  {
+    "name": "Castle Wall 05 Smooth",
+    "id": "castle-wall-05-smooth",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x12"
+    }
+  },
+  {
+    "name": "Castle Wall 06",
+    "id": "castle-wall-06",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Brick Corner",
+    "id": "brick-corner",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x12"
+    }
+  },
+  {
+    "name": "Brick Corner Extra",
+    "id": "brick-corner-extra",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x12"
+    }
+  },
+  {
+    "name": "Brick Wall 01",
+    "id": "brick-wall-01",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x12"
+    }
+  },
+  {
+    "name": "Brick Wall 02",
+    "id": "brick-wall-02",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x4x12"
+    }
+  },
+  {
+    "name": "Brick Wall 03",
+    "id": "brick-wall-03",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x12"
+    }
+  },
+  {
+    "name": "Brick Wall 04",
+    "id": "brick-wall-04",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x12"
+    }
+  },
+  {
+    "name": "Brick Wall 05",
+    "id": "brick-wall-05",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "White Wall 01",
+    "id": "white-wall-01",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x12"
+    }
+  },
+  {
+    "name": "White Wall 02",
+    "id": "white-wall-02",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x12"
+    }
+  },
+  {
+    "name": "Yellow Corner",
+    "id": "yellow-corner",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x12"
+    }
+  },
+  {
+    "name": "Yellow Wall 01",
+    "id": "yellow-wall-01",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x12"
+    }
+  },
+  {
+    "name": "Yellow Wall 02",
+    "id": "yellow-wall-02",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x4x12"
+    }
+  },
+  {
+    "name": "Yellow Wall 03",
+    "id": "yellow-wall-03",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x12"
+    }
+  },
+  {
+    "name": "Yellow Wall 04",
+    "id": "yellow-wall-04",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x12"
+    }
+  },
+  {
+    "name": "Yellow Wall 05",
+    "id": "yellow-wall-05",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Ancient Corner 01",
+    "id": "ancient-corner-01",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x12"
+    }
+  },
+  {
+    "name": "Ancient Corner 02 Thin",
+    "id": "ancient-corner-02-thin",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x10x12"
+    }
+  },
+  {
+    "name": "Ancient Corner 02 Wide",
+    "id": "ancient-corner-02-wide",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x10x12"
+    }
+  },
+  {
+    "name": "Ancient Slanted Wall 01",
+    "id": "ancient-slanted-wall-01",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x2x12"
+    }
+  },
+  {
+    "name": "Ancient Slanted Wall 02",
+    "id": "ancient-slanted-wall-02",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x4x12"
+    }
+  },
+  {
+    "name": "Ancient Slanted Wall 03",
+    "id": "ancient-slanted-wall-03",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x6x12"
+    }
+  },
+  {
+    "name": "Ancient Slanted Wall 04",
+    "id": "ancient-slanted-wall-04",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x8x12"
+    }
+  },
+  {
+    "name": "Ancient Slanted Wall 05",
+    "id": "ancient-slanted-wall-05",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x12x12"
+    }
+  },
+  {
+    "name": "Ancient Slanted Wall 06",
+    "id": "ancient-slanted-wall-06",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x16x12"
+    }
+  },
+  {
+    "name": "Ancient Wall Trim",
+    "id": "ancient-wall-trim",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x18"
+    }
+  },
+  {
+    "name": "Gate Wall 01",
+    "id": "gate-wall-01",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "6x2x10"
+    }
+  },
+  {
+    "name": "Gate Wall 02",
+    "id": "gate-wall-02",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "6x16x10"
+    }
+  },
+  {
+    "name": "Palatial Corner",
+    "id": "palatial-corner",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "3x3x12"
+    }
+  },
+  {
+    "name": "Palatial Corner Accent",
+    "id": "palatial-corner-accent",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "3x3x12"
+    }
+  },
+  {
+    "name": "Shoji Wall 01",
+    "id": "shoji-wall-01",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "3x4x12"
+    }
+  },
+  {
+    "name": "Shoji Wall 02",
+    "id": "shoji-wall-02",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "3x8x12"
+    }
+  },
+  {
+    "name": "Shoji Wall 02 Inverted",
+    "id": "shoji-wall-02-inverted",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "3x8x12"
+    }
+  },
+  {
+    "name": "Shoji Wall 02 Yellow Trim",
+    "id": "shoji-wall-02-yellow-trim",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "3x8x12"
+    }
+  },
+  {
+    "name": "Shoji Wall 03",
+    "id": "shoji-wall-03",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "3x12x12"
+    }
+  },
+  {
+    "name": "Shoji Wall 03 Yellow Trim",
+    "id": "shoji-wall-03-yellow-trim",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "3x12x12"
+    }
+  },
+  {
+    "name": "Shoji Wall 04",
+    "id": "shoji-wall-04",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "3x16x12"
+    }
+  },
+  {
+    "name": "Shoji Wall 04 Yellow Trim",
+    "id": "shoji-wall-04-yellow-trim",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "3x16x12"
+    }
+  },
+  {
+    "name": "Shack Wall 01",
+    "id": "shack-wall-01",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x12"
+    }
+  },
+  {
+    "name": "Shack Wall 02",
+    "id": "shack-wall-02",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x4x12"
+    }
+  },
+  {
+    "name": "Shack Wall 03",
+    "id": "shack-wall-03",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x12"
+    }
+  },
+  {
+    "name": "Shack Wall 04",
+    "id": "shack-wall-04",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Shack Wall 04 Open",
+    "id": "shack-wall-04-open",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Rustic Interior Door 01",
+    "id": "rustic-interior-door-01",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x12"
+    }
+  },
+  {
+    "name": "Rustic Interior Door 02",
+    "id": "rustic-interior-door-02",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Rustic Interior Wall 01",
+    "id": "rustic-interior-wall-01",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x12"
+    }
+  },
+  {
+    "name": "Rustic Interior Wall 02",
+    "id": "rustic-interior-wall-02",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x4x12"
+    }
+  },
+  {
+    "name": "Rustic Interior Wall 03",
+    "id": "rustic-interior-wall-03",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x12"
+    }
+  },
+  {
+    "name": "Rustic Interior Wall 04",
+    "id": "rustic-interior-wall-04",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x12"
+    }
+  },
+  {
+    "name": "Rustic Interior Wall 05",
+    "id": "rustic-interior-wall-05",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Castle Interior Arch 01",
+    "id": "castle-interior-arch-01",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x12"
+    }
+  },
+  {
+    "name": "Castle Interior Arch 02",
+    "id": "castle-interior-arch-02",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x12"
+    }
+  },
+  {
+    "name": "Castle Interior Arch 03",
+    "id": "castle-interior-arch-03",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Castle Interior Wall 01",
+    "id": "castle-interior-wall-01",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x12"
+    }
+  },
+  {
+    "name": "Castle Interior Wall 02",
+    "id": "castle-interior-wall-02",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x4x12"
+    }
+  },
+  {
+    "name": "Castle Interior Wall 03",
+    "id": "castle-interior-wall-03",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x6x12"
+    }
+  },
+  {
+    "name": "Castle Interior Wall 04",
+    "id": "castle-interior-wall-04",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x12"
+    }
+  },
+  {
+    "name": "Castle Interior Wall 05",
+    "id": "castle-interior-wall-05",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Pleasant Interior Door 01",
+    "id": "pleasant-interior-door-01",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x12"
+    }
+  },
+  {
+    "name": "Pleasant Interior Door 02",
+    "id": "pleasant-interior-door-02",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Pleasant Interior Door 02 Wide",
+    "id": "pleasant-interior-door-02-wide",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Pleasant Interior Wall 01",
+    "id": "pleasant-interior-wall-01",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x12"
+    }
+  },
+  {
+    "name": "Pleasant Interior Wall 02",
+    "id": "pleasant-interior-wall-02",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x4x12"
+    }
+  },
+  {
+    "name": "Pleasant Interior Wall 03",
+    "id": "pleasant-interior-wall-03",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x12"
+    }
+  },
+  {
+    "name": "Pleasant Interior Wall 04",
+    "id": "pleasant-interior-wall-04",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Ancient Interior Wall 01",
+    "id": "ancient-interior-wall-01",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x4x12"
+    }
+  },
+  {
+    "name": "Ancient Interior Wall 02",
+    "id": "ancient-interior-wall-02",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x6x12"
+    }
+  },
+  {
+    "name": "Ancient Interior Wall 03",
+    "id": "ancient-interior-wall-03",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x12"
+    }
+  },
+  {
+    "name": "Ancient Interior Wall 04",
+    "id": "ancient-interior-wall-04",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x12"
+    }
+  },
+  {
+    "name": "Ancient Interior Wall 05",
+    "id": "ancient-interior-wall-05",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Panel Interior Door",
+    "id": "panel-interior-door",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x8x12"
+    }
+  },
+  {
+    "name": "Panel Interior Wall 01",
+    "id": "panel-interior-wall-01",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x4x12"
+    }
+  },
+  {
+    "name": "Panel Interior Wall 02",
+    "id": "panel-interior-wall-02",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x8x12"
+    }
+  },
+  {
+    "name": "Panel Interior Wall 02 Brown",
+    "id": "panel-interior-wall-02-brown",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x8x12"
+    }
+  },
+  {
+    "name": "Log Window 01",
+    "id": "log-window-01",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x12"
+    }
+  },
+  {
+    "name": "Log Window 02",
+    "id": "log-window-02",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x12"
+    }
+  },
+  {
+    "name": "Log Window 03",
+    "id": "log-window-03",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Log Window 04",
+    "id": "log-window-04",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Castle Window 01 Arrowslit",
+    "id": "castle-window-01-arrowslit",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x12"
+    }
+  },
+  {
+    "name": "Castle Window 01 Large",
+    "id": "castle-window-01-large",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x12"
+    }
+  },
+  {
+    "name": "Castle Window 01 Medium",
+    "id": "castle-window-01-medium",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x12"
+    }
+  },
+  {
+    "name": "Castle Window 01 Tiny",
+    "id": "castle-window-01-tiny",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x12"
+    }
+  },
+  {
+    "name": "Castle Window 02 Arrowslit",
+    "id": "castle-window-02-arrowslit",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x12"
+    }
+  },
+  {
+    "name": "Castle Window 02 Large",
+    "id": "castle-window-02-large",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x12"
+    }
+  },
+  {
+    "name": "Castle Window 03 Arrowslit",
+    "id": "castle-window-03-arrowslit",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Castle Window 03 Elaborate",
+    "id": "castle-window-03-elaborate",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Castle Window 03 Large",
+    "id": "castle-window-03-large",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Castle Window 03 Medium",
+    "id": "castle-window-03-medium",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Castle Window 03 More Elaborate",
+    "id": "castle-window-03-more-elaborate",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Castle Window 03 Tiny",
+    "id": "castle-window-03-tiny",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Brick Window",
+    "id": "brick-window",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Brick Windows",
+    "id": "brick-windows",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Brick Windows Shutters",
+    "id": "brick-windows-shutters",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Yellow Window 01",
+    "id": "yellow-window-01",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x12"
+    }
+  },
+  {
+    "name": "Yellow Window 02 Shutters",
+    "id": "yellow-window-02-shutters",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Yellow Window 02",
+    "id": "yellow-window-02",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Yellow Window Bay",
+    "id": "yellow-window-bay",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Shoji Ornate Window 01",
+    "id": "shoji-ornate-window-01",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "3x12x12"
+    }
+  },
+  {
+    "name": "Shoji Ornate Window 02",
+    "id": "shoji-ornate-window-02",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "3x16x12"
+    }
+  },
+  {
+    "name": "Shoji Window 01",
+    "id": "shoji-window-01",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "3x8x12"
+    }
+  },
+  {
+    "name": "Shoji Window 02",
+    "id": "shoji-window-02",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "3x12x12"
+    }
+  },
+  {
+    "name": "Shoji Window 03",
+    "id": "shoji-window-03",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "3x16x12"
+    }
+  },
+  {
+    "name": "Shack Window",
+    "id": "shack-window",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Fort Door",
+    "id": "fort-door",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Log Door 01",
+    "id": "log-door-01",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x12"
+    }
+  },
+  {
+    "name": "Log Door 02",
+    "id": "log-door-02",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x12"
+    }
+  },
+  {
+    "name": "Log Door 03",
+    "id": "log-door-03",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Open Door",
+    "id": "open-door",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Castle Door 01",
+    "id": "castle-door-01",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x12"
+    }
+  },
+  {
+    "name": "Castle Door 02",
+    "id": "castle-door-02",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x12"
+    }
+  },
+  {
+    "name": "Castle Door 02 Framed",
+    "id": "castle-door-02-framed",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x12"
+    }
+  },
+  {
+    "name": "Castle Door 03",
+    "id": "castle-door-03",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Castle Double Doors 01",
+    "id": "castle-double-doors-01",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x12"
+    }
+  },
+  {
+    "name": "Castle Double Doors 02",
+    "id": "castle-double-doors-02",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Brick Door",
+    "id": "brick-door",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Brick Door Mantle",
+    "id": "brick-door-mantle",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Garage Door",
+    "id": "garage-door",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Yellow Door",
+    "id": "yellow-door",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Ancient Door 01",
+    "id": "ancient-door-01",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x16x12"
+    }
+  },
+  {
+    "name": "Ancient Door 02",
+    "id": "ancient-door-02",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x16x12"
+    }
+  },
+  {
+    "name": "Palatial Door 01",
+    "id": "palatial-door-01",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "3x12x12"
+    }
+  },
+  {
+    "name": "Palatial Door 01 Accent",
+    "id": "palatial-door-01-accent",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "3x12x12"
+    }
+  },
+  {
+    "name": "Palatial Door 02",
+    "id": "palatial-door-02",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x16x18"
+    }
+  },
+  {
+    "name": "Shack Door",
+    "id": "shack-door",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Shack Door Frame",
+    "id": "shack-door-frame",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Log Half Corner",
+    "id": "log-half-corner",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x6"
+    }
+  },
+  {
+    "name": "Log Half Wall 01",
+    "id": "log-half-wall-01",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x6"
+    }
+  },
+  {
+    "name": "Log Half Wall 02",
+    "id": "log-half-wall-02",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x6"
+    }
+  },
+  {
+    "name": "Log Half Wall 03",
+    "id": "log-half-wall-03",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x6"
+    }
+  },
+  {
+    "name": "Rustic Interior Half Wall 01",
+    "id": "rustic-interior-half-wall-01",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x6"
+    }
+  },
+  {
+    "name": "Rustic Interior Half Wall 02",
+    "id": "rustic-interior-half-wall-02",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x4x6"
+    }
+  },
+  {
+    "name": "Rustic Interior Half Wall 03",
+    "id": "rustic-interior-half-wall-03",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x6"
+    }
+  },
+  {
+    "name": "Umber Half Wall",
+    "id": "umber-half-wall",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x6"
+    }
+  },
+  {
+    "name": "Castle Corbel 01",
+    "id": "castle-corbel-01",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x8x6"
+    }
+  },
+  {
+    "name": "Castle Corbel 02",
+    "id": "castle-corbel-02",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x16x6"
+    }
+  },
+  {
+    "name": "Castle Corbel Corner",
+    "id": "castle-corbel-corner",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x4x6"
+    }
+  },
+  {
+    "name": "Castle Half Wall 01",
+    "id": "castle-half-wall-01",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x6"
+    }
+  },
+  {
+    "name": "Castle Half Wall 02",
+    "id": "castle-half-wall-02",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x4x6"
+    }
+  },
+  {
+    "name": "Castle Half Wall 03",
+    "id": "castle-half-wall-03",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x6x6"
+    }
+  },
+  {
+    "name": "Castle Half Wall 04",
+    "id": "castle-half-wall-04",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x6"
+    }
+  },
+  {
+    "name": "Castle Half Wall 04 Framed",
+    "id": "castle-half-wall-04-framed",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x6"
+    }
+  },
+  {
+    "name": "Castle Half Wall 05",
+    "id": "castle-half-wall-05",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x6"
+    }
+  },
+  {
+    "name": "Castle Half Wall 05 Framed",
+    "id": "castle-half-wall-05-framed",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x6"
+    }
+  },
+  {
+    "name": "Castle Half Wall 06",
+    "id": "castle-half-wall-06",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x6"
+    }
+  },
+  {
+    "name": "Castle Half Wall 06 Framed",
+    "id": "castle-half-wall-06-framed",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x6"
+    }
+  },
+  {
+    "name": "Slanted Castle Half Wall",
+    "id": "slanted-castle-half-wall",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x10x6"
+    }
+  },
+  {
+    "name": "Brick Half Wall 01",
+    "id": "brick-half-wall-01",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x6"
+    }
+  },
+  {
+    "name": "Brick Half Wall 02",
+    "id": "brick-half-wall-02",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x6"
+    }
+  },
+  {
+    "name": "Brick Half Wall 03",
+    "id": "brick-half-wall-03",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x6"
+    }
+  },
+  {
+    "name": "Yellow Half Wall 01",
+    "id": "yellow-half-wall-01",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x6"
+    }
+  },
+  {
+    "name": "Yellow Half Wall 02",
+    "id": "yellow-half-wall-02",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x6"
+    }
+  },
+  {
+    "name": "Yellow Half Wall 03",
+    "id": "yellow-half-wall-03",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x6"
+    }
+  },
+  {
+    "name": "Panel Half Wall",
+    "id": "panel-half-wall",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x8x4"
+    }
+  },
+  {
+    "name": "Shack Corner",
+    "id": "shack-corner",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x6"
+    }
+  },
+  {
+    "name": "Shack Half Wall 01",
+    "id": "shack-half-wall-01",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x6"
+    }
+  },
+  {
+    "name": "Shack Half Wall 02",
+    "id": "shack-half-wall-02",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x6"
+    }
+  },
+  {
+    "name": "Castle Arch 01",
+    "id": "castle-arch-01",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x12"
+    }
+  },
+  {
+    "name": "Castle Arch 02",
+    "id": "castle-arch-02",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x12"
+    }
+  },
+  {
+    "name": "Pavilion Arch 01",
+    "id": "pavilion-arch-01",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x12"
+    }
+  },
+  {
+    "name": "Pavilion Arch 02",
+    "id": "pavilion-arch-02",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x12"
+    }
+  },
+  {
+    "name": "Shack Arch 01",
+    "id": "shack-arch-01",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x24"
+    }
+  },
+  {
+    "name": "Shack Arch 02",
+    "id": "shack-arch-02",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x24"
+    }
+  },
+  {
+    "name": "Rustic Stairs 01",
+    "id": "rustic-stairs-01",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "18x8x12"
+    }
+  },
+  {
+    "name": "Rustic Stairs 02",
+    "id": "rustic-stairs-02",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "18x8x12"
+    }
+  },
+  {
+    "name": "Castle Stairs 01",
+    "id": "castle-stairs-01",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x8x6"
+    }
+  },
+  {
+    "name": "Castle Stairs 02",
+    "id": "castle-stairs-02",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x8x6"
+    }
+  },
+  {
+    "name": "Castle Stairs Landing",
+    "id": "castle-stairs-landing",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "16x8x6"
+    }
+  },
+  {
+    "name": "Medieval Stairs 01",
+    "id": "medieval-stairs-01",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x8x6"
+    }
+  },
+  {
+    "name": "Medieval Stairs 02",
+    "id": "medieval-stairs-02",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "18x8x12"
+    }
+  },
+  {
+    "name": "Medieval Stairs Landing",
+    "id": "medieval-stairs-landing",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "16x8x6"
+    }
+  },
+  {
+    "name": "Pleasant Stairs Landing",
+    "id": "pleasant-stairs-landing",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "16x8x6"
+    }
+  },
+  {
+    "name": "Vehicle Stair",
+    "id": "vehicle-stair",
+    "flavour-text": "Rugged Rollers",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "12x8x6"
+    }
+  },
+  {
+    "name": "Ancient Stairs",
+    "id": "ancient-stairs",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "18x8x12"
+    }
+  },
+  {
+    "name": "Sugi Stairs 01",
+    "id": "sugi-stairs-01",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x8x6"
+    }
+  },
+  {
+    "name": "Sugi Stairs 02",
+    "id": "sugi-stairs-02",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "16x8x6"
+    }
+  },
+  {
+    "name": "Sugi Stairs 03",
+    "id": "sugi-stairs-03",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "18x8x12"
+    }
+  },
+  {
+    "name": "Rustic Railing 01",
+    "id": "rustic-railing-01",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "18x1x14"
+    }
+  },
+  {
+    "name": "Rustic Railing 02",
+    "id": "rustic-railing-02",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "18x1x14"
+    }
+  },
+  {
+    "name": "Castle Railing",
+    "id": "castle-railing",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x1x6"
+    }
+  },
+  {
+    "name": "Medieval Railing 01",
+    "id": "medieval-railing-01",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x1x6"
+    }
+  },
+  {
+    "name": "Medieval Railing 02",
+    "id": "medieval-railing-02",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "18x1x12"
+    }
+  },
+  {
+    "name": "Pleasant Railing",
+    "id": "pleasant-railing",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "9x1x10"
+    }
+  },
+  {
+    "name": "Vehicle Stair Rail",
+    "id": "vehicle-stair-rail",
+    "flavour-text": "Rugged Rollers",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "9x1x8"
+    }
+  },
+  {
+    "name": "Ancient Post",
+    "id": "ancient-post",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x16"
+    }
+  },
+  {
+    "name": "Ancient Railing",
+    "id": "ancient-railing",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "18x2x13"
+    }
+  },
+  {
+    "name": "Castle Fence 01",
+    "id": "castle-fence-01",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x7"
+    }
+  },
+  {
+    "name": "Castle Fence 02",
+    "id": "castle-fence-02",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x7"
+    }
+  },
+  {
+    "name": "Castle Fence Corner",
+    "id": "castle-fence-corner",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "3x3x12"
+    }
+  },
+  {
+    "name": "Castle Fence End 01",
+    "id": "castle-fence-end-01",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x2x12"
+    }
+  },
+  {
+    "name": "Castle Fence End 02",
+    "id": "castle-fence-end-02",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x4x12"
+    }
+  },
+  {
+    "name": "Castle Gate",
+    "id": "castle-gate",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x7"
+    }
+  },
+  {
+    "name": "Plank Railing 01",
+    "id": "plank-railing-01",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x6x6"
+    }
+  },
+  {
+    "name": "Plank Railing 02",
+    "id": "plank-railing-02",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x8x6"
+    }
+  },
+  {
+    "name": "Plank Railing 03",
+    "id": "plank-railing-03",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x16x6"
+    }
+  },
+  {
+    "name": "Rustic Railing 01",
+    "id": "rustic-stair-railing-01",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x8x2"
+    }
+  },
+  {
+    "name": "Rustic Railing 02",
+    "id": "rustic-stair-railing-02",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x12x2"
+    }
+  },
+  {
+    "name": "Rustic Railing 03",
+    "id": "rustic-railing-03",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x16x2"
+    }
+  },
+  {
+    "name": "Rustic Railing Corner",
+    "id": "rustic-railing-corner",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x6"
+    }
+  },
+  {
+    "name": "Castle Railing 01",
+    "id": "castle-railing-01",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x6x3"
+    }
+  },
+  {
+    "name": "Castle Railing 02",
+    "id": "castle-railing-02",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x8x3"
+    }
+  },
+  {
+    "name": "Castle Railing 03",
+    "id": "castle-railing-03",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x10x3"
+    }
+  },
+  {
+    "name": "Castle Railing 04",
+    "id": "castle-railing-04",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x12x3"
+    }
+  },
+  {
+    "name": "Castle Railing Corner",
+    "id": "castle-railing-corner",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x4x3"
+    }
+  },
+  {
+    "name": "Medieval Stair Railing 01",
+    "id": "medieval-stair-railing-01",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x2x3"
+    }
+  },
+  {
+    "name": "Medieval Stair Railing 02",
+    "id": "medieval-stair-railing-02",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x4x3"
+    }
+  },
+  {
+    "name": "Medieval Railing 03",
+    "id": "medieval-railing-03",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x6x3"
+    }
+  },
+  {
+    "name": "Medieval Railing 03 Solid",
+    "id": "medieval-railing-03-solid",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x6x3"
+    }
+  },
+  {
+    "name": "Medieval Railing 04",
+    "id": "medieval-railing-04",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x8x3"
+    }
+  },
+  {
+    "name": "Medieval Railing 05",
+    "id": "medieval-railing-05",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x12x3"
+    }
+  },
+  {
+    "name": "Medieval Railing 06",
+    "id": "medieval-railing-06",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x16x3"
+    }
+  },
+  {
+    "name": "Medieval Railing Corner 01",
+    "id": "medieval-railing-corner-01",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x1x3"
+    }
+  },
+  {
+    "name": "Medieval Railing Corner 02",
+    "id": "medieval-railing-corner-02",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x4x3"
+    }
+  },
+  {
+    "name": "Elegant Railing",
+    "id": "elegant-railing",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x8x3"
+    }
+  },
+  {
+    "name": "Pleasant Railing 01",
+    "id": "pleasant-railing-01",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x8x2"
+    }
+  },
+  {
+    "name": "Pleasant Railing 02",
+    "id": "pleasant-railing-02",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x12x2"
+    }
+  },
+  {
+    "name": "Adorned Corner",
+    "id": "adorned-corner",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x4x2"
+    }
+  },
+  {
+    "name": "Adorned Railing 01",
+    "id": "adorned-railing-01",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x12x2"
+    }
+  },
+  {
+    "name": "Adorned Railing 02",
+    "id": "adorned-railing-02",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x16x2"
+    }
+  },
+  {
+    "name": "Palatial Corner",
+    "id": "palatial-half-corner",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x4"
+    }
+  },
+  {
+    "name": "Palatial Railing 01",
+    "id": "palatial-railing-01",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x6x3"
+    }
+  },
+  {
+    "name": "Palatial Railing 02",
+    "id": "palatial-railing-02",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x8x3"
+    }
+  },
+  {
+    "name": "Palatial Railing 03",
+    "id": "palatial-railing-03",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x12x3"
+    }
+  },
+  {
+    "name": "Palatial Railing 04",
+    "id": "palatial-railing-04",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "1x16x3"
+    }
+  },
+  {
+    "name": "Beam Pillar",
+    "id": "beam-pillar",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x10x12"
+    }
+  },
+  {
+    "name": "Log Pillar 01",
+    "id": "log-pillar-01",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x6"
+    }
+  },
+  {
+    "name": "Log Pillar 02",
+    "id": "log-pillar-02",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x12"
+    }
+  },
+  {
+    "name": "Log Pillar 02 Round",
+    "id": "log-pillar-02-round",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x12"
+    }
+  },
+  {
+    "name": "Rustic Pillar",
+    "id": "rustic-pillar",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x12"
+    }
+  },
+  {
+    "name": "Support Corner 01",
+    "id": "support-corner-01",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x6x12"
+    }
+  },
+  {
+    "name": "Support Corner 02",
+    "id": "support-corner-02",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x10x12"
+    }
+  },
+  {
+    "name": "White Pillar",
+    "id": "white-pillar",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x12"
+    }
+  },
+  {
+    "name": "Palatial Pillar 01",
+    "id": "palatial-pillar-01",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "3x3x12"
+    }
+  },
+  {
+    "name": "Palatial Pillar 02 Left",
+    "id": "palatial-pillar-02-left",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x18"
+    }
+  },
+  {
+    "name": "Palatial Pillar 02 Right",
+    "id": "palatial-pillar-02-right",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x18"
+    }
+  },
+  {
+    "name": "Pavilion Pillar Left",
+    "id": "pavilion-pillar-left",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x10x12"
+    }
+  },
+  {
+    "name": "Pavilion Pillar Right",
+    "id": "pavilion-pillar-right",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x10x12"
+    }
+  },
+  {
+    "name": "Shack Pillar 01",
+    "id": "shack-pillar-01",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "8x8x12"
+    }
+  },
+  {
+    "name": "Shack Pillar 02",
+    "id": "shack-pillar-02",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x24"
+    }
+  },
+  {
+    "name": "Rustic Beam 01",
+    "id": "rustic-beam-01",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x6x2"
+    }
+  },
+  {
+    "name": "Rustic Beam 02",
+    "id": "rustic-beam-02",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x2"
+    }
+  },
+  {
+    "name": "Rustic Beam 03",
+    "id": "rustic-beam-03",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x2"
+    }
+  },
+  {
+    "name": "Rustic Beam 04",
+    "id": "rustic-beam-04",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x2"
+    }
+  },
+  {
+    "name": "Palatial Support Beam 01",
+    "id": "palatial-support-beam-01",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x2"
+    }
+  },
+  {
+    "name": "Palatial Support Beam 01 Ornate",
+    "id": "palatial-support-beam-01-ornate",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x2"
+    }
+  },
+  {
+    "name": "Palatial Support Beam 02",
+    "id": "palatial-support-beam-02",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x2"
+    }
+  },
+  {
+    "name": "Palatial Support Beam 03",
+    "id": "palatial-support-beam-03",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x2"
+    }
+  },
+  {
+    "name": "Rustic Roof 01",
+    "id": "rustic-roof-01",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x4x6"
+    }
+  },
+  {
+    "name": "Rustic Roof 02",
+    "id": "rustic-roof-02",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x6x6"
+    }
+  },
+  {
+    "name": "Rustic Roof 03",
+    "id": "rustic-roof-03",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x8x6"
+    }
+  },
+  {
+    "name": "Rustic Roof 04",
+    "id": "rustic-roof-04",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x12x6"
+    }
+  },
+  {
+    "name": "Rustic Roof 05",
+    "id": "rustic-roof-05",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x16x6"
+    }
+  },
+  {
+    "name": "Medieval Roof 01",
+    "id": "medieval-roof-01",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x4x6"
+    }
+  },
+  {
+    "name": "Medieval Roof 02",
+    "id": "medieval-roof-02",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x6x6"
+    }
+  },
+  {
+    "name": "Medieval Roof 03",
+    "id": "medieval-roof-03",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x8x6"
+    }
+  },
+  {
+    "name": "Medieval Roof 04",
+    "id": "medieval-roof-04",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x12x6"
+    }
+  },
+  {
+    "name": "Medieval Roof 05",
+    "id": "medieval-roof-05",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x16x6"
+    }
+  },
+  {
+    "name": "Medieval Roof 05 Gable",
+    "id": "medieval-roof-05-gable",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x16x6"
+    }
+  },
+  {
+    "name": "Pleasant Roof 01",
+    "id": "pleasant-roof-01",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x4x6"
+    }
+  },
+  {
+    "name": "Pleasant Roof 02",
+    "id": "pleasant-roof-02",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x6x6"
+    }
+  },
+  {
+    "name": "Pleasant Roof 03",
+    "id": "pleasant-roof-03",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x8x6"
+    }
+  },
+  {
+    "name": "Pleasant Roof 04",
+    "id": "pleasant-roof-04",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x12x6"
+    }
+  },
+  {
+    "name": "Pleasant Roof 05",
+    "id": "pleasant-roof-05",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x16x6"
+    }
+  },
+  {
+    "name": "Pleasant Roof 05 Gable",
+    "id": "pleasant-roof-05-gable",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x16x6"
+    }
+  },
+  {
+    "name": "Kawara Roof 01",
+    "id": "kawara-roof-01",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x4x6"
+    }
+  },
+  {
+    "name": "Kawara Roof 01 Support",
+    "id": "kawara-roof-01-support",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x4x6"
+    }
+  },
+  {
+    "name": "Kawara Roof 02",
+    "id": "kawara-roof-02",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x6x6"
+    }
+  },
+  {
+    "name": "Kawara Roof 03",
+    "id": "kawara-roof-03",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x8x6"
+    }
+  },
+  {
+    "name": "Kawara Roof 03 Support",
+    "id": "kawara-roof-03-support",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x8x6"
+    }
+  },
+  {
+    "name": "Kawara Roof 04 Ornate",
+    "id": "kawara-roof-04-ornate",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x12x6"
+    }
+  },
+  {
+    "name": "Kawara Roof 04 Support",
+    "id": "kawara-roof-04-support",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x12x6"
+    }
+  },
+  {
+    "name": "Kawara Roof 05",
+    "id": "kawara-roof-05",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x16x6"
+    }
+  },
+  {
+    "name": "Kawara Roof 05 Support",
+    "id": "kawara-roof-05-support",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x16x6"
+    }
+  },
+  {
+    "name": "Kawara Roof 06",
+    "id": "kawara-roof-06",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "12x12x12"
+    }
+  },
+  {
+    "name": "Shack Roof 01",
+    "id": "shack-roof-01",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "18x4x6"
+    }
+  },
+  {
+    "name": "Shack Roof 02",
+    "id": "shack-roof-02",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "18x8x6"
+    }
+  },
+  {
+    "name": "Shack Roof 02 Support",
+    "id": "shack-roof-02-support",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "18x8x6"
+    }
+  },
+  {
+    "name": "Shack Roof 03",
+    "id": "shack-roof-03",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "18x16x6"
+    }
+  },
+  {
+    "name": "Shack Roof 03 Support",
+    "id": "shack-roof-03-support",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "18x16x6"
+    }
+  },
+  {
+    "name": "Rustic Gable Left",
+    "id": "rustic-gable-left",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x4x6"
+    }
+  },
+  {
+    "name": "Rustic Gable Right",
+    "id": "rustic-gable-right",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x4x6"
+    }
+  },
+  {
+    "name": "Medieval Gable Left",
+    "id": "medieval-gable-left",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x4x6"
+    }
+  },
+  {
+    "name": "Medieval Gable Right",
+    "id": "medieval-gable-right",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x4x6"
+    }
+  },
+  {
+    "name": "Brick Gable Left",
+    "id": "brick-gable-left",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x4x6"
+    }
+  },
+  {
+    "name": "Brick Gable Right",
+    "id": "brick-gable-right",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x4x6"
+    }
+  },
+  {
+    "name": "Yellow Gable Left",
+    "id": "yellow-gable-left",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x4x6"
+    }
+  },
+  {
+    "name": "Yellow Gable Right",
+    "id": "yellow-gable-right",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x4x6"
+    }
+  },
+  {
+    "name": "Kawara Gable 01 Left",
+    "id": "kawara-gable-01-left",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x4x6"
+    }
+  },
+  {
+    "name": "Kawara Gable 01 Right",
+    "id": "kawara-gable-01-right",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x4x6"
+    }
+  },
+  {
+    "name": "Kawara Gable 02 Left",
+    "id": "kawara-gable-02-left",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "12x12x12"
+    }
+  },
+  {
+    "name": "Kawara Gable 02 Right",
+    "id": "kawara-gable-02-right",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "12x12x12"
+    }
+  },
+  {
+    "name": "Shack Gable Left",
+    "id": "shack-gable-left",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "18x3x6"
+    }
+  },
+  {
+    "name": "Shack Gable Right",
+    "id": "shack-gable-right",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "18x3x6"
+    }
+  },
+  {
+    "name": "Rustic Ridge 01",
+    "id": "rustic-ridge-01",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x4x2"
+    }
+  },
+  {
+    "name": "Rustic Ridge 02",
+    "id": "rustic-ridge-02",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x6x2"
+    }
+  },
+  {
+    "name": "Rustic Ridge 03",
+    "id": "rustic-ridge-03",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x8x2"
+    }
+  },
+  {
+    "name": "Rustic Ridge 03 Sloped",
+    "id": "rustic-ridge-03-sloped",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x8x2"
+    }
+  },
+  {
+    "name": "Rustic Ridge 04",
+    "id": "rustic-ridge-04",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x12x2"
+    }
+  },
+  {
+    "name": "Rustic Ridge 05",
+    "id": "rustic-ridge-05",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x16x2"
+    }
+  },
+  {
+    "name": "Rustic Ridge Corner",
+    "id": "rustic-ridge-corner",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "14x14x2"
+    }
+  },
+  {
+    "name": "Medieval Ridge 01",
+    "id": "medieval-ridge-01",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x4x3"
+    }
+  },
+  {
+    "name": "Medieval Ridge 01 Gable",
+    "id": "medieval-ridge-01-gable",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x4x3"
+    }
+  },
+  {
+    "name": "Medieval Ridge 02",
+    "id": "medieval-ridge-02",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x6x3"
+    }
+  },
+  {
+    "name": "Medieval Ridge 03",
+    "id": "medieval-ridge-03",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x8x3"
+    }
+  },
+  {
+    "name": "Medieval Ridge 03 Joint",
+    "id": "medieval-ridge-03-joint",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "8x4x3"
+    }
+  },
+  {
+    "name": "Medieval Ridge 04",
+    "id": "medieval-ridge-04",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x12x3"
+    }
+  },
+  {
+    "name": "Medieval Ridge 05",
+    "id": "medieval-ridge-05",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x16x3"
+    }
+  },
+  {
+    "name": "Medieval Ridge Corner",
+    "id": "medieval-ridge-corner",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "14x14x3"
+    }
+  },
+  {
+    "name": "Pleasant Ridge 01",
+    "id": "pleasant-ridge-01",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x4x2"
+    }
+  },
+  {
+    "name": "Pleasant Ridge 02",
+    "id": "pleasant-ridge-02",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x6x2"
+    }
+  },
+  {
+    "name": "Pleasant Ridge 03",
+    "id": "pleasant-ridge-03",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x8x2"
+    }
+  },
+  {
+    "name": "Pleasant Ridge 03 Joint",
+    "id": "pleasant-ridge-03-joint",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x8x2"
+    }
+  },
+  {
+    "name": "Pleasant Ridge 04",
+    "id": "pleasant-ridge-04",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x12x2"
+    }
+  },
+  {
+    "name": "Pleasant Ridge 05",
+    "id": "pleasant-ridge-05",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x16x2"
+    }
+  },
+  {
+    "name": "Pleasant Ridge Corner",
+    "id": "pleasant-ridge-corner",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "14x14x2"
+    }
+  },
+  {
+    "name": "Kawara Ridge 01",
+    "id": "kawara-ridge-01",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x4x2"
+    }
+  },
+  {
+    "name": "Kawara Ridge 01 Ornate",
+    "id": "kawara-ridge-01-ornate",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x4x2"
+    }
+  },
+  {
+    "name": "Kawara Ridge 02",
+    "id": "kawara-ridge-02",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x12x2"
+    }
+  },
+  {
+    "name": "Kawara Ridge 03",
+    "id": "kawara-ridge-03",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x16x2"
+    }
+  },
+  {
+    "name": "Kawara Ridge End 01",
+    "id": "kawara-ridge-end-01",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x2x2"
+    }
+  },
+  {
+    "name": "Kawara Ridge End 02",
+    "id": "kawara-ridge-end-02",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "8x8x6"
+    }
+  },
+  {
+    "name": "Shack Ridge 01 Left",
+    "id": "shack-ridge-01-left",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x3x3"
+    }
+  },
+  {
+    "name": "Shack Ridge 01 Right",
+    "id": "shack-ridge-01-right",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x3x3"
+    }
+  },
+  {
+    "name": "Shack Ridge 02",
+    "id": "shack-ridge-02",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x3x3"
+    }
+  },
+  {
+    "name": "Shack Ridge 03",
+    "id": "shack-ridge-03",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x8x3"
+    }
+  },
+  {
+    "name": "Shack Ridge 04",
+    "id": "shack-ridge-04",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "4x16x3"
+    }
+  },
+  {
+    "name": "Fort Palisade 01",
+    "id": "fort-palisade-01",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x3"
+    }
+  },
+  {
+    "name": "Fort Palisade 02",
+    "id": "fort-palisade-02",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x4x3"
+    }
+  },
+  {
+    "name": "Fort Palisade 03",
+    "id": "fort-palisade-03",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x3"
+    }
+  },
+  {
+    "name": "Fort Palisade 04",
+    "id": "fort-palisade-04",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x3"
+    }
+  },
+  {
+    "name": "Battlements Corner 01",
+    "id": "battlements-corner-01",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x2x3"
+    }
+  },
+  {
+    "name": "Battlements Corner 02",
+    "id": "battlements-corner-02",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x4x3"
+    }
+  },
+  {
+    "name": "Battlements Trim 01",
+    "id": "battlements-trim-01",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x4x3"
+    }
+  },
+  {
+    "name": "Battlements Trim 02",
+    "id": "battlements-trim-02",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x6x3"
+    }
+  },
+  {
+    "name": "Battlements Trim 03",
+    "id": "battlements-trim-03",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x3"
+    }
+  },
+  {
+    "name": "Battlements Trim 04",
+    "id": "battlements-trim-04",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x12x3"
+    }
+  },
+  {
+    "name": "Battlements Trim 05",
+    "id": "battlements-trim-05",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x3"
+    }
+  },
+  {
+    "name": "Pleasant Window Bay Trim",
+    "id": "pleasant-window-bay-trim",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x16x2"
+    }
+  },
+  {
+    "name": "Rustic Hip",
+    "id": "rustic-hip",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x10x6"
+    }
+  },
+  {
+    "name": "Medieval Hip",
+    "id": "medieval-hip",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x10x6"
+    }
+  },
+  {
+    "name": "Pleasant Hip",
+    "id": "pleasant-hip",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x10x6"
+    }
+  },
+  {
+    "name": "Kawara Hip",
+    "id": "kawara-hip",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "10x10x6"
+    }
+  },
+  {
+    "name": "Rustic Valley",
+    "id": "rustic-valley",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "12x12x6"
+    }
+  },
+  {
+    "name": "Medieval Valley",
+    "id": "medieval-valley",
+    "flavour-text": "Majestic Manors",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "12x12x6"
+    }
+  },
+  {
+    "name": "Pleasant Valley",
+    "id": "pleasant-valley",
+    "flavour-text": "Pleasant Park",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "12x12x6"
+    }
+  },
+  {
+    "name": "Kawara Valley",
+    "id": "kawara-valley",
+    "flavour-text": "Shogun Palace",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "12x12x6"
+    }
+  },
+  {
+    "name": "Rustic Roof Wall Interior",
+    "id": "rustic-roof-wall-interior",
+    "flavour-text": "Log Cabin",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "2x8x4"
+    }
+  },
+  {
+    "name": "Ancient Table Small",
+    "id": "ancient-table-small",
+    "flavour-text": "Shogun Palace Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Table Trim",
+    "id": "ancient-table-trim",
+    "flavour-text": "Gifts: Frostlands",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Table Medium",
+    "id": "ancient-table-medium",
+    "flavour-text": "Gifts: Frostlands",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Cozy Table",
+    "id": "cozy-table",
+    "flavour-text": "Gifts: Grasslands",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Palatial Table Medium",
+    "id": "palatial-table-medium",
+    "flavour-text": "Shogun Palace Starter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Console",
+    "id": "ancient-console",
+    "description": "Store up to 8 items inside for safe keeping.",
+    "flavour-text": "Shogun Palace Interior",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Block Table",
+    "id": "block-table",
+    "flavour-text": "Majestic Manors Dining",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Great Hall Table",
+    "id": "great-hall-table",
+    "flavour-text": "Gifts: Dry Valley",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Modern Table",
+    "id": "modern-table",
+    "flavour-text": "Gifts: Grasslands",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Sturdy Table Medium",
+    "id": "sturdy-table-medium",
+    "flavour-text": "Encounter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Traditional Block Table",
+    "id": "traditional-block-table",
+    "flavour-text": "Gifts: Dry Valley",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Basic Table",
+    "id": "basic-table",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Cottage Table",
+    "id": "cottage-table",
+    "flavour-text": "Gifts: Grasslands",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Low Dining Table",
+    "id": "low-dining-table",
+    "flavour-text": "Shogun Palace Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Palatial Table Large",
+    "id": "palatial-table-large",
+    "flavour-text": "Gifts: Frostlands",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Sturdy Table Large",
+    "id": "sturdy-table-large",
+    "flavour-text": "Encounter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Cabin End Table",
+    "id": "cabin-end-table",
+    "flavour-text": "Log Cabin Bedroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Classic End Table",
+    "id": "classic-end-table",
+    "flavour-text": "Gifts: Dry Valley",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Graceful End Table",
+    "id": "graceful-end-table",
+    "flavour-text": "Gifts: Grasslands",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Modern Nightstand",
+    "id": "modern-nightstand",
+    "flavour-text": "Pleasant Park Bedroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Stately End Table",
+    "id": "stately-end-table",
+    "flavour-text": "Majestic Manors Bedroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ye Olde End Table",
+    "id": "ye-olde-end-table",
+    "flavour-text": "Majestic Manors Bathroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Goth End Table",
+    "id": "goth-end-table",
+    "flavour-text": "Pleasant Park Stuff",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Gothic End Table",
+    "id": "gothic-end-table",
+    "flavour-text": "Pleasant Park Stuff",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Traditional End Table",
+    "id": "traditional-end-table",
+    "flavour-text": "Log Cabin Living",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Coffee Table",
+    "id": "ancient-coffee-table",
+    "flavour-text": "Shogun Palace Starter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Manor Coffee Table Small",
+    "id": "manor-coffee-table-small",
+    "flavour-text": "Majestic Manors Living",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Palatial Coffee Table",
+    "id": "palatial-coffee-table",
+    "flavour-text": "Shogun Palace Starter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Blocked Coffee Table",
+    "id": "blocked-coffee-table",
+    "flavour-text": "Pleasant Park Starter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Manor Coffee Table Medium",
+    "id": "manor-coffee-table-medium",
+    "flavour-text": "Majestic Manors Living",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Manor Coffee Table Large",
+    "id": "manor-coffee-table-large",
+    "flavour-text": "Majestic Manors Living",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Counter Small",
+    "id": "ancient-counter-small",
+    "flavour-text": "Shogun Palace Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Counter Thin",
+    "id": "ancient-counter-thin",
+    "flavour-text": "Shogun Palace Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Counter Trim",
+    "id": "ancient-counter-trim",
+    "flavour-text": "Shogun Palace Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Curved End",
+    "id": "ancient-curved-end",
+    "flavour-text": "Shogun Palace Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient End",
+    "id": "ancient-end",
+    "flavour-text": "Shogun Palace Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Chopping Counter Small",
+    "id": "chopping-counter-small",
+    "flavour-text": "Majestic Manors Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Elegant Counter Plain",
+    "id": "elegant-counter-plain",
+    "flavour-text": "Pleasant Park Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Elegant Counter Small",
+    "id": "elegant-counter-small",
+    "flavour-text": "Pleasant Park Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Traditional Counter Small",
+    "id": "traditional-counter-small",
+    "flavour-text": "Log Cabin Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Counter Cabinet",
+    "id": "ancient-counter-cabinet",
+    "description": "Store up to 6 items inside for safe keeping.",
+    "flavour-text": "Shogun Palace Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Counter Drawers",
+    "id": "ancient-counter-drawers",
+    "description": "Store up to 6 items inside for safe keeping.",
+    "flavour-text": "Shogun Palace Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Counter Handles",
+    "id": "ancient-counter-handles",
+    "description": "Store up to 6 items inside for safe keeping.",
+    "flavour-text": "Shogun Palace Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Counter Medium",
+    "id": "ancient-counter-medium",
+    "flavour-text": "Shogun Palace Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Chopping Counter Medium",
+    "id": "chopping-counter-medium",
+    "flavour-text": "Majestic Manors Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Elegant Counter Extra",
+    "id": "elegant-counter-extra",
+    "description": "Store up to 6 items inside for safe keeping",
+    "flavour-text": "Pleasant Park Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Elegant Counter Medium",
+    "id": "elegant-counter-medium",
+    "description": "Store up to 6 items inside for safe keeping",
+    "flavour-text": "Pleasant Park Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Traditional Counter Medium",
+    "id": "traditional-counter-medium",
+    "description": "Store up to 6 items inside for safe keeping",
+    "flavour-text": "Log Cabin Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Manor Counter",
+    "id": "manor-counter",
+    "flavour-text": "Majestic Manors Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Counter Large",
+    "id": "ancient-counter-large",
+    "flavour-text": "Shogun Palace Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Counter Bench",
+    "id": "ancient-counter-bench",
+    "flavour-text": "Shogun Palace Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Chopping Counter Large",
+    "id": "chopping-counter-large",
+    "flavour-text": "Majestic Manors Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Elegant Counter Large",
+    "id": "elegant-counter-large",
+    "description": "Store up to 8 items inside for safe keeping",
+    "flavour-text": "Pleasant Park Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Traditional Counter Large",
+    "id": "traditional-counter-large",
+    "description": "Store up to 8 items inside for safe keeping",
+    "flavour-text": "Log Cabin Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Corner Hole",
+    "id": "ancient-corner-hole",
+    "flavour-text": "Shogun Palace Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Corner Round",
+    "id": "ancient-corner-round",
+    "flavour-text": "Shogun Palace Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Corner Square",
+    "id": "ancient-corner-square",
+    "flavour-text": "Shogun Palace Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Chopping Corner",
+    "id": "chopping-corner",
+    "flavour-text": "Majestic Manors Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Elegant Corner",
+    "id": "elegant-corner",
+    "description": "Store up to 6 items inside for safe keeping.",
+    "flavour-text": "Pleasant Park Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Traditional Counter Corner",
+    "id": "traditional-counter-corner",
+    "flavour-text": "Log Cabin Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Sink Narrow",
+    "id": "ancient-sink-narrow",
+    "description": "Store up to 4 items inside for safe keeping.",
+    "flavour-text": "Shogun Palace Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Sink",
+    "id": "ancient-sink",
+    "description": "Store up to 6 items inside for safe keeping.",
+    "flavour-text": "Shogun Palace Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Elegant Sink Medium",
+    "id": "elegant-sink-medium",
+    "description": "Store up to 6 items inside for safe keeping.",
+    "flavour-text": "Pleasant Park Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Elegant Sink Large",
+    "id": "elegant-sink-large",
+    "description": "Store up to 8 items inside for safe keeping.",
+    "flavour-text": "Pleasant Park Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Desk",
+    "id": "ancient-desk",
+    "description": "Store up to 8 items inside for safe keeping.",
+    "flavour-text": "Shogun Palace Interior",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Round Stool",
+    "id": "ancient-round-stool",
+    "flavour-text": "Shogun Palace Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Square Stool",
+    "id": "ancient-square-stool",
+    "flavour-text": "Shogun Palace Starter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Basic Stool",
+    "id": "basic-stool",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Blue Stool",
+    "id": "blue-stool",
+    "flavour-text": "Shogun Palace Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Carved Stool",
+    "id": "carved-stool",
+    "flavour-text": "Gifts: Dry Valley",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Counter Stool",
+    "id": "counter-stool",
+    "flavour-text": "Gifts: Grasslands",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Round Stool",
+    "id": "round-stool",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Square Stool",
+    "id": "square-stool",
+    "flavour-text": "Majestic Manors Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Seat",
+    "id": "ancient-seat",
+    "flavour-text": "Shogun Palace Interior",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Cushioned Chair",
+    "id": "cushioned-chair",
+    "flavour-text": "Gifts: Dry Valley",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Manor Chair",
+    "id": "manor-chair",
+    "flavour-text": "Majestic Manors Living",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Modern Chair",
+    "id": "modern-chair",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Plush Chair No Back",
+    "id": "plush-chair-no-back",
+    "flavour-text": "Gifts: Dry Valley",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Solid Wood Chair",
+    "id": "solid-wood-chair",
+    "flavour-text": "Majestic Manors Dining",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Vehicle Seat Large",
+    "id": "vehicle-seat-large",
+    "flavour-text": "Rugged Rollers",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "3x2x3"
+    }
+  },
+  {
+    "name": "Vehicle Seat Medium",
+    "id": "vehicle-seat-medium",
+    "flavour-text": "Rugged Rollers",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1,
+      "dimensions": "3x2x3"
+    }
+  },
+  {
+    "name": "Windsor Lounge Chair",
+    "id": "windsor-lounge-chair",
+    "flavour-text": "Gifts: Grasslands",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Throne",
+    "id": "ancient-throne",
+    "flavour-text": "Shogun Palace Interior",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Club Armchair",
+    "id": "club-armchair",
+    "flavour-text": "Log Cabin Living",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Cozy Armchair",
+    "id": "cozy-armchair",
+    "flavour-text": "Encounter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Patches Armchair",
+    "id": "patches-armchair",
+    "flavour-text": "Pleasant Park Starter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Velvet Armchair",
+    "id": "velvet-armchair",
+    "flavour-text": "Log Cabin Living",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Bygone Sofa",
+    "id": "bygone-sofa",
+    "flavour-text": "Majestic Manors Living",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "College Sofa",
+    "id": "college-sofa",
+    "flavour-text": "Log Cabin Living",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Cozy Sofa",
+    "id": "cozy-sofa",
+    "flavour-text": "Encounter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Medieval Sofa Brown",
+    "id": "medieval-sofa-brown",
+    "flavour-text": "Majestic Manors Starter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Medieval Sofa White",
+    "id": "medieval-sofa-white",
+    "flavour-text": "Majestic Manors Bedroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Patches Sofa",
+    "id": "patches-sofa",
+    "flavour-text": "Pleasant Park Starter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Sofa",
+    "id": "ancient-sofa",
+    "flavour-text": "Shogun Palace Starter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Sofa Red",
+    "id": "ancient-sofa-red",
+    "flavour-text": "Shogun Palace Interior",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Bench Small",
+    "id": "ancient-bench-small",
+    "flavour-text": "Shogun Palace Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Basic Bench Small",
+    "id": "basic-bench-small",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Great Hall Bench Small",
+    "id": "great-hall-bench-small",
+    "flavour-text": "Majestic Manors Dining",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Bench Medium",
+    "id": "ancient-bench-medium",
+    "flavour-text": "Gifts: Frostlands",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Bench Large",
+    "id": "ancient-bench-large",
+    "flavour-text": "Gifts: Frostlands",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Basic Bench Large",
+    "id": "basic-bench-large",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Great Hall Bench Large",
+    "id": "great-hall-bench-large",
+    "flavour-text": "Majestic Manors Dining",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Park Bench",
+    "id": "park-bench",
+    "flavour-text": "Pleasant Park Stuff",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Sleek Park Bench",
+    "id": "sleek-park-bench",
+    "flavour-text": "Gifts: Grasslands",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Water Barrel",
+    "id": "water-barrel",
+    "flavour-text": "Majestic Manors Bathroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Cozy Sink",
+    "id": "cozy-sink",
+    "flavour-text": "Pleasant Park Bathroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Cozy Toilet",
+    "id": "cozy-toilet",
+    "flavour-text": "Gifts: Grasslands",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Knightly Toilet",
+    "id": "knightly-toilet",
+    "flavour-text": "Majestic Manors Bathroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Simple Toilet",
+    "id": "simple-toilet",
+    "flavour-text": "Pleasant Park Bathroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Cozy Tub",
+    "id": "cozy-tub",
+    "flavour-text": "Pleasant Park Bathroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Rub a Dub Dub",
+    "id": "rub-a-dub-dub",
+    "flavour-text": "Majestic Manors Bathroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Casket Case",
+    "id": "casket-case",
+    "flavour-text": "Majestic Manors Recreation",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Wishing Well",
+    "id": "wishing-well",
+    "flavour-text": "Majestic Manors Recreation",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Happy Lamper",
+    "id": "happy-lamper",
+    "flavour-text": "Log Cabin Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Lantern",
+    "id": "lantern",
+    "flavour-text": "Majestic Manors Starter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Lantern Table",
+    "id": "lantern-table",
+    "flavour-text": "Shogun Palace Starter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Courtyard Lantern",
+    "id": "courtyard-lantern",
+    "flavour-text": "Shogun Palace Courtyard",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Wooden Lantern",
+    "id": "wooden-lantern",
+    "flavour-text": "Shogun Palace Courtyard",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Streetlight",
+    "id": "ancient-streetlight",
+    "flavour-text": "Shogun Palace Grounds",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Black Streetlight",
+    "id": "black-streetlight",
+    "flavour-text": "Pleasant Park Stuff",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Green Streetlight",
+    "id": "green-streetlight",
+    "flavour-text": "Pleasant Park Stuff",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "It's Wick",
+    "id": "its-wick",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Modest Lamp",
+    "id": "modest-lamp",
+    "flavour-text": "Log Cabin Living",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Night Light",
+    "id": "night-light",
+    "flavour-text": "Log Cabin Bedroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Simple Lamp Small",
+    "id": "simple-lamp-small",
+    "flavour-text": "Pleasant Park Bedroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Swivel Desk Lamp",
+    "id": "swivel-desk-lamp",
+    "flavour-text": "Gifts: Grasslands",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Waxing Poetic",
+    "id": "waxing-poetic",
+    "flavour-text": "Majestic Manors Bathroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Simple Lamp Medium",
+    "id": "simple-lamp-medium",
+    "flavour-text": "Pleasant Park Bedroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Waxing Lyrical",
+    "id": "waxing-lyrical",
+    "flavour-text": "Majestic Manors Bedroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Classic Lamp",
+    "id": "classic-lamp",
+    "flavour-text": "Log Cabin Living",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Modest Standing Lamp",
+    "id": "modest-standing-lamp",
+    "flavour-text": "Log Cabin Living",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Simple Standing Lamp",
+    "id": "simple-standing-lamp",
+    "flavour-text": "Pleasant Park Starter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Manor Torch",
+    "id": "manor-torch",
+    "flavour-text": "Majestic Manors Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Candelabra",
+    "id": "candelabra",
+    "flavour-text": "Majestic Manors Recreation",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Wall Candle",
+    "id": "wall-candle",
+    "flavour-text": "Majestic Manors Dining",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Wall Exposed Bulb",
+    "id": "wall-exposed-bulb",
+    "flavour-text": "Log Cabin Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Wall Light",
+    "id": "wall-light",
+    "flavour-text": "Pleasant Park Bathroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Wall Light Round",
+    "id": "wall-light-round",
+    "flavour-text": "Pleasant Park Bathroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ceiling Light",
+    "id": "ceiling-light",
+    "flavour-text": "Pleasant Park Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Wall Candles",
+    "id": "wall-candles",
+    "flavour-text": "Majestic Manors Living",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Shelf",
+    "id": "ancient-shelf",
+    "flavour-text": "Shogun Palace Interior",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Book Nook Shelf",
+    "id": "book-nook-shelf",
+    "flavour-text": "Log Cabin Bedroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Cozy Shelf",
+    "id": "cozy-shelf",
+    "flavour-text": "Log Cabin Bedroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Dining Shelf",
+    "id": "dining-shelf",
+    "flavour-text": "Majestic Manors Dining",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Standard Shelf",
+    "id": "standard-shelf",
+    "flavour-text": "Gifts: Dry Valley",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ye Olde Beauty Shelf",
+    "id": "ye-olde-beauty-shelf",
+    "flavour-text": "Majestic Manors Living",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Cozy Bookshelf",
+    "id": "cozy-bookshelf",
+    "flavour-text": "Gifts: Grasslands",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Manor Display Cabinet",
+    "id": "manor-display-cabinet",
+    "flavour-text": "Majestic Manors Living",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Shelves Brown",
+    "id": "ancient-shelves-brown",
+    "description": "Store up to 8 items inside for safe keeping.",
+    "flavour-text": "Shogun Palace Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Shelves Red",
+    "id": "ancient-shelves-red",
+    "description": "Store up to 8 items inside for safe keeping.",
+    "flavour-text": "Shogun Palace Interior",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Arch Passageway",
+    "id": "arch-passageway",
+    "flavour-text": "Majestic Manors Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Cookbook Shelf",
+    "id": "cookbook-shelf",
+    "flavour-text": "Gifts",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Edgy Bookshelf",
+    "id": "edgy-bookshelf",
+    "flavour-text": "Log Cabin Living",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Medieval Shelf",
+    "id": "medieval-shelf",
+    "flavour-text": "Majestic Manors Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Palatial Shelves Brown",
+    "id": "palatial-shelves-brown",
+    "flavour-text": "Shogun Palace Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Palatial Shelves Red",
+    "id": "palatial-shelves-red",
+    "flavour-text": "Shogun Palace Interior",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Simple Chest",
+    "id": "simple-chest",
+    "description": "Store up to 6 items inside for safe keeping.",
+    "flavour-text": "Majestic Manors Recreation",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Simple Trunk",
+    "id": "simple-trunk",
+    "description": "Store up to 6 items inside for safe keeping.",
+    "flavour-text": "Majestic Manors Recreation",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Chest",
+    "id": "ancient-chest",
+    "description": "Store up to 6 items inside for safe keeping.",
+    "flavour-text": "Shogun Palace Courtyard",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Palatial Chest",
+    "id": "palatial-chest",
+    "description": "Store up to 6 items inside for safe keeping.",
+    "flavour-text": "Shogun Palace Courtyard",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Grand Chest",
+    "id": "grand-chest",
+    "description": "Store up to 24 items inside for safe keeping.",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Large Chest",
+    "id": "large-chest",
+    "description": "Store up to 20 items inside for safe keeping.",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Medium Chest",
+    "id": "medium-chest",
+    "description": "Store up to 16 items inside for safe keeping.",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Small Chest",
+    "id": "small-chest",
+    "description": "Store up to 10 items inside for safe keeping.",
+    "flavour-text": "Starter Shacks",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Fridge",
+    "id": "fridge",
+    "description": "Store up to 6 items inside for safe keeping.",
+    "flavour-text": "Pleasant Park Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Manor Armoire",
+    "id": "manor-armoire",
+    "description": "Store up to 8 items inside for safe keeping.",
+    "flavour-text": "Majestic Manors Bedroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Manor Wardrobe",
+    "id": "manor-wardrobe",
+    "description": "Store up to 8 items inside for safe keeping.",
+    "flavour-text": "Majestic Manors Bedroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Modern Closet",
+    "id": "modern-closet",
+    "description": "Store up to 8 items inside for safe keeping.",
+    "flavour-text": "Pleasant Park Bedroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Armoire",
+    "id": "ancient-armoire",
+    "description": "Store up to 10 items inside for safe keeping.",
+    "flavour-text": "Shogun Palace Starter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Manor Armoire Large",
+    "id": "manor-armoire-large",
+    "description": "Store up to 10 items inside for safe keeping.",
+    "flavour-text": "Majestic Manors Bedroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Modest Closet",
+    "id": "modest-closet",
+    "description": "Store up to 10 items inside for safe keeping.",
+    "flavour-text": "Log Cabin Bedroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Manor Dresser Small",
+    "id": "manor-dresser-small",
+    "description": "Store up to 4 items inside for safe keeping.",
+    "flavour-text": "Majestic Manors Starter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Modern Dresser Small",
+    "id": "modern-dresser-small",
+    "description": "Store up to 4 items inside for safe keeping.",
+    "flavour-text": "Pleasant Park Bedroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Off The Snap Dresser",
+    "id": "off-the-snap-dresser",
+    "description": "Store up to 6 items inside for safe keeping.",
+    "flavour-text": "Log Cabin Bedroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Manor Dresser Medium",
+    "id": "manor-dresser-medium",
+    "description": "Store up to 6 items inside for safe keeping.",
+    "flavour-text": "Majestic Manors Starter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Modern Dresser Medium",
+    "id": "modern-dresser-medium",
+    "description": "Store up to 6 items inside for safe keeping.",
+    "flavour-text": "Pleasant Park Bedroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Basic Barrel",
+    "id": "basic-barrel",
+    "flavour-text": "Majestic Manors Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Basic Barrel Lid",
+    "id": "basic-barrel-lid",
+    "flavour-text": "Majestic Manors Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Garbage Can",
+    "id": "garbage-can",
+    "flavour-text": "Encounter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ladel and Barrel",
+    "id": "ladel-and-barrel",
+    "flavour-text": "Shogun Palace Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Mailbox Small 01",
+    "id": "mailbox-small-01",
+    "flavour-text": "Encounter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Mailbox Small 02",
+    "id": "mailbox-small-02",
+    "flavour-text": "Encounter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Toilet Paper Stand",
+    "id": "toilet-paper-stand",
+    "flavour-text": "Pleasant Park Bathroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Water Barrel",
+    "id": "water-barrel",
+    "flavour-text": "Gifts: Dry Valley",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Water Bucket",
+    "id": "water-bucket",
+    "flavour-text": "Majestic Manors Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Basic Barrels",
+    "id": "basic-barrels",
+    "flavour-text": "Majestic Manors Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Basic Crate",
+    "id": "basic-crate",
+    "flavour-text": "Gifts: Dry Valley",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Box Assortment",
+    "id": "box-assortment",
+    "flavour-text": "Gifts: Frostlands",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Crate Of Wood",
+    "id": "crate-of-wood",
+    "flavour-text": "Gifts: Dry Valley",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Garbage Bin",
+    "id": "garbage-bin",
+    "flavour-text": "Encounter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Kitchen Vases",
+    "id": "kitchen-vases",
+    "flavour-text": "Majestic Manors Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Water Basin Lid",
+    "id": "water-basin-lid",
+    "flavour-text": "Shogun Palace Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Broom And Crate",
+    "id": "broom-and-crate",
+    "flavour-text": "Majestic Manors Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Cozy Towel Rack",
+    "id": "cozy-towel-rack",
+    "flavour-text": "Pleasant Park Bathroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Industrial Barrel",
+    "id": "industrial-barrel",
+    "flavour-text": "Encounter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Industrial Barrel Lid",
+    "id": "industrial-barrel-lid",
+    "flavour-text": "Encounter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Pomp and Clutter",
+    "id": "pomp-and-clutter",
+    "flavour-text": "Gifts: Frostlands",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Royal Towel Rack",
+    "id": "royal-towel-rack",
+    "flavour-text": "Majestic Manors Bathroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Crates of Wood",
+    "id": "crates-of-wood",
+    "flavour-text": "Gifts: Dry Valley",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Bathroom Mat",
+    "id": "bathroom-mat",
+    "flavour-text": "Pleasant Park Bathroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Cozy Mat",
+    "id": "cozy-mat",
+    "flavour-text": "Pleasant Park Bathroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Puzzle Rug",
+    "id": "puzzle-rug",
+    "flavour-text": "Pleasant Park Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Puzzle Rug Orange",
+    "id": "puzzle-rug-orange",
+    "flavour-text": "Pleasant Park Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Cut a Rug",
+    "id": "cut-a-rug",
+    "flavour-text": "Log Cabin Living",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Cut a Rug Yellow",
+    "id": "cut-a-rug-yellow",
+    "flavour-text": "Pleasant Park Bathroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Diamond Rug",
+    "id": "diamond-rug",
+    "flavour-text": "Pleasant Park Bathroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Starter Mat",
+    "id": "starter-mat",
+    "flavour-text": "Pleasant Park Starter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Striped Rug",
+    "id": "striped-rug",
+    "flavour-text": "Pleasant Park Starter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Wavy Rug",
+    "id": "wavy-rug",
+    "flavour-text": "Pleasant Park Bedroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Block Colors Meadow",
+    "id": "block-colors-meadow",
+    "flavour-text": "Gifts: Grasslands",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Block Colors Sunrise",
+    "id": "block-colors-sunrise",
+    "flavour-text": "Gifts: Grasslands",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Block Colors Medium",
+    "id": "block-colors-medium",
+    "flavour-text": "Pleasant Park Bedroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Decorative Longsword",
+    "id": "decorative-longsword",
+    "flavour-text": "Majestic Manors Living",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Target Board",
+    "id": "target-board",
+    "flavour-text": "Shogun Palace Grounds",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Black And Blue Shieldfish Plaque",
+    "id": "black-and-blue-shieldfish-plaque",
+    "flavour-text": "Gone Fishin'",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Blue Slurpfish Plaque",
+    "id": "blue-slurpfish-plaque",
+    "flavour-text": "Gone Fishin'",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Blue Small Fry Plaque",
+    "id": "blue-small-fry-plaque",
+    "flavour-text": "Gone Fishin'",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Cuddle Jellyfish Plaque",
+    "id": "cuddle-jellyfish-plaque",
+    "flavour-text": "Gone Fishin'",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Green Flopper Plaque",
+    "id": "green-flopper-plaque",
+    "flavour-text": "Gone Fishin'",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Molten Spicy Fish Plaque",
+    "id": "molten-spicy-fish-plaque",
+    "flavour-text": "Gone Fishin'",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Orange Flopper Plaque",
+    "id": "orange-flopper-plaque",
+    "flavour-text": "Gone Fishin'",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Purple Slurpfish Plaque",
+    "id": "purple-slurpfish-plaque",
+    "flavour-text": "Gone Fishin'",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Purple Thermal Fish Plaque",
+    "id": "purple-thermal-fish-plaque",
+    "flavour-text": "Gone Fishin'",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Raven Thermal Fish Plaque",
+    "id": "raven-thermal-fish-plaque",
+    "flavour-text": "Gone Fishin'",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Silver Thermal Fish Plaque",
+    "id": "silver-thermal-fish-plaque",
+    "flavour-text": "Gone Fishin'",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Slurp Jellyfish Plaque",
+    "id": "slurp-jellyfish-plaque",
+    "flavour-text": "Gone Fishin'",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Vendetta Flopper Plaque",
+    "id": "vendetta-flopper-plaque",
+    "flavour-text": "Gone Fishin'",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Yellow Slurpfish Plaque",
+    "id": "yellow-slurpfish-plaque",
+    "flavour-text": "Gone Fishin'",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Baking Utensiles",
+    "id": "baking-utensiles",
+    "flavour-text": "Gifts: Grasslands",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Bottle and Glass",
+    "id": "bottle-and-glass",
+    "flavour-text": "Majestic Manors Dining",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Bowled Over",
+    "id": "bowled-over",
+    "flavour-text": "Gifts: Frostlands",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Classic Jar",
+    "id": "classic-jar",
+    "flavour-text": "Shogun Palace Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Dish it Out",
+    "id": "dish-it-out",
+    "flavour-text": "Pleasant Park Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Real Stories Of The Imagined Order",
+    "id": "real-stories-of-the-imagined-order",
+    "flavour-text": "Gifts",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Sunglasses",
+    "id": "sunglasses",
+    "flavour-text": "Gifts: Frostlands",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Tea Set",
+    "id": "tea-set",
+    "flavour-text": "Gifts: Frostlands",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "The Adventures Of John Jones",
+    "id": "the-adventures-of-john-jones",
+    "flavour-text": "Gifts",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Watering Can",
+    "id": "watering-can",
+    "flavour-text": "Gifts: Grasslands",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Apothecary Jars",
+    "id": "apothecary-jars",
+    "flavour-text": "Gifts: Dry Valley",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Barrels and Buckets",
+    "id": "barrels-and-buckets",
+    "flavour-text": "Majestic Manors Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Bowl and Spoons",
+    "id": "bowl-and-spoons",
+    "flavour-text": "Log Cabin Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Cooking Utensiles",
+    "id": "cooking-utensiles",
+    "flavour-text": "Gifts",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Diner Decor",
+    "id": "diner-decor",
+    "flavour-text": "Gifts: Grasslands",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Dinner Time",
+    "id": "dinner-time",
+    "flavour-text": "Majestic Manors Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Glasses to Glasses",
+    "id": "glasses-to-glasses",
+    "flavour-text": "Majestic Manors Dining",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Inkwells",
+    "id": "inkwells",
+    "flavour-text": "Shogun Palace Interior",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Iron Bars",
+    "id": "iron-bars",
+    "flavour-text": "Shogun Palace Courtyard",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Iron Cookware",
+    "id": "iron-cookware",
+    "flavour-text": "Majestic Manors Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Modest Dishes",
+    "id": "modest-dishes",
+    "flavour-text": "Gifts: Frostlands",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Of Minifigs And Men Series",
+    "id": "of-minifigs-and-men-series",
+    "flavour-text": "Log Cabin Living",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Pride and Peelys",
+    "id": "pride-and-peelys",
+    "flavour-text": "Gifts",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Stack of Books",
+    "id": "stack-of-books",
+    "flavour-text": "Gifts",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Table Setting",
+    "id": "table-setting",
+    "flavour-text": "Majestic Manors Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Tea for Two",
+    "id": "tea-for-two",
+    "flavour-text": "Gifts: Frostlands",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "The Klombo Incident",
+    "id": "the-klombo-incident",
+    "flavour-text": "Log Cabin Living",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "The Looper Trilogy",
+    "id": "the-looper-trilogy",
+    "flavour-text": "Gifts",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "White Cutting Board",
+    "id": "white-cutting-board",
+    "flavour-text": "Log Cabin Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Calligraphy Set",
+    "id": "calligraphy-set",
+    "flavour-text": "Shogun Palace Interior",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Scroll and Brushes",
+    "id": "scroll-and-brushes",
+    "flavour-text": "Shogun Palace Interior",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Supper Duper Dishes",
+    "id": "supper-duper-dishes",
+    "flavour-text": "Majestic Manors Dining",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Court Vase Large",
+    "id": "court-vase-large",
+    "flavour-text": "Gifts",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Court Vase Medium",
+    "id": "court-vase-medium",
+    "flavour-text": "Gifts",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Court Vase Small",
+    "id": "court-vase-small",
+    "flavour-text": "Majestic Manors Bedroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Daisies",
+    "id": "daisies",
+    "flavour-text": "Gifts",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Houseplant",
+    "id": "houseplant",
+    "flavour-text": "Gifts",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Plants and Pots",
+    "id": "plants-and-pots",
+    "flavour-text": "Gifts",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Pottering Around",
+    "id": "pottering-around",
+    "flavour-text": "Gifts",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Simple Pot",
+    "id": "simple-pot",
+    "flavour-text": "Majestic Manors Bedroom",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Centerpiece",
+    "id": "centerpiece",
+    "flavour-text": "Majestic Manors Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Centerpiece Stand",
+    "id": "centerpiece-stand",
+    "flavour-text": "Majestic Manors Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Decorative Column",
+    "id": "decorative-column",
+    "flavour-text": "Shogun Palace Courtyard",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Grinding Stone",
+    "id": "grinding-stone",
+    "flavour-text": "Shogun Palace Courtyard",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Heavy Duty Anvil",
+    "id": "heavy-duty-anvil",
+    "flavour-text": "Shogun Palace Courtyard",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Plate Display",
+    "id": "plate-display",
+    "flavour-text": "Shogun Palace Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Spoon Display",
+    "id": "spoon-display",
+    "flavour-text": "Shogun Palace Kitchen",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Taiko Drum Small",
+    "id": "taiko-drum-small",
+    "flavour-text": "Shogun Palace Courtyard",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Training Dummy Armor",
+    "id": "training-dummy-armor",
+    "flavour-text": "Shogun Palace Interior",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Training Dummy Helmet",
+    "id": "training-dummy-helmet",
+    "flavour-text": "Shogun Palace Interior",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Training Dummy Sword and Shield",
+    "id": "training-dummy-sword-and-shield",
+    "flavour-text": "Shogun Palace Grounds",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Panel Display",
+    "id": "ancient-panel-display",
+    "flavour-text": "Shogun Palace Courtyard",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Guard Statue Axe",
+    "id": "guard-statue-axe",
+    "flavour-text": "Majestic Manors Statues",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Guard Statue Sword",
+    "id": "guard-statue-sword",
+    "flavour-text": "Majestic Manors Statues",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Kitsune Statue",
+    "id": "kitsune-statue",
+    "flavour-text": "Gifts: Frostlands",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Kitsune Statue Gold",
+    "id": "kitsune-statue-gold",
+    "flavour-text": "Shogun Palace Statues",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Noble Standard",
+    "id": "noble-standard",
+    "flavour-text": "Majestic Manors Starter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Noble Standard Pole",
+    "id": "noble-standard-pole",
+    "flavour-text": "Majestic Manors Starter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Taiko Drum Medium",
+    "id": "taiko-drum-medium",
+    "flavour-text": "Shogun Palace Courtyard",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Knight Statue",
+    "id": "knight-statue",
+    "flavour-text": "Majestic Manors Statues",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Llama Statue",
+    "id": "llama-statue",
+    "flavour-text": "Gifts: Frostlands",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Llama Statue Gold",
+    "id": "llama-statue-gold",
+    "flavour-text": "Shogun Palace Statues",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Royal Standard",
+    "id": "royal-standard",
+    "flavour-text": "Majestic Manors Starter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Royal Standard Pole",
+    "id": "royal-standard-pole",
+    "flavour-text": "Majestic Manors Starter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Gate",
+    "id": "ancient-gate",
+    "flavour-text": "Shogun Palace Courtyard",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Tapestry",
+    "id": "ancient-tapestry",
+    "flavour-text": "Shogun Palace Courtyard",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Medieval Banner",
+    "id": "medieval-banner",
+    "flavour-text": "Majestic Manors Starter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Gong",
+    "id": "ancient-gong",
+    "flavour-text": "Shogun Palace Grounds",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Dishwasher",
+    "id": "dishwasher",
+    "flavour-text": "Encounter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Dryer",
+    "id": "dryer",
+    "flavour-text": "Encounter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  },
+  {
+    "name": "Ancient Food Cart",
+    "id": "ancient-food-cart",
+    "flavour-text": "Encounter",
+    "attributes": {
+      "rarity": "buildable",
+      "max-stack": 1
+    }
+  }
+]

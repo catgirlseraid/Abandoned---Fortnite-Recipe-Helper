@@ -1,0 +1,336 @@
+/* inports */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* search results */
+.display-per-item {
+    --rarity-colour-border: #000000;
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+    border: #0A0708 solid 5px;
+    border-radius: 10px;
+    font-family: "Montserrat", sans-serif;
+    outline: 2px solid white;
+    outline-offset: -6px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: rgb(175,175,175);
+    background: linear-gradient(315deg, rgba(175,175,175,0.9) 0%, rgba(185,227,255,0.9) 100%);
+}
+
+
+
+
+
+/*rarity border colours for item picture*/
+.common-rarity-border {
+    --rarity-colour-border: #a9b5bc;
+    --rarity-colour-inside: #88969e;
+}
+.uncommon-rarity-border {
+    --rarity-colour-border: #81b16c;
+    --rarity-colour-inside: #567249;
+}
+.rare-rarity-border {
+    --rarity-colour-border: #59a1c8;
+    --rarity-colour-inside: #4681a3;
+}
+.epic-rarity-border {
+    --rarity-colour-border: #6b59c8;
+    --rarity-colour-inside: #5e519c;
+}
+.legendary-rarity-border {
+    --rarity-colour-border: #e5aa4f;
+    --rarity-colour-inside: #c6944d;
+}
+.special-rarity-border {
+    --rarity-colour-border: #a6385b;
+    --rarity-colour-inside: #ed445d;
+}
+.buildable-rarity-border {
+    --rarity-colour-border: #FFFFFF;
+    --rarity-colour-inside: #1985e4 ;
+}
+
+
+/* var(--rarity-colour) */
+
+.display-per-item-header img {
+    height: 135px;
+    width: 135px;
+    padding: 5px;
+    background: var(--rarity-colour-inside);
+    border-radius: 10px;
+    outline: 5px solid var(--rarity-colour-border);
+    outline-offset: -5px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.display-per-item-flavour-text {
+    font-style: italic;
+    margin-left: 0;
+}
+
+.display-per-item-description {
+    border-top: #0A0708 2px solid;
+}
+
+.display-per-item-description h3, p {
+    margin: 7px;
+    margin-left: 10px;
+}
+
+.display-per-item details{
+    border-top: #0A0708 2px solid;
+}
+
+.display-per-item-todo-list-options {
+    display: grid;
+    grid-template-columns: 60% 35% 5%;
+    height: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.display-per-item-todo-list-options > button {
+    border: #0A0708 2px solid;
+    border-radius: 5px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    outline: transparent;
+    font-family: "Montserrat", sans-serif;
+    background-color: white;
+}
+.display-per-item-todo-list-options input {
+    border: #0A0708 2px solid;
+    outline: transparent;
+    border-left: transparent;
+    font-family: "Montserrat", sans-serif;
+    font-style: italic;
+    color: #0A0708;
+    font-weight: 600;
+    text-align: center;
+    font-size: 20px;
+}
+.display-per-item-todo-list-options input::placeholder {
+    color: #b1b1b1;
+    opacity: 1;
+    text-align: center;
+    font-size: 15px;
+}
+
+@media (max-width: 420px) {
+    .display-per-item-todo-list-options input::placeholder {
+        color: #b1b1b1;
+        opacity: 1;
+        text-align: center;
+        font-size: 14px;
+    }
+}
+
+.display-per-item-header {
+    border-bottom: #0A0708 2px solid;
+    display: flex;
+}
+
+.display-per-item-title-flavour-text {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-left: #0A0708 2px solid;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+
+.display-per-item-title-flavour-text h2{
+    margin: 0px;
+    font-size: 30px;
+}
+
+.display-per-item-todo-list-buttons {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+
+}
+
+
+
+.display-per-item-todo-list-button-down {
+    border: #0A0708 2px solid;
+    border-left: 0;
+    border-bottom-right-radius: 5px;
+    height: 20px;
+    border-top: #0A0708 solid 1px;
+    padding: 0;
+    background-color: white;
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+}
+
+.display-per-item-todo-list-button-up {
+    border: #0A0708 2px solid;
+    border-left: 0;
+    border-bottom: #0A0708 solid 1px;
+    border-top-right-radius: 5px;
+    height: 20px;
+    padding: 0;
+    background-color: white;
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+
+}
+
+.display-per-item-todo-list-button-down:hover {
+    background-color: lightgray;
+    cursor: pointer;
+    color: white;
+}
+
+.display-per-item-todo-list-button-up:hover {
+    background-color: lightgray;
+    cursor: pointer;
+    color: white;
+}
+
+.display-per-item-todo-add-button:hover {
+    background-color: lightgray;
+    cursor: pointer;
+    color: white;
+}
+
+.display-per-item-recipe {
+    border-top: black solid 2px;
+}
+
+.display-per-item-recipe-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: black solid 2px;
+    padding: 0px 10px;
+}
+
+
+
+
+.display-per-item-recipe-header h3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0;
+}
+
+.display-per-item-recipe-header img {
+    margin: 5px 0px;
+    height: 50px;
+    width: 50px;
+    border: 2px black solid;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.display-per-item-recipe-produced-amount {
+    display: flex;
+    height: 50px;
+    width: 50px;
+    border: 2px black solid;
+    border-radius: 10px;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+}
+
+.display-per-item-single-line {
+    background: linear-gradient(90deg, transparent 0%, rgba(255,255,255,1) 5%, rgba(255,255,255,1) 95%, transparent 100%);
+    padding: 0px 27px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.display-per-item-single-line:nth-child(2n) {
+    background: linear-gradient(90deg, transparent 0%, #e5e5f7 5%, #e5e5f7 95%, transparent 100%);
+    padding: 0px 27px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+details {
+    margin: 0;
+    padding: 0;
+}
+
+summary {
+    padding: 3px;
+    margin-left: 10px;
+}
+
+.display-per-item-stats > p > img {
+    height: 19px;
+    margin-bottom: -3px;
+}
+
+#used-in-dropdown {
+    border-bottom: 2px solid black;
+}
+
+/*rarity border colours for rarity tag display*/
+.common-rarity-display {
+    --rarity-colour-display-outside: #40464d;
+    --rarity-colour-display-inside: #b7bfc5;
+}
+.uncommon-rarity-display {
+    --rarity-colour-display-outside: #024f03;
+    --rarity-colour-display-inside: #61bf00;
+}
+.rare-rarity-display {
+    --rarity-colour-display-outside: #00458a;
+    --rarity-colour-display-inside: #00afff;
+}
+.epic-rarity-display {
+    --rarity-colour-display-outside: #4c197b;
+    --rarity-colour-display-inside: #ce59ff;
+}
+.legendary-rarity-display {
+    --rarity-colour-display-outside: #8a3c1e;
+    --rarity-colour-display-inside: #ff8b19;
+}
+.special-rarity-display {
+    --rarity-colour-display-outside:#a6385b;
+    --rarity-colour-display-inside: #ed445d;
+}
+.buildable-rarity-display {
+    --rarity-colour-display-outside: #1985e4;
+    --rarity-colour-display-inside: #FFFFFF ;
+}
+
+
+.display-per-item-stats-rarity-display {
+    height: 15px;
+    width: min-content;
+    background-color: var(--rarity-colour-display-outside); 
+    color: var(--rarity-colour-display-inside);
+    transform: skew(-15deg);
+    font-size: 15px;
+    border: none;
+    border-radius: 3px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    font-weight: 900;
+    padding: 2px;
+    margin: 0;
+    margin-left: 5px;
+}
+
+.display-per-item-rarity-whole-line {
+    display: flex;
+}
+
+/* TODO fix rarity going through header */

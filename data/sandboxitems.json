@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Boulder",
+        "id": "boulder",
+        "description": "Deploy a Boulder",
+        "flavour-text": "Deploy a Boulder",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Small Boulder",
+        "id": "small-boulder",
+        "description": "Deploy a Small Boulder",
+        "flavour-text": "Deploy a Small Boulder",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 30
+        }
+    }
+]

@@ -1,0 +1,2166 @@
+[
+    {
+        "name": "Hunting Dagger: Common",
+        "id": "hunting-dagger-common",
+        "description": "A basic dagger, ideal for melee combat. Deals critical hits when behind your target.",
+        "flavour-text": "And it can spread butter!",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 1,
+            "damage": 2
+        }
+    },
+    {
+        "name": "Hunting Dagger: Uncommon",
+        "id": "hunting-dagger-uncommon",
+        "description": "A sturdy dagger, ideal for melee combat. Deals critical hits when behind your target.",
+        "flavour-text": "Get the point?",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 1,
+            "damage": 3
+        }
+    },
+    {
+        "name": "Hunting Dagger: Rare",
+        "id": "hunting-dagger-rare",
+        "description": "A strong dagger, ideal for melee combat. Deals critical hits when behind your target.",
+        "flavour-text": "They better watch their back.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 1,
+            "damage": 4
+        }
+    },
+    {
+        "name": "Hunting Dagger: Epic",
+        "id": "hunting-dagger-epic",
+        "description": "A powerful dagger, ideal for melee combat. Deals critical hits when behind your target.",
+        "flavour-text": "A sneak attack signature.",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 1,
+            "damage": 5
+        }
+    },
+    {
+        "name": "Recurve Crossbow: Common",
+        "id": "recurve-crossbow-common",
+        "description": "A basic crossbow, ideal for dealing with ranged enemies from afar.",
+        "flavour-text": "Make your point from far away",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 1,
+            "damage": 5
+        }
+    },
+    {
+        "name": "Recurve Crossbow: Uncommon",
+        "id": "recurve-crossbow-uncommon",
+        "description": "A sturdy crossbow, ideal for dealing with ranged enemies from afar.",
+        "flavour-text": "They'll never see it comin'",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 1,
+            "damage": 7
+        }
+    },
+    {
+        "name": "Recurve Crossbow: Rare",
+        "id": "recurve-crossbow-rare",
+        "description": "A strong crossbow, ideal for dealing with ranged enemies from afar.",
+        "flavour-text": "Nock an arrow and knock off a few foes.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 1,
+            "damage": 10
+        }
+    },
+    {
+        "name": "Recurve Crossbow: Epic",
+        "id": "recurve-crossbow-epic",
+        "description": "A powerful crossbow, ideal for dealing with ranged enemies from afar.",
+        "flavour-text": "Let those arrows fly!",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 1,
+            "damage": 14
+        }
+    },
+    {
+        "name": "Knight Shield: Common",
+        "id": "knight-shield-common",
+        "description": "A simple shield that can be used to block incoming damage.",
+        "flavour-text": "Keep little nuisances at bay.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Knight Shield: Uncommon",
+        "id": "knight-shield-uncommon",
+        "description": "A sturdy shield that can be used to block incoming damage.",
+        "flavour-text": "Strong enough for your average battle.",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Knight Shield: Rare",
+        "id": "knight-shield-rare",
+        "description": "A strong shield that can be used to block incoming damage.",
+        "flavour-text": "Hold them back!",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Knight Shield: Epic",
+        "id": "knight-shield-epic",
+        "description": "A powerful shield that can be used to block incoming damage.",
+        "flavour-text": "Protect yourself against powerful enemies",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Shortsword",
+        "id": "shortsword",
+        "description": "A basic sword, ideal for melee combat with enemies up-close.",
+        "flavour-text": "Get up close and personal.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 1,
+            "damage": 3
+        }
+    },
+    {
+        "name": "Longsword: Uncommon",
+        "id": "longsword-uncommon",
+        "description": "A sturdy sword, ideal for melee combat with enemies up-close.",
+        "flavour-text": "Take on stronger enemies.",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 1,
+            "damage": 5
+        }
+    },
+    {
+        "name": "Longsword: Rare",
+        "id": "longsword-rare",
+        "description": "A strong sword, ideal for melee combat with enemies up-close.",
+        "flavour-text": "Slash and slice!",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 1,
+            "damage": 7
+        }
+    },
+    {
+        "name": "Longsword: Epic",
+        "id": "longsword-epic",
+        "description": "A powerful sword, ideal for melee combat with enemies up-close.",
+        "flavour-text": "Take down your greatest foes!",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 1,
+            "damage": 9
+        }
+    },
+    {
+        "name": "Dynamite",
+        "id": "dynamite",
+        "description": "A powerful explosive.",
+        "flavour-text": "Lob this to make whatever's in your way go to pieces.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 30,
+            "damage": 16
+        }
+    },
+    {
+        "name": "Arrow",
+        "id": "arrow",
+        "description": "Ammo used for Crossbows.",
+        "flavour-text": "Load up and launch.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 80
+        }
+    },
+    {
+        "name": "Glider",
+        "id": "glider",
+        "description": "Use to glide through the skies from high places.",
+        "flavour-text": "Go sky-high.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 1,
+            "equipment-type": "active-equipment",
+            "damage": 1
+        }
+    },
+    {
+        "name": "Grappler",
+        "id": "grappler",
+        "description": "Launch a plunger and get pulled to your target.",
+        "flavour-text": "For those hard-to-reach areas.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Survival Compass",
+        "id": "survival-compass",
+        "description": "Adds navigation and map markers to the HUD.",
+        "flavour-text": "Navigate the adventure with confidence.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 1,
+            "equipment-type": "passive-equipment"
+        }
+    },
+    {
+        "name": "Power Cell",
+        "id": "power-cell",
+        "description": "Place then inside a Power Center to provide Power to your contraptions.",
+        "flavour-text": "A lil' power in the palm of your hands.",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Basic Compass",
+        "id": "basic-compass",
+        "description": "Adds basic navigation to the HUD.",
+        "flavour-text": "Trust the compass.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 1,
+            "equipment-type": "passive-equipment"
+        }
+    },
+    {
+        "name": "Spyglass",
+        "id": "spyglass",
+        "description": "A telescopic tool that magnifies distant views.",
+        "flavour-text": "Zoom in, discover more.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 1,
+            "damage": 5
+        }
+    },
+    {
+        "name": "Torch",
+        "id": "torch",
+        "description": "Creates light and a small amount of warmth. Helpful for exploring caves.",
+        "flavour-text": "Light the way.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Wrench",
+        "id": "wrench",
+        "description": "A tool used to modify toys.",
+        "flavour-text": "Some assembly required.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Essence of Damage",
+        "id": "essence-of-damage",
+        "description": "Increase the damage of your weapons and tools.",
+        "flavour-text": "Once applied, essences cannot be removed or modified",
+        "attributes": {
+            "rarity": "special",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Essence of Durability",
+        "id": "essence-of-durability",
+        "description": "Increase the durability of your weapons and tools.",
+        "flavour-text": "Once applied, essences cannot be removed or modified",
+        "attributes": {
+            "rarity": "special",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Essence of Health",
+        "id": "essence-of-health",
+        "description": "Increase the chance of creatures & enemies dropping healing items when using weapons and tools.",
+        "flavour-text": "Once applied, essences cannot be removed or modified",
+        "attributes": {
+            "rarity": "special",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Essence of Luck",
+        "id": "essence-of-luck",
+        "description": "Increase the chance of dropping extra loot when using weapons and tools.",
+        "flavour-text": "Once applied, essences cannot be removed or modified",
+        "attributes": {
+            "rarity": "special",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Cut Sapphire",
+        "id": "cut-sapphire",
+        "description": "Crafting material. Refined from Rough Sapphire.",
+        "flavour-text": "ohh, SHINY!",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Cut Ruby",
+        "id": "cut-ruby",
+        "description": "Crafting material. Refined from Rough Ruby",
+        "flavour-text": "ohh, SHINY!",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Cut Amber",
+        "id": "cut-amber",
+        "description": "Crafting material. Refined from Rough Amber",
+        "flavour-text": "ohh, SHINY!",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Iron Bar",
+        "id": "iron-bar",
+        "description": "Use for crafting building materials and weapons. Smelted from Iron.",
+        "flavour-text": "Oh, the iron-y.",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Copper Bar",
+        "id": "copper-bar",
+        "description": "Crafting material. Mined from Copper.",
+        "flavour-text": "Cop some copper.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Glass",
+        "id": "glass",
+        "description": "Crafting material. Made from Sand.",
+        "flavour-text": "It's clear this is a good material.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Silk Fabric",
+        "id": "silk-fabric",
+        "description": "Crafting material. Spun from Silk Thread.",
+        "flavour-text": "Silky smooth.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Wool Fabric",
+        "id": "wool-fabric",
+        "description": "Crafting material. Spun from wool thread.",
+        "flavour-text": "It's so fluffy!",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Forest Axe: Common",
+        "id": "forest-axe-common",
+        "description": "A basic stone axe. Perfect for harvesting trees for for self-defense.",
+        "flavour-text": "Take some trees down a few notches.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 1,
+            "damage": 2
+        }
+    },
+    {
+        "name": "Forest Axe: Uncommon",
+        "id": "forest-axe-uncommon",
+        "description": "A sturdy axe made from bone.",
+        "flavour-text": "Strong enough for chopping down trees... or your enemies",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 1,
+            "damage": 3
+        }
+    },
+    {
+        "name": "Forest Axe: Rare",
+        "id": "forest-axe-rare",
+        "description": "A strong axe crafted from Amber.",
+        "flavour-text": "Make a few trees and even more enemies fall with one of these",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 1,
+            "damage": 5
+        }
+    },
+    {
+        "name": "Forest Axe: Epic",
+        "id": "forest-axe-epic",
+        "description": "A powerful axe derived from Copper.",
+        "flavour-text": "Chop, chop, chop!",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 1,
+            "damage": 7
+        }
+    },
+    {
+        "name": "Pickaxe: Common",
+        "id": "pickaxe-common",
+        "description": "A basic pickaxe made from Wood. Can harvest stone objects, and is very effective against structures.",
+        "flavour-text": "Those rocks won't stand a chance.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 1,
+            "damage": 1
+        }
+    },
+    {
+        "name": "Pickaxe: Uncommon",
+        "id": "pickaxe-uncommon",
+        "description": "A sturdy pickaxe carved from Bone. Can harvest stone objects, and is very effective against structures.",
+        "flavour-text": "Turn rocks into tiny pebbles.",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 1,
+            "damage": 2
+        }
+    },
+    {
+        "name": "Pickaxe: Rare",
+        "id": "pickaxe-rare",
+        "description": "A strong pickaxer crafted from Flexwood. Can harvest stone objects, and is very effective against structures.",
+        "flavour-text": "If it's in your way, you can pick it out.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 1,
+            "damage": 3
+        }
+    },
+    {
+        "name": "Pickaxe: Epic",
+        "id": "pickaxe-epic",
+        "description": "A strong pickaxe crafted from Obsidian. Can harvest stone objects, and is very effective against structures.",
+        "flavour-text": "Strike for heavy metals with this heavy Pickaxe.",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 1,
+            "damage": 4
+        }
+    },
+    {
+        "name": "Shovel: Common",
+        "id": "shovel-common",
+        "description": "A simple shovel. Ideal for digging up soil.",
+        "flavour-text": "Serve up some soil.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Shovel: Uncommon",
+        "id": "shovel-uncommon",
+        "description": "A sturdy shovel. Ideal for digging up soil.",
+        "flavour-text": "Take a dig or two.",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Shovel: Rare",
+        "id": "shovel-rare",
+        "description": "A strong shovel. Ideal for digging up soil.",
+        "flavour-text": "Dig up something new.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Shovel: Epic",
+        "id": "shovel-epic",
+        "description": "A powerful shovel. Ideal for digging up soil.",
+        "flavour-text": "Dig deeper than ever before!",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Fishing Rod: Common",
+        "id": "fishing-rod-common",
+        "description": "A basic rod that can be used to catch fish",
+        "flavour-text": "Fish more, worry less.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Fishing Rod: Uncommon",
+        "id": "fishing-rod-uncommon",
+        "description": "A sturdy rod that can be used to catch fish",
+        "flavour-text": "Reel in the good times.",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Fishing Rod: Rare",
+        "id": "fishing-rod-rare",
+        "description": "A strong rod that can be used to catch fish",
+        "flavour-text": "Cast away your troubles.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Fishing Rod: Epic",
+        "id": "fishing-rod-epic",
+        "description": "A powerful rod that can be used to catch fish",
+        "flavour-text": "Hooked on fishing!",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 1
+        }
+    },
+    {
+        "name": "Granite Slab",
+        "id": "granite-slab",
+        "description": "Used to construct building materials. Harvested from Granite",
+        "flavour-text": "Rock on.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Marble Slab",
+        "id": "marble-slab",
+        "description": "Used for crafting building materials and weapons. Processed from Marble.",
+        "flavour-text": "Not just for marbles anymore!",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Obsidian Slab",
+        "id": "obsidian-slab",
+        "description": "Used for crafting building materials and weapons. Cut from Obsidian.",
+        "flavour-text": "A rare cut.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Malachite Slab",
+        "id": "malachite-slab",
+        "description": "Used for crafting building materials and weapons. Cut from Malachite.",
+        "flavour-text": "Mystical metal.",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Spicy Burger",
+        "id": "spicy-burger",
+        "description": "Eat to heal, reduce Hunger, and temporarily increase Cold Resistance.",
+        "flavour-text": "Like a regular burger, but with a little flair.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 30,
+            "hunger-restored": 10,
+            "cold-resistance": "10:00",
+            "bonus-health": 4
+        }
+    },
+    {
+        "name": "Corn on the Cob",
+        "id": "corn-on-the-cob",
+        "description": "Eat to heal, reduce Hunger, and temporarily increase Stamina regeneration.",
+        "flavour-text": "Fresh corn, straight from the stalk.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30,
+            "health-restored": 3,
+            "hunger-restored": 5,
+            "stamina": "1 2:00"
+        }
+    },
+    {
+        "name": "Fried Egg",
+        "id": "fried-egg",
+        "description": "Eat to heal, reduce Hunger, and temporarily increase Stamina regeneration.",
+        "flavour-text": "Just don't burn it!",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30,
+            "health-restored": 4,
+            "hunger-restored": 5,
+            "stamina": "2 2:00"
+        }
+    },
+    {
+        "name": "Grilled Meat",
+        "id": "grilled-meat",
+        "description": "Eat to heal and reduce Hunger",
+        "flavour-text": "At least it's not raw.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30,
+            "hunger-restored": 8,
+            "bonus-health": 2
+        }
+    },
+    {
+        "name": "Black And Blue Shieldfish Sushi",
+        "id": "black-and-blue-shieldfish-sushi",
+        "description": "Eat to heal and reduce Hunger.",
+        "flavour-text": "Naturally blue.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30,
+            "health-restored": 2,
+            "hunger-restored": 5,
+            "bonus-health": 3
+        }
+    },
+    {
+        "name": "Simple Sushi",
+        "id": "simple-sushi",
+        "description": "Eat to heal and reduce Hunger",
+        "flavour-text": "The traditional choice.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30,
+            "health-restored": 3,
+            "hunger-restored": 5
+        }
+    },
+    {
+        "name": "Spicy Fish Sandwich",
+        "id": "spicy-fish-sandwich",
+        "description": "Eat to heal, reduce Hunger, and temporarily increase Cold Resistance",
+        "flavour-text": "Nothing like some hot fish on a cold day.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30,
+            "health-restored": 13,
+            "hunger-restored": 10,
+            "cold-resistance": "4:00"
+        }
+    },
+    {
+        "name": "Health Charm: Common",
+        "id": "health-charm-common",
+        "description": "Adds health and defense",
+        "flavour-text": "Feel a lil' better with a max health boost.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 1,
+            "equipment-type": "charm",
+            "health": 1,
+            "defense": 1
+        }
+    },
+    {
+        "name": "Wavebreak Charm: Uncommon",
+        "id": "wavebreak-charm-uncommon",
+        "description": "Accelerates swimming speed.",
+        "flavour-text": "Be a speedy swimmer.",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 1,
+            "equipment-type": "charm",
+            "health": 2,
+            "defense": 5
+        }
+    },
+    {
+        "name": "Illuminator",
+        "id": "illuminator",
+        "description": "Adds an aura of light in times of darkness. Does not stack with other carried light sources.",
+        "flavour-text": "Shine through the darkness.",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 1,
+            "equipment-type": "passive-equipment"
+        }
+    },
+    {
+        "name": "Hearty Totem: Uncommon",
+        "id": "hearty-totem-uncommon",
+        "description": "When full health, gain bonus health after a few seconds.",
+        "flavour-text": "Keep your guard up.",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 1,
+            "equipment-type": "charm",
+            "health": 3,
+            "defense": 5
+        }
+    },
+    {
+        "name": "Health Charm: Uncommon",
+        "id": "health-charm-uncommon",
+        "description": "Adds health and defense.",
+        "flavour-text": "Lift your spirits by amping up your max health.",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 1,
+            "equipment-type": "charm",
+            "health": 2,
+            "defense": 3
+        }
+    },
+    {
+        "name": "Cool Headed Charm: Uncommon",
+        "id": "cool-headed-charm-uncommon",
+        "description": "Increases resistance to hot temperatures.",
+        "flavour-text": "Stay cool when it's too hot.",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 1,
+            "equipment-type": "charm",
+            "health": 3,
+            "defense": 5
+        }
+    },
+    {
+        "name": "Wavebreak Charm: Rare",
+        "id": "wavebreak-charm-rare",
+        "description": "Accelerates swimming speed.",
+        "flavour-text": "World-class swim-speed.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 1,
+            "equipment-type": "charm",
+            "health": 4,
+            "defense": 10
+        }
+    },
+    {
+        "name": "Totem Of The Immortal",
+        "id": "totem-of-the-immortal",
+        "description": "Revive after taking lethal damage. Destroys itself when used.",
+        "flavour-text": "No hearts? No problem.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 1,
+            "equipment-type": "charm",
+            "health": 4,
+            "defense": 7
+        }
+    },
+    {
+        "name": "Regeneration Charm: Rare",
+        "id": "regeneration-charm-rare",
+        "description": "Regenerates health over time.",
+        "flavour-text": "Get well soon.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 1,
+            "equipment-type": "charm",
+            "health": 4,
+            "defense": 7
+        }
+    },
+    {
+        "name": "Inner Fire Charm: Rare",
+        "id": "inner-fire-charm-rare",
+        "description": "Increases resistance to cold temperatures.",
+        "flavour-text": "Keep yourself nice and toasty",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 1,
+            "equipment-type": "charm",
+            "health": 4,
+            "defense": 7
+        }
+    },
+    {
+        "name": "Hearty Totem: Rare",
+        "id": "hearty-totem-rare",
+        "description": "When full health, gain bonus health after a few seconds.",
+        "flavour-text": "Stay strong out there.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 1,
+            "equipment-type": "charm",
+            "health": 4,
+            "defense": 10
+        }
+    },
+    {
+        "name": "Health Charm: Rare",
+        "id": "health-charm-rare",
+        "description": "Adds health and defense.",
+        "flavour-text": "Bring your max health to the next level.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 1,
+            "equipment-type": "charm",
+            "health": 3,
+            "defense": 5
+        }
+    },
+    {
+        "name": "Good Luck Charm",
+        "id": "good-luck-charm",
+        "description": "Raises chances of finding rare loot when digging.",
+        "flavour-text": "Things just seem to work out!",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 1,
+            "equipment-type": "charm",
+            "health": 4,
+            "defense": 10
+        }
+    },
+    {
+        "name": "Cool Headed Charm: Rare",
+        "id": "cool-headed-charm-rare",
+        "description": "Increases resistance to hot temperatures.",
+        "flavour-text": "Be cool as ice.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 1,
+            "equipment-type": "charm",
+            "health": 4,
+            "defense": 10
+        }
+    },
+    {
+        "name": "Charm Of Resilience: Rare",
+        "id": "charm-of-resilience-rare",
+        "description": "Grants bonus defense for a few seconds after taking damage.",
+        "flavour-text": "Battle-ready.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 1,
+            "equipment-type": "charm",
+            "health": 4,
+            "defense": 7
+        }
+    },
+    {
+        "name": "Reflection Charm",
+        "id": "reflection-charm-rare",
+        "description": "Reflects a moderate amount of damage back to an attacker.",
+        "flavour-text": "Your pain, your gain.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 1,
+            "equipment-type": "charm",
+            "health": 2,
+            "defense": 3
+        }
+    },
+    {
+        "name": "Reflection Charm",
+        "id": "reflection-charm-epic",
+        "description": "Reflects a moderate amount of damage back to an attacker.",
+        "flavour-text": "Reflect and turn the tables.",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 1,
+            "equipment-type": "charm",
+            "health": 4,
+            "defense": 10
+        }
+    },
+    {
+        "name": "Regeneration Charm: Epic",
+        "id": "regeneration-charm-epic",
+        "description": "Regenerates health over time.",
+        "flavour-text": "Speedy recovery.",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 1,
+            "equipment-type": "charm",
+            "health": 5,
+            "defense": 14
+        }
+    },
+    {
+        "name": "Inner Fire Charm: Epic",
+        "id": "inner-fire-charm-epic",
+        "description": "Increases resistance to cold temperatures.",
+        "flavour-text": "In this case, DON'T chilll out",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 1,
+            "equipment-type": "charm",
+            "health": 5,
+            "defense": 14
+        }
+    },
+    {
+        "name": "Health Charm: Epic",
+        "id": "health-charm-epic",
+        "description": "Adds health and defense.",
+        "flavour-text": "Take your health to the MAX.",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 1,
+            "equipment-type": "charm",
+            "health": 5,
+            "defense": 14
+        }
+    },
+    {
+        "name": "Charm Of Resilience: Epic",
+        "id": "charm-of-resilience-epic",
+        "description": "Grants bonus defense for a few seconds after taking damage.",
+        "flavour-text": "The best defense is a good... defense.",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 1,
+            "equipment-type": "charm",
+            "health": 5,
+            "defense": 14
+        }
+    },
+    {
+        "name": "Flour",
+        "id": "flour",
+        "description": "Use for baking fresh food. Harvested from Wheat Grain.",
+        "flavour-text": "Please bake before eating.",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Pepper Seed",
+        "id": "pepper-seed",
+        "description": "Plant in a Garden Plot to grow Peppers.",
+        "flavour-text": "Just a lil' spicy.",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 50
+        }
+    },
+    {
+        "name": "Snowberry Seed",
+        "id": "snowberry-seed",
+        "description": "Plant in a Garden Plot to grow Snowberries.",
+        "flavour-text": "Sweet and snowy!",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 50
+        }
+    },
+    {
+        "name": "Slapberry Seed",
+        "id": "slapberry-seed",
+        "description": "Plant in a Garden Plot to grow Slapberries.",
+        "flavour-text": "Give your stamina a boost... eventually.",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 50
+        }
+    },
+    {
+        "name": "Corn Kernel",
+        "id": "corn-kernel",
+        "description": "Plant in a Garden Plot to grow Corn.",
+        "flavour-text": "These are bound to get stuck in your teath.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 50
+        }
+    },
+    {
+        "name": "Pumpkin Seed",
+        "id": "pumpkin-seed",
+        "description": "Plant in a Garden Plot to grow Pumpkins.",
+        "flavour-text": "Every pumpkin's gotta start somewhere.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 50
+        }
+    },
+    {
+        "name": "Raspberry Seed",
+        "id": "raspberry-seed",
+        "description": "Plant in a Garden Plot to grow Raspberries.",
+        "flavour-text": "One small step towards fresh raspberries.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 50
+        }
+    },
+    {
+        "name": "Wheat Grain",
+        "id": "wheat-grain",
+        "description": "Plant in a Garden Plot to grow Wheat.",
+        "flavour-text": "Part of a balanced breakfast.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 50
+        }
+    },
+    {
+        "name": "Bait Bucket: Common",
+        "id": "bait-bucket-common",
+        "description": "Throw this into water to attract fish!",
+        "flavour-text": "Here fishy fishy fishy!",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Bait Bucket: Uncommon",
+        "id": "bait-bucket-uncommon",
+        "description": "Throw this into water to attract fish!",
+        "flavour-text": "Looks delish to a fish",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Bait Bucket: Rare",
+        "id": "bait-bucket-rare",
+        "description": "Throw this into water to attract fish!",
+        "flavour-text": "It almost glitters",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Bait Bucket: Epic",
+        "id": "bait-bucket-epic",
+        "description": "Throw this into water to attract fish!",
+        "flavour-text": "Fish dinner coming right up!",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Snowberry Shake",
+        "id": "snowberry-shake",
+        "description": "Drink to heal and temporarily increase Heat Resistance",
+        "flavour-text": "Just don't drink too fast and get a brain freeze!",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 30,
+            "health-restored": 12,
+            "hunger-restored": 5,
+            "heat-resistance": "10:00"
+        }
+    },
+    {
+        "name": "Slap Juice",
+        "id": "slap-juice",
+        "description": "Drink to heal and temporarily increase Stamina regeneration",
+        "flavour-text": "Feel better and get a quick boost!",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 30,
+            "hunger-restored": 5,
+            "bonus-health": 3,
+            "stamina": "3 2:00"
+        }
+    },
+    {
+        "name": "Slurp Juice",
+        "id": "slurp-juice",
+        "description": "Drink to heal over time",
+        "flavour-text": "Take your time to heal.",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 30,
+            "hunger-restored": 5,
+            "regeneration": "5:00"
+        }
+    },
+    {
+        "name": "Fruit Pie",
+        "id": "fruit-pie",
+        "description": "Eat to heal, reduce Hunger, and temporarily increase Stamina regeneration.",
+        "flavour-text": "A naturally-sweet treat.",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 30,
+            "health-restored": 15,
+            "hunger-restored": 8,
+            "stamina": "5 2:00"
+        }
+    },
+    {
+        "name": "Pizza",
+        "id": "pizza",
+        "description": "Eat to heal and reduce Hunger",
+        "flavour-text": "The tasty circle of life.",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 30,
+            "health-restored": 25,
+            "hunger-restored": 20,
+            "bonus-health": 5
+        }
+    },
+    {
+        "name": "Bread",
+        "id": "bread",
+        "description": "Eat to heal and reduce Hunger",
+        "flavour-text": "Fresh from the oven.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 30,
+            "health-restored": 10,
+            "hunger-restored": 10
+        }
+    },
+    {
+        "name": "Meat Pie",
+        "id": "meat-pie",
+        "description": "Eat to heal and reduce Hunger",
+        "flavour-text": "It's meat! It's pie! It's the perfect combo!",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 30,
+            "health-restored": 20,
+            "hunger-restored": 20,
+            "bonus-health": 4
+        }
+    },
+    {
+        "name": "Pumpkin Pie",
+        "id": "pumpkin-pie",
+        "description": "Eat to heal, reduce Hunger, and temporarily increase Stamina.",
+        "flavour-text": "Never goes out of season.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 30,
+            "health-restored": 10,
+            "hunger-restored": 20,
+            "stamina": "4 2:00"
+        }
+    },
+    {
+        "name": "Frostpine Rod",
+        "id": "frostpine-rod",
+        "description": "Use for crafting building materials and weaponns. Carved from Frostpine",
+        "flavour-text": "An essential crafting item",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Flexwood Rod",
+        "id": "flexwood-rod",
+        "description": "Use for crafting building materials and weaponns. Carved from Wood",
+        "flavour-text": "An essential crafting item",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Knotroot Rod",
+        "id": "knotroot-rod",
+        "description": "Use for crafting building materials and weaponns. Carved from Knotroot",
+        "flavour-text": "An essential crafting item",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Wooden Rod",
+        "id": "wooden-rod",
+        "description": "Use for crafting building materials and weaponns. Carved from Wood",
+        "flavour-text": "An essential crafting item",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Plank",
+        "id": "plank",
+        "description": "Use for crafting building materials and weaponns. Carved from Wood",
+        "flavour-text": "An essential crafting item",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Heavy Wool Thread",
+        "id": "heavy-wool-thread",
+        "description": "Crafting material. Spun from Heavy Wool.",
+        "flavour-text": "Be sure to thank the nearest sheep!",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Cord",
+        "id": "cord",
+        "description": "Crafting material. Refinded from Vines.",
+        "flavour-text": "This will really tie things together",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Drawstring",
+        "id": "drawstring",
+        "description": "Crafting material. Spun from Cord.",
+        "flavour-text": "Do NOT let it get into knots!",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Silk Thread",
+        "id": "silk-thread",
+        "description": "Crafting material. Spun from Silk.",
+        "flavour-text": "Thank you, Spiders",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Wool Thread",
+        "id": "wool-thread",
+        "description": "Crafting material. Made from Wool.",
+        "flavour-text": "Aren't you feeling warmer already?",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Granite",
+        "id": "granite",
+        "description": "A common stone found in the Grasslands.",
+        "flavour-text": "Take it for granite.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 50
+        }
+    },
+    {
+        "name": "Sand",
+        "id": "sand",
+        "description": "Can be dug out of the ground in sandy areas with a Shovel.",
+        "flavour-text": "Of course it gets everywhere.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Slurp Mushroom",
+        "id": "slurp-mushroom",
+        "description": "A cooking ingredient commonly found in caves.",
+        "flavour-text": "Like candy from the caves!",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Soil",
+        "id": "soil",
+        "description": "Can be dug out of the ground with a Shovel.",
+        "flavour-text": "Gotta plant those seeds in something!",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Vines",
+        "id": "vines",
+        "description": "Leafy parts often found in bushes and small plants.",
+        "flavour-text": "Try to get these before the Chickens do!",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 50
+        }
+    },
+    {
+        "name": "Wheat",
+        "id": "wheat",
+        "description": "A cooking ingredient used for making Flour.",
+        "flavour-text": "Always useful when it comes to cooking.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Wood",
+        "id": "wood",
+        "description": "A wood commonly found in the Grasslands.",
+        "flavour-text": "Fresh from the stump.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 50
+        }
+    },
+    {
+        "name": "Knotroot",
+        "id": "knotroot",
+        "description": "A sturdy wood found in Caves.",
+        "flavour-text": "Cave-dwelling wood.",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 50
+        }
+    },
+    {
+        "name": "Marble",
+        "id": "marble",
+        "description": "A stone found in the Grasslands Caves.",
+        "flavour-text": "Smoothed over time.",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 50
+        }
+    },
+    {
+        "name": "Rough Amber",
+        "id": "rough-amber",
+        "description": "A gem found atop the Dry Valley mesas.",
+        "flavour-text": "Cut this into something nice.",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Brightcore",
+        "id": "brightcore",
+        "description": "A shiny stone found in Lava Caves.",
+        "flavour-text": "Shimmering in the dark.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 50
+        }
+    },
+    {
+        "name": "Copper",
+        "id": "copper",
+        "description": "A metal found in Lava Caves.",
+        "flavour-text": "Not just for coins!",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Flexwood",
+        "id": "flexwood",
+        "description": "A dry wood found in the Dry Valley.",
+        "flavour-text": "Sun-baked timber",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 50
+        }
+    },
+    {
+        "name": "Obsidian",
+        "id": "obsidian",
+        "description": "A dark stone found in Lava Caves.",
+        "flavour-text": "Dark as the night sky.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 50
+        }
+    },
+    {
+        "name": "Rough Ruby",
+        "id": "rough-ruby",
+        "description": "A gem found in Lava Caves.",
+        "flavour-text": "Every jewel starts a little rough.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Snow",
+        "id": "snow",
+        "description": "A frosty ingredient used in the coolest recipes.",
+        "flavour-text": "It's like cold sand you can eat!",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 50
+        }
+    },
+    {
+        "name": "Frostpine",
+        "id": "frostpine",
+        "description": "A frosty wood found in the Frostlands.",
+        "flavour-text": "Brush off all the snow first.",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 50
+        }
+    },
+    {
+        "name": "Iron",
+        "id": "iron",
+        "description": "A metal found in Frostlands Caves.",
+        "flavour-text": "Build something tough with this.",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Malachite",
+        "id": "malachite",
+        "description": "An icy gem found in the Frostlands.",
+        "flavour-text": "Chilly but shiny!",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 50
+        }
+    },
+    {
+        "name": "Rough Sapphire",
+        "id": "rough-sapphire",
+        "description": "A gem found in the Frostlands.",
+        "flavour-text": "One step from becoming a crown jewel.",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 50
+        }
+    },
+    {
+        "name": "Biomass",
+        "id": "biomass",
+        "description": "Can be crafted into Power Cells used to power certain toys.",
+        "flavour-text": "Fuel your Village.",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 50
+        }
+    },
+    {
+        "name": "Feather",
+        "id": "feather",
+        "description": "A small crafting ingredient often dropped by birds.",
+        "flavour-text": "Light as one of these.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 50
+        }
+    },
+    {
+        "name": "Fertilizer",
+        "id": "fertilizer",
+        "description": "The leavings of an animal that can be used in farming.",
+        "flavour-text": "Watch your step!",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Silk",
+        "id": "silk",
+        "description": "A fine silk web often dropped by spiders.",
+        "flavour-text": "Silky. Smooth. Spidery.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Wolf Claw",
+        "id": "wolf-claw",
+        "description": "A sharp claw dropped by Wild Wolves.",
+        "flavour-text": "Who's the sharp one now?",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 50
+        }
+    },
+    {
+        "name": "Sand Claw",
+        "id": "sand-claw",
+        "description": "A sharp claw dropped by Sand Wolves.",
+        "flavour-text": "Sharp and hot.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 50
+        }
+    },
+    {
+        "name": "Arctic Claw",
+        "id": "arctic-claw",
+        "description": "A sharp claw dropped by Frost Wolves.",
+        "flavour-text": "Snowy and slicy.",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 50
+        }
+    },
+    {
+        "name": "Wool",
+        "id": "wool",
+        "description": "A crafting ingredient often shed by friendly sheep.",
+        "flavour-text": "The sheep and helping in their own lil' way.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Blast Powder",
+        "id": "blast-powder",
+        "description": "An explosive powder left behind by explosive enemies.",
+        "flavour-text": "Helpful when making things that make things go BOOM.",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Bone",
+        "id": "bone",
+        "description": "A sturdy bone often dropped by skeletons.",
+        "flavour-text": "Hey, they had their chance to use it.",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 50
+        }
+    },
+    {
+        "name": "Cursed Bone",
+        "id": "cursed-bone",
+        "description": "A crafting ingerdient left behind by skeletons.",
+        "flavour-text": "Those skeletons ONLY have bad bones in their bodies.",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Brute Scale",
+        "id": "brute-scale",
+        "description": "A scale left behind by fallen Brutes.",
+        "flavour-text": "Ew.",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Sand Brute Scale",
+        "id": "sand-brute-scale",
+        "description": "A scale left behind by fallen Brutes.",
+        "flavour-text": "Ew.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Frost Brute Scale",
+        "id": "frost-brute-scale",
+        "description": "A scale left behind by fallen Brutes.",
+        "flavour-text": "Ew.",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Shell",
+        "id": "shell",
+        "description": "A crafting ingredient left behind by Rollers.",
+        "flavour-text": "Hard-top",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Sand Shell",
+        "id": "sand-shell",
+        "description": "A crafting ingredient left behind by Sand Rollers.",
+        "flavour-text": "Shake out all the sand first.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Frost Shell",
+        "id": "frost-shell",
+        "description": "A crafting ingredient left behind by Frost Rollers.",
+        "flavour-text": "Keeps the heat in.",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Blast Core",
+        "id": "blast-core",
+        "description": "A crafting ingredient left behind by Blasters.",
+        "flavour-text": "Make things go KA-BOOM with a bit of this.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Heavy Wool",
+        "id": "heavy-wool",
+        "description": "A crafting ingredient sometimes shed by friendly sheep.",
+        "flavour-text": "Thick like a warm winter coat.",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Blue Flopper: Common",
+        "id": "blue-flopper-common",
+        "description": "A fish found in cold locations or the ocean. Can be processed into Fish Fillets.",
+        "flavour-text": "A classic, with stripey blye style.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Blue Flopper: Legendary",
+        "id": "blue-flopper-legendary",
+        "description": "A Legendary fish that can make a fine trophy.",
+        "flavour-text": "A classic, with stripey blye style.",
+        "attributes": {
+            "rarity": "legendary",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Blue Small Fry: Common",
+        "id": "blue-small-fry-common",
+        "description": "A small and very common fish. Can be processed into Fish Fillets.",
+        "flavour-text": "Good things come in fry packages.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Blue Small Fry: Legendary",
+        "id": "blue-small-fry-legendary",
+        "description": "A Legendary fish that can make a fine trophy.",
+        "flavour-text": "Good things come in fry packages.",
+        "attributes": {
+            "rarity": "legendary",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Green Flopper: Common",
+        "id": "green-flopper-common",
+        "description": "A fish found in warm locations or underground. Can be processed into Fish Fillets.",
+        "flavour-text": "A little green around the gills.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Green Flopper: Legendary",
+        "id": "green-flopper-legendary",
+        "description": "A Legendary fish that can make a fine trophy.",
+        "flavour-text": "A little green around the gills.",
+        "attributes": {
+            "rarity": "legendary",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Orange Flopper: Common",
+        "id": "orange-flopper-common",
+        "description": "A fish frequently found in many different locations. Can be processed into Fish Fillets.",
+        "flavour-text": "He looks so familier...",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Orange Flopper: Legendary",
+        "id": "orange-flopper-legendary",
+        "description": "A Legendary fish that can make a fine trophy.",
+        "flavour-text": "He looks so familier...",
+        "attributes": {
+            "rarity": "legendary",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Black And Blue Shieldfish: Uncommon",
+        "id": "black-and-blue-shieldfish-uncommon",
+        "description": "A fish often found in many different locations. Can be processed into Fish Fillets.",
+        "flavour-text": "A very defensive fish.",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Black And Blue Shieldfish: Legendary",
+        "id": "black-and-blue-shieldfish-legendary",
+        "description": "A Legendary fish that can make a fine trophy.",
+        "flavour-text": "A very defensive fish.",
+        "attributes": {
+            "rarity": "legendary",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Cuddle Jellyfish: Uncommon",
+        "id": "cuddle-jellyfish-uncommon",
+        "description": "A fish found in the ocean. Can be procressed into Slurp Juice.",
+        "flavour-text": "Elegant... mysterious... cuddly...",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Cuddle Jellyfish: Legendary",
+        "id": "cuddle-jellyfish-legendary",
+        "description": "A Legendary fish that can make a fine trophy.",
+        "flavour-text": "Elegant... mysterious... cuddly...",
+        "attributes": {
+            "rarity": "legendary",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Purple Thermal Fish: Uncommon",
+        "id": "purple-thermal-fish-uncommon",
+        "description": "A fish often found in hot locations. Can be processed into Fish Fillets.",
+        "flavour-text": "Always cool. Never frozen.",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Purple Thermal Fish: Legendary",
+        "id": "purple-thermal-fish-legendary",
+        "description": "A Legendary fish that can make a fine trophy.",
+        "flavour-text": "Always cool. Never frozen.",
+        "attributes": {
+            "rarity": "legendary",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Raven Thermal Fish: Uncommon",
+        "id": "raven-thermal-fish-uncommon",
+        "description": "A fish found in hot locations. Can be processed into Fish Fillets.",
+        "flavour-text": "Chilling master of the deep seas.",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Raven Thermal Fish: Legendary",
+        "id": "raven-thermal-fish-legendary",
+        "description": "A Legendary fish that can make a fine trophy.",
+        "flavour-text": "Chilling master of the deep seas.",
+        "attributes": {
+            "rarity": "legendary",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Silver Thermal Fish: Uncommon",
+        "id": "silver-thermal-fish-uncommon",
+        "description": "A fish found in cold locations. Can be processed into Fish Fillets.",
+        "flavour-text": "Stays cool-headed in hot water.",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Silver Thermal Fish: Legendary",
+        "id": "silver-thermal-fish-legendary",
+        "description": "A Legendary fish that can make a fine trophy.",
+        "flavour-text": "Stays cool-headed in hot water.",
+        "attributes": {
+            "rarity": "legendary",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Slurp Jellyfish: Uncommon",
+        "id": "slurp-jellyfish-uncommon",
+        "description": "A fish found in the ocean. Can be processed into Slurp Juice.",
+        "flavour-text": "Elegant... mysterious... delicious...",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Slurp Jellyfish: Legendary",
+        "id": "slurp-jellyfish-legendary",
+        "description": "A Legendary fish that can make a fine trophy.",
+        "flavour-text": "Elegant... mysterious... delicious...",
+        "attributes": {
+            "rarity": "legendary",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Blue Slurpfish: Rare",
+        "id": "blue-slurpfish-rare",
+        "description": "A fish found in different underground locations. Can be processed into Fish Fillets and Slurp Juice.",
+        "flavour-text": "Suprisingly juicy.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Blue Slurpfish: Legendary",
+        "id": "blue-slurpfish-legendary",
+        "description": "A Legendary fish that can make a fine trophy.",
+        "flavour-text": "Suprisingly juicy.",
+        "attributes": {
+            "rarity": "legendary",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Molten Spicy Fish: Rare",
+        "id": "molten-spicy-fish-rare",
+        "description": "A fish found in very hot locations. Can be processed into Fish Fillets.",
+        "flavour-text": "Puts a real pep in your step.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Molten Spicy Fish: Legendary",
+        "id": "molten-spicy-fish-legendary",
+        "description": "A Legendary fish that can make a fine trophy.",
+        "flavour-text": "Puts a real pep in your step.",
+        "attributes": {
+            "rarity": "legendary",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Purple Slurpfish: Rare",
+        "id": "purple-slurpfish-rare",
+        "description": "A fish found underground or in the mountains. Can be processed into Fish Fillets and Slurp Juice.",
+        "flavour-text": "They don't make this flavour of Slurp anymore.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Purple Slurpfish: Legendary",
+        "id": "purple-slurpfish-legendary",
+        "description": "A Legendary fish that can make a fine trophy.",
+        "flavour-text": "They don't make this flavour of Slurp anymore.",
+        "attributes": {
+            "rarity": "legendary",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Yellow Slurpfish: Rare",
+        "id": "yellow-slurpfish-rare",
+        "description": "A fish found underground or in warm locations. Can be processed into Fish Fillets and Slurp Juice.",
+        "flavour-text": "Possibly past its expiration date...",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Yellow Slurpfish: Legendary",
+        "id": "yellow-slurpfish-legendary",
+        "description": "A Legendary fish that can make a fine trophy.",
+        "flavour-text": "Possibly past its expiration date...",
+        "attributes": {
+            "rarity": "legendary",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Vendetta Flopper: Epic",
+        "id": "vendetta-flopper-epic",
+        "description": "A fish found in different locations including underground. Can be processed into Fish Fillets",
+        "flavour-text": "Shockingly vindictive for a fish.",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Vendetta Flopper: Legendary",
+        "id": "vendetta-flopper-legendary",
+        "description": "A Legendary fish that can make a fine trophy.",
+        "flavour-text": "Shockingly vindictive for a fish.",
+        "attributes": {
+            "rarity": "legendary",
+            "max-stack": 30
+        }
+    },
+    {
+        "name": "Fish Fillet",
+        "id": "fish-fillet",
+        "description": "A nutritious piece of meat. Can be processed from fish.",
+        "flavour-text": "A chic meal.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30,
+            "health-restored": 1,
+            "hunger-restored": 3
+        }
+    },
+    {
+        "name": "Smoked Fry Fish",
+        "id": "smoked-fry-fish",
+        "description": "Eat to heal and reduce Hunger.",
+        "flavour-text": "A little fishy. A lot delicious.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30,
+            "health-restored": 2,
+            "hunger-restored": 8,
+            "bonus-health": 1
+        }
+    },
+    {
+        "name": "Ice Cream",
+        "id": "ice-cream",
+        "description": "Eat to heal and reduce Hunger. Heals more in hot temperatures, less in cold.",
+        "flavour-text": "Eat it before it melts.",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 30,
+            "health-restored": 5,
+            "hunger-restored": 5
+        }
+    },
+    {
+        "name": "Spicy Ice Cream",
+        "id": "spicy-ice-cream",
+        "description": "Eat to heal, reduce Hunger, and temporarily increase Cold Resistance. Heals more in hot temperatures, less in cold.",
+        "flavour-text": "It's cold AND hot. A delicious paradox!",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 30,
+            "health-restored": 8,
+            "hunger-restored": 5,
+            "cold-resistance": "10:00"
+        }
+    },
+    {
+        "name": "Snowberry Ice Cream",
+        "id": "snowberry-ice-cream",
+        "description": "Eat to heal, reduce Hunger, and temporarily increase Cold Resistance. Heals more in hot temperatures, less in cold.",
+        "flavour-text": "Brain freeze!",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 30,
+            "health-restored": 17,
+            "hunger-restored": 5,
+            "heat-resistance": "10:00"
+        }
+    },
+    {
+        "name": "Corn",
+        "id": "corn",
+        "description": "Eat to heal and reduce Hunger.",
+        "flavour-text": "It's corn!",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30,
+            "health-restored": 1,
+            "hunger-restored": 3
+        }
+    },
+    {
+        "name": "Egg",
+        "id": "egg",
+        "description": "Eat to heal and reduce Hunger.",
+        "flavour-text": "Thank you, chickens.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30,
+            "health-restored": 2,
+            "hunger-restored": 3
+        }
+    },
+    {
+        "name": "Meat",
+        "id": "meat",
+        "description": "Eat to heal and reduce Hunger. Much better when cooked.",
+        "flavour-text": "MEATY.",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30,
+            "health-restored": 2,
+            "hunger-restored": 5
+        }
+    },
+    {
+        "name": "Milk",
+        "id": "milk",
+        "description": "Drink to heal and reduce Hunger.",
+        "flavour-text": "Fresh and wholesome",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30,
+            "health-restored": 2,
+            "hunger-restored": 3
+        }
+    },
+    {
+        "name": "Pumpkin",
+        "id": "pumpkin",
+        "description": "Eat to heal and reduce Hunger.",
+        "flavour-text": "It's that time again!",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 30,
+            "health-restored": 1,
+            "hunger-restored": 5
+        }
+    },
+    {
+        "name": "Raspberry",
+        "id": "raspberry",
+        "description": "Eat to heal and reduce Hunger.",
+        "flavour-text": "Sweet and fresh!",
+        "attributes": {
+            "rarity": "common",
+            "max-stack": 50,
+            "health-restored": 0.5,
+            "hunger-restored": 2
+        }
+    },
+    {
+        "name": "Slap Berry",
+        "id": "slap-berry",
+        "description": "Eat to heal and reduce Hunger, and temporarily increase Stamina regeneration.",
+        "flavour-text": "Always fresh.",
+        "attributes": {
+            "rarity": "uncommon",
+            "max-stack": 50,
+            "health-restored": 1,
+            "hunger-restored": 2,
+            "stamina": "1 1:00"
+        }
+    },
+    {
+        "name": "Spicy Pepper",
+        "id": "spicy-pepper",
+        "description": "Eat to heal and reduce Hunger, and temporarily increase Cold Resistance.",
+        "flavour-text": "Don't burn your tongue",
+        "attributes": {
+            "rarity": "rare",
+            "max-stack": 50,
+            "health-restored": 1.5,
+            "hunger-restored": 3,
+            "cold-resistance": "2:00"
+        }
+    },
+    {
+        "name": "Cheese",
+        "id": "cheese",
+        "description": "Eat to heal and reduce Hunger.",
+        "flavour-text": "Cheesy goodness",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 30,
+            "health-restored": 6,
+            "hunger-restored": 5
+        }
+    },
+    {
+        "name": "Snow Berry",
+        "id": "snow-berry",
+        "description": "Eat to heal and reduce Hunger, and temporarily increase Heat Resistance.",
+        "flavour-text": "Cool yourself off.",
+        "attributes": {
+            "rarity": "epic",
+            "max-stack": 50,
+            "health-restored": 2,
+            "hunger-restored": 2,
+            "heat-resistance": "2:00"
+        }
+    }
+]

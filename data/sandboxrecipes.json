@@ -1,0 +1,234 @@
+[
+    {
+        "workbench": "buildable",
+        "items": {
+            "wood": 1
+        },
+        "amount": "1",
+        "output": "wood-foundation-05"
+        },
+        {
+        "workbench": "buildable",
+        "items": {
+            "wood": 1
+        },
+        "amount": "1",
+        "output": "wood-foundation-06"
+        },
+        {
+        "workbench": "buildable",
+        "items": {
+            "wood": 1
+        },
+        "amount": "1",
+        "output": "wood-foundation-07"
+        },
+        {
+        "workbench": "buildable",
+        "items": {
+            "wood": 1
+        },
+        "amount": "1",
+        "output": "wood-foundation-08"
+        },
+        {
+        "workbench": "buildable",
+        "items": {
+            "wood": 1
+        },
+        "amount": "1",
+        "output": "wood-foundation-09"
+        },
+        {
+        "workbench": "buildable",
+        "items": {
+            "wood": 1
+        },
+        "amount": "1",
+        "output": "wood-foundation-10"
+        },
+        {
+        "workbench": "buildable",
+        "items": {
+            "wood": 2
+        },
+        "amount": "1",
+        "output": "wood-foundation-11"
+        },
+        {
+        "workbench": "buildable",
+        "items": {
+            "wood": 2
+        },
+        "amount": "1",
+        "output": "wood-foundation-12"
+        },
+        {
+        "workbench": "buildable",
+        "items": {
+            "granite": 1
+        },
+        "amount": "1",
+        "output": "granite-foundation-05"
+        },
+        {
+        "workbench": "buildable",
+        "items": {
+            "granite": 1
+        },
+        "amount": "1",
+        "output": "granite-foundation-06"
+        },
+        {
+        "workbench": "buildable",
+        "items": {
+            "granite": 1
+        },
+        "amount": "1",
+        "output": "granite-foundation-07"
+        },
+        {
+        "workbench": "buildable",
+        "items": {
+            "granite": 1
+        },
+        "amount": "1",
+        "output": "granite-foundation-08"
+        },
+        {
+        "workbench": "buildable",
+        "items": {
+            "granite": 1
+        },
+        "amount": "1",
+        "output": "granite-foundation-09"
+        },
+        {
+        "workbench": "buildable",
+        "items": {
+            "granite": 1
+        },
+        "amount": "1",
+        "output": "granite-foundation-10"
+        },
+        {
+        "workbench": "buildable",
+        "items": {
+            "granite": 2
+        },
+        "amount": "1",
+        "output": "granite-foundation-11"
+        },
+        {
+        "workbench": "buildable",
+        "items": {
+            "granite": 2
+        },
+        "amount": "1",
+        "output": "granite-foundation-12"
+        },
+        {
+        "workbench": "buildable",
+        "items": {
+            "granite": 1
+        },
+        "amount": "1",
+        "output": "sidewalk-foundation-01"
+        },
+        {
+        "workbench": "buildable",
+        "items": {
+            "granite": 1
+        },
+        "amount": "1",
+        "output": "sidewalk-foundation-01-border"
+        },
+        {
+        "workbench": "buildable",
+        "items": {
+            "granite": 1
+        },
+        "amount": "1",
+        "output": "sidewalk-foundation-01-round-corner"
+        },
+        {
+        "workbench": "buildable",
+        "items": {
+            "granite": 1
+        },
+        "amount": "1",
+        "output": "sidewalk-foundation-01-square-corner"
+        },
+        {
+        "workbench": "buildable",
+        "items": {
+            "granite": 1
+        },
+        "amount": "1",
+        "output": "sidewalk-foundation-02"
+        },
+        {
+        "workbench": "buildable",
+        "items": {
+            "granite": 1
+        },
+        "amount": "1",
+        "output": "sidewalk-foundation-02-bottom-border"
+        },
+        {
+        "workbench": "buildable",
+        "items": {
+            "granite": 1
+        },
+        "amount": "1",
+        "output": "sidewalk-foundation-02-right-border"
+        },
+        {
+        "workbench": "buildable",
+        "items": {
+            "granite": 2
+        },
+        "amount": "1",
+        "output": "sidewalk-foundation-03"
+        },
+        {
+        "workbench": "buildable",
+        "items": {
+            "granite": 2
+        },
+        "amount": "1",
+        "output": "sidewalk-foundation-03-border"
+        },
+        {
+        "workbench": "buildable",
+        "items": {
+            "granite": 2
+        },
+        "amount": "1",
+        "output": "sidewalk-foundation-03-round-corner"
+        },
+        {
+        "workbench": "buildable",
+        "items": {
+            "granite": 2
+        },
+        "amount": "1",
+        "output": "sidewalk-foundation-03-square-corner"
+        },
+        {
+            "workbench": "sandbox-only",
+            "items": {
+                "This item is sandbox only, therefore has no recipe.": 0
+            },
+            "amount": 0,
+            "output": "boulder"
+        },
+        {
+            "workbench": "sandbox-only",
+            "items": {
+                "This item is sandbox only, therefore has no recipe.": 0
+            },
+            "amount": 0,
+            "output": "small-boulder"
+        }
+]

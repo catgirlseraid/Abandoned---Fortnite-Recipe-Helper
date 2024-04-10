@@ -1,0 +1,1506 @@
+[
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "granite": 6,
+            "bone": 4
+        },
+        "amount": 1,
+        "output": "hunting-dagger-common"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "marble": 6,
+            "cut-amber": 4
+        },
+        "amount": 1,
+        "output": "hunting-dagger-uncommon"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "obsidian-slab": 6,
+            "cut-ruby": 4
+        },
+        "amount": 1,
+        "output": "hunting-dagger-rare"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "malachite-slab": 6,
+            "cut-sapphire": 4
+        },
+        "amount": 1,
+        "output": "hunting-dagger-epic"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "wooden-rod": 5,
+            "cord": 1
+        },
+        "amount": 1,
+        "output": "recurve-crossbow-common"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "knotroot-rod": 8,
+            "drawstring": 1
+        },
+        "amount": 1,
+        "output": "recurve-crossbow-uncommon"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "flexwood-rod": 8,
+            "drawstring": 1
+        },
+        "amount": 1,
+        "output": "recurve-crossbow-rare"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "frostpine-rod": 8,
+            "drawstring": 1,
+            "iron-bar": 3
+        },
+        "amount": 1,
+        "output": "recurve-crossbow-epic"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "plank": 5,
+            "cord": 1
+        },
+        "amount": 1,
+        "output": "knight-shield-common"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "flexwood-rod": 8,
+            "cord": 3
+        },
+        "amount": 1,
+        "output": "knight-shield-uncommon"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "copper-bar": 10
+        },
+        "amount": 1,
+        "output": "knight-shield-rare"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "iron-bar": 15
+        },
+        "amount": 1,
+        "output": "knight-shield-epic"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "wooden-rod": 5
+        },
+        "amount": 1,
+        "output": "shortsword"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "knotroot-rod": 5
+        },
+        "amount": 1,
+        "output": "longsword-uncommon"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "copper-bar": 8
+        },
+        "amount": 1,
+        "output": "longsword-rare"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "iron-bar": 8
+        },
+        "amount": 1,
+        "output": "longsword-epic"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "blast-powder": 1,
+            "knotroot-rod": 3
+        },
+        "amount": 1,
+        "output": "dynamite"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "wood": 1,
+            "feather": 1
+        },
+        "amount": 8,
+        "output": "arrow"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "flexwood-rod": 8,
+            "wool-fabric": 4,
+            "silk-fabric": 6
+        },
+        "amount": 1,
+        "output": "glider"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "copper-bar": 3,
+            "blast-powder": 3,
+            "cord": 10
+        },
+        "amount": 1,
+        "output": "grappler"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "glass": 5,
+            "sand-claw": 1,
+            "copper-bar": 1
+        },
+        "amount": 1,
+        "output": "survival-compass"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "glass": 6,
+            "biomass": 50
+        },
+        "amount": 1,
+        "output": "power-cell"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "glass": 2,
+            "wolf-claw": 1
+        },
+        "amount": 1,
+        "output": "basic-compass"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "glass": 4,
+            "knotroot-rod": 1
+        },
+        "amount": 1,
+        "output": "spyglass"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "wood": 3,
+            "vines": 5
+        },
+        "amount": 3,
+        "output": "torch"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "wooden-rod": 3,
+            "cord": 1
+        },
+        "amount": 1,
+        "output": "wrench"
+    },
+    {
+        "workbench": "essence-table",
+        "items": {
+            "rough-ruby": 1,
+            "blast-core": 1
+        },
+        "amount": 1,
+        "output": "essence-of-damage"
+    },
+    {
+        "workbench": "essence-table",
+        "items": {
+            "rough-amber": 1,
+            "granite-slab": 10
+        },
+        "amount": 1,
+        "output": "essence-of-durability"
+    },
+    {
+        "workbench": "essence-table",
+        "items": {
+            "rough-amber": 1,
+            "milk": 5,
+            "egg": 5
+        },
+        "amount": 1,
+        "output": "essence-of-health"
+    },
+    {
+        "workbench": "essence-table",
+        "items": {
+            "rough-sapphire": 1,
+            "rough-ruby": 1,
+            "rough-amber": 1
+        },
+        "amount": 1,
+        "output": "essence-of-luck"
+    },
+    {
+        "workbench": "gem-cutter",
+        "items": {
+            "rough-sapphire": 1
+        },
+        "amount": 1,
+        "output": "cut-sapphire"
+    },
+    {
+        "workbench": "gem-cutter",
+        "items": {
+            "rough-ruby": 1
+        },
+        "amount": 1,
+        "output": "cut-ruby"
+    },
+    {
+        "workbench": "gem-cutter",
+        "items": {
+            "rough-amber": 1
+        },
+        "amount": 1,
+        "output": "cut-amber"
+    },
+    {
+        "workbench": "metal-smelter",
+        "items": {
+            "iron": 1,
+            "brightcore": 2
+        },
+        "amount": 1,
+        "output": "iron-bar"
+    },
+    {
+        "workbench": "metal-smelter",
+        "items": {
+            "copper": 1,
+            "brightcore": 2
+        },
+        "amount": 1,
+        "output": "copper-bar"
+    },
+    {
+        "workbench": "metal-smelter",
+        "items": {
+            "sand": 2,
+            "brightcore": 1
+        },
+        "amount": 1,
+        "output": "glass"
+    },
+    {
+        "workbench": "loom",
+        "items": {
+            "silk-thread": 5
+        },
+        "amount": 1,
+        "output": "silk-fabric"
+    },
+    {
+        "workbench": "loom",
+        "items": {
+            "wool-thread": 5
+        },
+        "amount": 1,
+        "output": "wool-fabric"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "wood": 5,
+            "granite": 2
+        },
+        "amount": 1,
+        "output": "forest-axe-common"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "bone": 3,
+            "wooden-rod": 3
+        },
+        "amount": 1,
+        "output": "forest-axe-uncommon"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "cut-amber": 5,
+            "knotroot-rod": 3
+        },
+        "amount": 1,
+        "output": "forest-axe-rare"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "copper-bar": 3,
+            "knotroot-rod": 3
+        },
+        "amount": 1,
+        "output": "forest-axe-epic"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "wood": 5
+        },
+        "amount": 1,
+        "output": "pickaxe-common"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "knotroot-rod": 3,
+            "bone": 3
+        },
+        "amount": 1,
+        "output": "pickaxe-uncommon"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "flexwood-rod": 3,
+            "sand-claw": 3
+        },
+        "amount": 1,
+        "output": "pickaxe-rare"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "obsidian-slab": 8,
+            "frostpine-rod": 5
+        },
+        "amount": 1,
+        "output": "pickaxe-epic"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "wooden-rod": 3,
+            "plank": 1
+        },
+        "amount": 1,
+        "output": "shovel-common"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "knotroot-rod": 3,
+            "plank": 1
+        },
+        "amount": 1,
+        "output": "shovel-uncommon"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "copper-bar": 3
+        },
+        "amount": 1,
+        "output": "shovel-rare"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "iron-bar": 3
+        },
+        "amount": 1,
+        "output": "shovel-epic"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "wooden-rod": 1,
+            "cord": 2,
+            "wolf-claw": 1
+        },
+        "amount": 1,
+        "output": "fishing-rod-common"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "knotroot-rod": 2,
+            "cord": 3,
+            "silk-thread": 1,
+            "wolf-claw": 3
+        },
+        "amount": 1,
+        "output": "fishing-rod-uncommon"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "flexwood-rod": 3,
+            "drawstring": 1,
+            "wool-thread": 2,
+            "sand-claw": 3
+        },
+        "amount": 1,
+        "output": "fishing-rod-rare"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "frostpine-rod": 4,
+            "drawstring": 2,
+            "heavy-wool-thread": 3,
+            "arctic-claw": 3
+        },
+        "amount": 1,
+        "output": "fishing-rod-epic"
+    },
+    {
+        "workbench": "stone-breaker",
+        "items": {
+            "granite": 1
+        },
+        "amount": 1,
+        "output": "granite-slab"
+    },
+    {
+        "workbench": "stone-breaker",
+        "items": {
+            "marble": 1
+        },
+        "amount": 1,
+        "output": "marble-slab"
+    },
+    {
+        "workbench": "stone-breaker",
+        "items": {
+            "obsidian": 1
+        },
+        "amount": 1,
+        "output": "obsidian-slab"
+    },
+    {
+        "workbench": "stone-breaker",
+        "items": {
+            "malachite": 1
+        },
+        "amount": 1,
+        "output": "malachite-slab"
+    },
+    {
+        "workbench": "grill",
+        "items": {
+            "flour": 1,
+            "meat": 1,
+            "spicy-pepper": 1
+        },
+        "amount": 1,
+        "output": "spicy-burger"
+    },
+    {
+        "workbench": "grill",
+        "items": {
+            "corn": 1
+        },
+        "amount": 1,
+        "output": "corn-on-the-cob"
+    },
+    {
+        "workbench": "grill",
+        "items": {
+            "egg": 1
+        },
+        "amount": 1,
+        "output": "fried-egg"
+    },
+    {
+        "workbench": "grill",
+        "items": {
+            "meat": 1
+        },
+        "amount": 1,
+        "output": "grilled-meat"
+    },
+    {
+        "workbench": "grill",
+        "items": {
+            "black-and-blue-shield-fish-uncommon": 1,
+            "wheat-grain": 3
+        },
+        "amount": 1,
+        "output": "black-and-blue-shieldfish-sushi"
+    },
+    {
+        "workbench": "grill",
+        "items": {
+            "fish-fillet": 1,
+            "wheat-grain": 1
+        },
+        "amount": 1,
+        "output": "simple-sushi"
+    },
+    {
+        "workbench": "grill",
+        "items": {
+            "molten-spicy-fish-rare": 1,
+            "bread": 1,
+            "spicy-pepper": 2,
+            "cheese": 1
+        },
+        "amount": 1,
+        "output": "spicy-fish-sandwich"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "silk-thread": 3,
+            "bone": 3,
+            "wolf-claw": 5
+        },
+        "amount": 1,
+        "output": "health-charm-common"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "silk-thread": 3,
+            "plank": 5,
+            "sand-shell": 3,
+            "orange-flopper-common": 5
+        },
+        "amount": 1,
+        "output": "wavebreak-charm-uncommon"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "wool-thread": 3,
+            "glass": 10,
+            "purple-thermal-fish-uncommon": 5,
+            "brightcore": 10
+        },
+        "amount": 1,
+        "output": "illuminator"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "wool-thread": 3,
+            "cut-amber": 5,
+            "sand-shell": 5,
+            "sand-claw": 6
+        },
+        "amount": 1,
+        "output": "hearty-totem-uncommon"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "silk-thread": 3,
+            "marble": 1,
+            "shell": 1
+        },
+        "amount": 1,
+        "output": "health-charm-uncommon"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "silk-thread": 3,
+            "marble": 1,
+            "sand-shell": 3
+        },
+        "amount": 1,
+        "output": "cool-headed-charm-uncommon"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "wool-thread": 3,
+            "frostpine-rod": 20,
+            "sand-shell": 10,
+            "blue-flopper": 10
+        },
+        "amount": 1,
+        "output": "wavebreak-charm-rare"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "wool-thread": 3,
+            "cut-amber": 5,
+            "obsidian-slab": 5,
+            "sand-brute-scale": 1
+        },
+        "amount": 1,
+        "output": "totem-of-the-immortal"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "wool-thread": 3,
+            "copper-bar": 5,
+            "brute-scale": 3,
+            "rough-amber": 10
+        },
+        "amount": 1,
+        "output": "regeneration-charm-rare"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "wool-thread": 3,
+            "cut-ruby": 5,
+            "brightcore": 8,
+            "blast-core": 3
+        },
+        "amount": 1,
+        "output": "inner-fire-charm-rare"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "heavy-wool-thread": 3,
+            "arctic-claw": 3,
+            "malachite-slab": 5,
+            "brute-scale": 3
+        },
+        "amount": 1,
+        "output": "hearty-totem-rare"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "wool-thread": 3,
+            "cut-amber": 3,
+            "sand-claw": 3,
+            "flexwood-rod": 3
+        },
+        "amount": 1,
+        "output": "health-charm-rare"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "heavy-wool-thread": 3,
+            "rough-amber": 5,
+            "rough-ruby": 5,
+            "rough-sapphire": 5
+        },
+        "amount": 1,
+        "output": "good-luck-charm"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "heavy-wool-thread": 3,
+            "frost-shell": 5,
+            "sand-brute-scale": 1,
+            "malachite-slab": 3
+        },
+        "amount": 1,
+        "output": "cool-headed-charm-rare"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "wool-thread": 3,
+            "copper-bar": 5,
+            "obsidian-slab": 5,
+            "sand-shell": 10
+        },
+        "amount": 1,
+        "output": "charm-of-resilience-rare"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "wool-thread": 3,
+            "glass": 30,
+            "vendetta-flopper-epic": 10
+        },
+        "amount": 1,
+        "output": "reflection-charm-epic"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "heavy-wool-thread": 3,
+            "cut-sapphire": 5,
+            "cursed-bone": 5,
+            "frost-brute-scale": 1
+        },
+        "amount": 1,
+        "output": "regeneration-charm-epic"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "heavy-wool-thread": 3,
+            "brightcore": 30,
+            "blast-core": 10,
+            "frost-brute-scale": 1
+        },
+        "amount": 1,
+        "output": "inner-fire-charm-epic"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "heavy-wool-thread": 3,
+            "iron-bar": 5,
+            "arctic-claw": 3,
+            "brute-scale": 3
+        },
+        "amount": 1,
+        "output": "health-charm-epic"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "heavy-wool-thread": 3,
+            "iron-bar": 5,
+            "malachite-slab": 5,
+            "cursed-bone": 5
+        },
+        "amount": 1,
+        "output": "charm-of-resilience-epic"
+    },
+    {
+        "workbench": "grain-mill",
+        "items": {
+            "wheat-grain": 1
+        },
+        "amount": 1,
+        "output": "flour"
+    },
+    {
+        "workbench": "grain-mill",
+        "items": {
+            "spicy-pepper": 1
+        },
+        "amount": 2,
+        "output": "pepper-seed"
+    },
+    {
+        "workbench": "grain-mill",
+        "items": {
+            "snow-berry": 1
+        },
+        "amount": 2,
+        "output": "snowberry-seed"
+    },
+    {
+        "workbench": "grain-mill",
+        "items": {
+            "slap-berry": 1
+        },
+        "amount": 2,
+        "output": "slapberry-seed"
+    },
+    {
+        "workbench": "grain-mill",
+        "items": {
+            "corn": 1
+        },
+        "amount": 3,
+        "output": "corn-kernel"
+    },
+    {
+        "workbench": "grain-mill",
+        "items": {
+            "pumpkin": 1
+        },
+        "amount": 3,
+        "output": "pumpkin-seed"
+    },
+    {
+        "workbench": "grain-mill",
+        "items": {
+            "raspberry": 1
+        },
+        "amount": 2,
+        "output": "raspberry-seed"
+    },
+    {
+        "workbench": "grain-mill",
+        "items": {
+            "wheat": 1
+        },
+        "amount": 3,
+        "output": "wheat-grain"
+    },
+    {
+        "workbench": "juicer",
+        "items": {
+            "bait-bucket-common": 1,
+            "vines": 2,
+            "raspberry": 3
+        },
+        "amount": 1,
+        "output": "bait-bucket-uncommon"
+    },
+    {
+        "workbench": "juicer",
+        "items": {
+            "bait-bucket-common": 1,
+            "corn-kernel": 3,
+            "pumpkin-seed": 3,
+            "pepper-seed": 3
+        },
+        "amount": 1,
+        "output": "bait-bucket-rare"
+    },
+    {
+        "workbench": "juicer",
+        "items": {
+            "bait-bucket-common": 1,
+            "slap-juice": 1,
+            "spicy-burger": 1
+        },
+        "amount": 1,
+        "output": "bait-bucket-epic"
+    },
+    {
+        "workbench": "juicer",
+        "items": {
+            "snow-berry": 1,
+            "milk": 1
+        },
+        "amount": 1,
+        "output": "snowberry-shake"
+    },
+    {
+        "workbench": "juicer",
+        "items": {
+            "slap-berry": 1
+        },
+        "amount": 1,
+        "output": "slap-juice"
+    },
+    {
+        "workbench": "juicer",
+        "items": {
+            "raspberry": 2,
+            "slurp-mushroom": 2
+        },
+        "amount": 1,
+        "output": "slurp-juice"
+    },
+    {
+        "workbench": "oven",
+        "items": {
+            "flour": 1,
+            "raspberry": 1,
+            "snow-berry": 3,
+            "slap-berry": 3
+        },
+        "amount": 1,
+        "output": "fruit-pie"
+    },
+    {
+        "workbench": "oven",
+        "items": {
+            "flour": 2,
+            "meat": 1,
+            "spicy-pepper": 3,
+            "cheese": 1
+        },
+        "amount": 1,
+        "output": "pizza"
+    },
+    {
+        "workbench": "oven",
+        "items": {
+            "flour": 2,
+            "egg": 2
+        },
+        "amount": 1,
+        "output": "bread"
+    },
+    {
+        "workbench": "oven",
+        "items": {
+            "flour": 1,
+            "meat": 1,
+            "egg": 1
+        },
+        "amount": 1,
+        "output": "meat-pie"
+    },
+    {
+        "workbench": "oven",
+        "items": {
+            "flour": 1,
+            "pumpkin": 1
+        },
+        "amount": 1,
+        "output": "pumpkin-pie"
+    },
+    {
+        "workbench": "lumber-mill",
+        "items": {
+            "frostpine": 1
+        },
+        "amount": 1,
+        "output": "frostpine-rod"
+    },
+    {
+        "workbench": "lumber-mill",
+        "items": {
+            "flexwood": 1
+        },
+        "amount": 1,
+        "output": "flexwood-rod"
+    },
+    {
+        "workbench": "lumber-mill",
+        "items": {
+            "knotroot": 1
+        },
+        "amount": 1,
+        "output": "knotroot-rod"
+    },
+    {
+        "workbench": "lumber-mill",
+        "items": {
+            "wood": 1
+        },
+        "amount": 1,
+        "output": "wooden-rod"
+    },
+    {
+        "workbench": "lumber-mill",
+        "items": {
+            "wood": 1
+        },
+        "amount": 1,
+        "output": "plank"
+    },
+    {
+        "workbench": "spinning-wheel",
+        "items": {
+            "heavy-wool": 1
+        },
+        "amount": 1,
+        "output": "heavy-wool-thread"
+    },
+    {
+        "workbench": "spinning-wheel",
+        "items": {
+            "vines": 5
+        },
+        "amount": 1,
+        "output": "cord"
+    },
+    {
+        "workbench": "spinning-wheel",
+        "items": {
+            "cord": 5
+        },
+        "amount": 1,
+        "output": "drawstring"
+    },
+    {
+        "workbench": "spinning-wheel",
+        "items": {
+            "silk": 1
+        },
+        "amount": 1,
+        "output": "silk-thread"
+    },
+    {
+        "workbench": "spinning-wheel",
+        "items": {
+            "wool": 1
+        },
+        "amount": 1,
+        "output": "wool-thread"
+    },
+    {
+        "workbench": "crafting-bench",
+        "items": {
+            "silk-thread": 3,
+            "glass": 10,
+            "vendetta-flopper-epic": 5
+        },
+        "amount": 1,
+        "output": "reflection-charm-rare"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "fish-fillet": 1
+        },
+        "amount": 1,
+        "output": "bait-bucket-common"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "orange-flopper-common": 1
+        },
+        "amount": 2,
+        "output": "fish-fillet"
+    },
+    {
+        "workbench": "grill",
+        "items": {
+            "blue-small-fry-common": 1
+        },
+        "amount": 1,
+        "output": "smoked-fry-fish"
+    },
+    {
+        "workbench": "juicer",
+        "items": {
+            "snow": 3,
+            "milk": 1
+        },
+        "amount": 1,
+        "output": "ice-cream"
+    },
+    {
+        "workbench": "juicer",
+        "items": {
+            "snow": 3,
+            "milk": 1,
+            "spicy-pepper": 2
+        },
+        "amount": 1,
+        "output": "spicy-ice-cream"
+    },
+    {
+        "workbench": "juicer",
+        "items": {
+            "snow": 3,
+            "milk": 1,
+            "snow-berry": 3
+        },
+        "amount": 1,
+        "output": "snowberry-ice-cream"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "blue-flopper-common": 1
+        },
+        "amount": 2,
+        "output": "fish-fillet"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "cuddle-jellyfish-uncommon": 1
+        },
+        "amount": 3,
+        "output": "slurp-juice"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "black-and-blue-shield-fish-uncommon": 1
+        },
+        "amount": 2,
+        "output": "fish-fillet"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "black-and-blue-shield-fish-uncommon": 1
+        },
+        "amount": 1,
+        "output": "knight-shield-uncommon"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "blue-slurpfish-rare": 1
+        },
+        "amount": 1,
+        "output": "fish-fillet"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "blue-slurpfish-rare": 1
+        },
+        "amount": 2,
+        "output": "slurp-juice"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "molten-spicy-fish-rare": 1
+        },
+        "amount": 1,
+        "output": "fish-fillet"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "molten-spicy-fish-rare": 1
+        },
+        "amount": 1,
+        "output": "blast-core"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "raven-thermal-fish-uncommon": 1
+        },
+        "amount": 1,
+        "output": "fish-fillet"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "raven-thermal-fish-uncommon": 1
+        },
+        "amount": 2,
+        "output": "brightcore"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "silver-thermal-fish-uncommon": 1
+        },
+        "amount": 1,
+        "output": "fish-fillet"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "silver-thermal-fish-uncommon": 1
+        },
+        "amount": 2,
+        "output": "brightcore"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "silver-thermal-fish-uncommon": 1
+        },
+        "amount": 1,
+        "output": "frost-shell"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "slurp-jellyfish-uncommon": 1
+        },
+        "amount": 3,
+        "output": "slurp-juice"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "yellow-slurpfish-rare": 1
+        },
+        "amount": 2,
+        "output": "slurp-juice"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "yellow-slurpfish-rare": 1
+        },
+        "amount": 1,
+        "output": "fish-fillet"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "blue-small-fry-common": 1
+        },
+        "amount": 1,
+        "output": "fish-fillet"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "green-flopper-common": 1
+        },
+        "amount": 2,
+        "output": "fish-fillet"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "purple-thermal-fish-uncommon": 1
+        },
+        "amount": 1,
+        "output": "fish-fillet"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "purple-thermal-fish-uncommon": 1
+        },
+        "amount": 2,
+        "output": "brightcore"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "purple-slurpfish-rare": 1
+        },
+        "amount": 2,
+        "output": "slurp-juice"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "purple-slurpfish-rare": 1
+        },
+        "amount": 1,
+        "output": "fish-fillet"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "vendetta-flopper-epic": 1
+        },
+        "amount": 2,
+        "output": "fish-fillet"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "vendetta-flopper-epic": 1
+        },
+        "amount": 2,
+        "output": "blast-powder"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "yellow-slurpfish-legendary": 1
+        },
+        "amount": 5,
+        "output": "slurp-juice"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "yellow-slurpfish-legendary": 1
+        },
+        "amount": 3,
+        "output": "fish-fillet"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "purple-slurpfish-legendary": 1
+        },
+        "amount": 5,
+        "output": "slurp-juice"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "purple-slurpfish-legendary": 1
+        },
+        "amount": 3,
+        "output": "fish-fillet"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "blue-slurpfish-legendary": 1
+        },
+        "amount": 5,
+        "output": "slurp-juice"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "blue-slurpfish-legendary": 1
+        },
+        "amount": 3,
+        "output": "fish-fillet"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "purple-thermal-fish-legendary": 1
+        },
+        "amount": 3,
+        "output": "fish-fillet"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "purple-thermal-fish-legendary": 1
+        },
+        "amount": 5,
+        "output": "brightcore"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "raven-thermal-fish-legendary": 1
+        },
+        "amount": 3,
+        "output": "fish-fillet"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "raven-thermal-fish-legendary": 1
+        },
+        "amount": 5,
+        "output": "brightcore"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "silver-thermal-fish-legendary": 1
+        },
+        "amount": 3,
+        "output": "fish-fillet"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "silver-thermal-fish-legendary": 1
+        },
+        "amount": 5,
+        "output": "brightcore"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "silver-thermal-fish-legendary": 1
+        },
+        "amount": 3,
+        "output": "frost-shell"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "orange-flopper-legendary": 1
+        },
+        "amount": 5,
+        "output": "fish-fillet"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "green-flopper-legendary": 1
+        },
+        "amount": 5,
+        "output": "fish-fillet"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "blue-flopper-legendary": 1
+        },
+        "amount": 5,
+        "output": "fish-fillet"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "blue-small-fry-legendary": 1
+        },
+        "amount": 5,
+        "output": "fish-fillet"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "slurp-jellyfish-legendary": 1
+        },
+        "amount": 8,
+        "output": "slurp-juice"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "cuddle-jellyfish-legendary": 1
+        },
+        "amount": 8,
+        "output": "slurp-juice"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "black-and-blue-shield-fish-legendary": 1
+        },
+        "amount": 5,
+        "output": "fish-fillet"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "black-and-blue-shield-fish-legendary": 1
+        },
+        "amount": 1,
+        "output": "knight-shield-rare"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "vendetta-flopper-legendary": 1
+        },
+        "amount": 5,
+        "output": "blast-powder"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "vendetta-flopper-legendary": 1
+        },
+        "amount": 5,
+        "output": "fish-fillet"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "molten-spicy-fish-legendary": 1
+        },
+        "amount": 3,
+        "output": "fish-fillet"
+    },
+    {
+        "workbench": "food-processor",
+        "items": {
+            "molten-spicy-fish-legendary": 1
+        },
+        "amount": 3,
+        "output": "blast-core"
+    }
+
+
+]

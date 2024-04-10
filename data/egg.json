@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Lesbian",
+        "id": "lesbian",
+        "description": "Trans rights are human rights",
+        "flavour-text": ":3",
+        "attributes": {
+            "rarity": "special"
+        },
+        "easteregg": ""
+    },
+    {
+        "name": "Gay",
+        "id": "gay",
+        "description": "Trans rights are human rights",
+        "flavour-text": ":3",
+        "attributes": {
+            "rarity": "special"
+        },
+        "easteregg": ""
+    },
+    {
+        "name": "Bisexual",
+        "id": "bi",
+        "description": "Trans rights are human rights",
+        "flavour-text": ":3",
+        "attributes": {
+            "rarity": "special"
+        },
+        "easteregg": ""
+    },
+    {
+        "name": "Transgender",
+        "id": "trans",
+        "description": "Trans rights are human rights",
+        "flavour-text": ":3",
+        "attributes": {
+            "rarity": "special"
+        },
+        "easteregg": ""
+    }
+]

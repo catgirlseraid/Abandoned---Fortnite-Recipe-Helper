@@ -1,0 +1,7217 @@
+[
+    {
+        "workbench": "buildable",
+        "items": {
+            "wood": 13
+        },
+        "amount": 1,
+        "output": "simple-shack"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "wood": 29
+        },
+        "amount": 1,
+        "output": "double-shack"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "wood": 50
+        },
+        "amount": 1,
+        "output": "roomy-shack"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "wood": 51
+        },
+        "amount": 1,
+        "output": "porch-shack"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "plank": 2,
+            "wood": 7
+        },
+        "amount": 1,
+        "output": "log-lookout"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "wood": 41
+        },
+        "amount": 1,
+        "output": "log-shed"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "wood": 22
+        },
+        "amount": 1,
+        "output": "palisade-gate"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "wood": 83
+        },
+        "amount": 1,
+        "output": "log-cabin"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "plank": 10,
+            "wood": 103
+        },
+        "amount": 1,
+        "output": "log-watch-tower"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "wood": 169
+        },
+        "amount": 1,
+        "output": "log-home"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "wood": 218
+        },
+        "amount": 1,
+        "output": "jumbo-lodge"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "wood": 367
+        },
+        "amount": 1,
+        "output": "lonely-lodge"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "granite": 187,
+            "wood": 59
+        },
+        "amount": 1,
+        "output": "bungalow"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "granite": 52,
+            "wood": 48
+        },
+        "amount": 1,
+        "output": "pleasant-pavilion"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "granite": 88,
+            "wood": 17
+        },
+        "amount": 1,
+        "output": "detached-garage"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "granite": 215,
+            "knotroot": 1,
+            "wood": 72
+        },
+        "amount": 1,
+        "output": "roomy-home"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "granite": 215,
+            "knotroot": 1,
+            "wood": 72
+        },
+        "amount": 1,
+        "output": "spacious-house"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "granite": 161,
+            "wood": 30
+        },
+        "amount": 1,
+        "output": "humble-manor"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "granite": 46,
+            "wood": 2
+        },
+        "amount": 1,
+        "output": "manor-gates"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "granite": 106,
+            "wood": 47
+        },
+        "amount": 1,
+        "output": "manor-stables"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "granite": 453,
+            "wood": 26
+        },
+        "amount": 1,
+        "output": "tower-manor"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "granite": 302,
+            "wood": 66
+        },
+        "amount": 1,
+        "output": "noble-manor"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "granite": 603,
+            "wood": 103
+        },
+        "amount": 1,
+        "output": "grand-manor"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "granite": 15,
+            "vines": 36,
+            "frostpine": 10,
+            "wood": 41
+        },
+        "amount": 1,
+        "output": "starter-palace"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "granite": 9,
+            "wood": 31
+        },
+        "amount": 1,
+        "output": "palace-pavilion"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "frostpine": 12,
+            "granite": 31,
+            "wood": 19
+        },
+        "amount": 1,
+        "output": "palace-gates"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "vines": 100,
+            "frostpine": 20,
+            "granite": 31,
+            "wood": 100
+        },
+        "amount": 1,
+        "output": "tiered-palace"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "vines": 125,
+            "frostpine": 94,
+            "granite": 138,
+            "wood": 329
+        },
+        "amount": 1,
+        "output": "palace-tower"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "vines": 219,
+            "frostpine": 80,
+            "granite": 152,
+            "wood": 233
+        },
+        "amount": 1,
+        "output": "grand-palace"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "cord": 8,
+            "plank": 2,
+            "wooden-rod": 14,
+            "granite": 9,
+            "wood": 8
+        },
+        "amount": 1,
+        "output": "speeder"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "wooden-rod": 16,
+            "flexwood": 16,
+            "plank": 9,
+            "cord": 8,
+            "flexwood-rod": 4,
+            "torch": 2,
+            "glass": 2,
+            "granite": 31,
+            "wood": 34
+        },
+        "amount": 1,
+        "output": "offroader"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "wooden-rod": 48,
+            "frostpine": 30,
+            "flexwood": 24,
+            "plank": 10,
+            "cord": 8,
+            "frostpine-rod": 6,
+            "torch": 2,
+            "glass": 2,
+            "granite": 63,
+            "wood": 102
+        },
+        "amount": 1,
+        "output": "hauler"
+    },
+
+
+
+
+    
+
+
+
+
+
+    {
+        "workbench": "buildable",
+        "items": {
+            "wood": 3,
+            "granite": 5
+        },
+        "amount": 1,
+        "output": "crafting-bench"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "plank": 5,
+            "soil": 2,
+            "sand": 1,
+            "fertilizer": 3
+        },
+        "amount": 1,
+        "output": "compost-bin"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "wood": 8,
+            "granite": 15
+        },
+        "amount": 1,
+        "output": "lumber-mill"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "granite": 30
+        },
+        "amount": 1,
+        "output": "grill"
+    },    
+    {
+        "workbench": "buildable",
+        "items": {
+            "plank": 8,
+            "wooden-rod": 5,
+            "wood": 5,
+            "wolf-claw": 5
+        },
+        "amount": 1,
+        "output": "spinning-wheel"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "plank": 8,
+            "bone": 7,
+            "wooden-rod": 3,
+            "granite": 6
+        },
+        "amount": 1,
+        "output": "food-processor"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "knotroot": 20,
+            "marble": 35
+        },
+        "amount": 1,
+        "output": "stone-breaker"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "knotroot-rod": 20,
+            "granite-slab": 20,
+            "shell": 3
+        },
+        "amount": 1,
+        "output": "grain-mill"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "plank": 8,
+            "marble-slab": 8,
+            "knotroot-rod": 5
+        },
+        "amount": 1,
+        "output": "juicer"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "marble-slab": 20,
+            "rough-amber": 5,
+            "sand-claw": 5,
+            "sand-shell": 3
+        },
+        "amount": 1,
+        "output": "gem-cutter"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "flexwood": 9,
+            "flexwood-rod": 8,
+            "sand-claw": 6
+        },
+        "amount": 1,
+        "output": "loom"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "flexwood": 20,
+            "cut-amber": 6
+        },
+        "amount": 1,
+        "output": "essence-table"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "brightcore": 15,
+            "obsidian-slab": 35,
+            "blast-core": 3
+        },
+        "amount": 1,
+        "output": "metal-smelter"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "brightcore": 8,
+            "copper-bar": 15,
+            "obsidian-slab": 3
+        },
+        "amount": 1,
+        "output": "oven"
+    },
+
+
+    
+
+
+
+
+
+
+
+
+
+    {
+        "workbench": "buildable",
+        "items": {
+            "frostpine": 6
+        },
+        "amount": 1,
+        "output": "ancient-bed"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "wood": 10
+        },
+        "amount": 1,
+        "output": "bed"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "plank": 6
+        },
+        "amount": 1,
+        "output": "charming-bed"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "wood": 10
+        },
+        "amount": 1,
+        "output": "drowy-bed"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "wood": 10
+        },
+        "amount": 1,
+        "output": "good-knight-bed"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+            "wood": 10
+        },
+        "amount": 1,
+        "output": "panel-bed"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "flexwood": 2
+    },
+    "amount": 1,
+    "output": "small-dynamic-foundation"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "flexwood": 3
+    },
+    "amount": 1,
+    "output": "medium-dynamic-foundation"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "flexwood": 4
+    },
+    "amount": 1,
+    "output": "large-dynamic-foundation"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "plank": 6,
+        "blast-powder": 3
+    },
+    "amount": 1,
+    "output": "boom-barrel"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "silk-fabric": 1,
+        "torch": 1,
+        "cord": 1
+    },
+    "amount": 1,
+    "output": "small-balloon"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "silk-fabric": 2,
+        "torch": 1,
+        "cord": 1
+    },
+    "amount": 1,
+    "output": "large-balloon"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "flexwood-rod": 1,
+        "flexwood": 1
+    },
+    "amount": 1,
+    "output": "small-simple-wheel"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "flexwood-rod": 1,
+        "flexwood": 2
+    },
+    "amount": 1,
+    "output": "large-simple-wheel"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "copper-bar": 2,
+        "flexwood": 6
+    },
+    "amount": 1,
+    "output": "metal-crate"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "flexwood": 8,
+        "copper-bar": 4,
+        "silk-fabric": 1
+    },
+    "amount": 1,
+    "output": "launch-pad"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "plank": 2,
+        "granite": 2,
+        "cord": 2
+    },
+    "amount": 1,
+    "output": "small-drivers-seat"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "plank": 3,
+        "granite": 2,
+        "cord": 2
+    },
+    "amount": 1,
+    "output": "medium-drivers-seat"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "plank": 4,
+        "granite": 2,
+        "cord": 2
+    },
+    "amount": 1,
+    "output": "large-drivers-seat"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 3,
+        "cord": 2
+    },
+    "amount": 1,
+    "output": "small-power-center"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 5,
+        "cord": 2
+    },
+    "amount": 1,
+    "output": "medium-power-center"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 8,
+        "cord": 2
+    },
+    "amount": 1,
+    "output": "large-power-center"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wooden-rod": 1,
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "small-powered-wheel"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "flexwood-rod": 1,
+        "flexwood": 2
+    },
+    "amount": 1,
+    "output": "medium-powered-wheel"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "frostpine-rod": 1,
+        "frostpine": 4
+    },
+    "amount": 1,
+    "output": "large-powered-wheel"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wooden-rod": 1,
+        "wood": 1,
+        "cord": 2
+    },
+    "amount": 1,
+    "output": "small-turnable-wheel"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "flexwood-rod": 1,
+        "flexwood": 2,
+        "cord": 2
+    },
+    "amount": 1,
+    "output": "medium-turnable-wheel"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "frostpine-rod": 1,
+        "frostpine": 4,
+        "cord": 2
+    },
+    "amount": 1,
+    "output": "large-turnable-wheel"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1,
+        "blast-powder": 1
+    },
+    "amount": 1,
+    "output": "activation-switch"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wooden-rod": 1,
+        "blast-powder": 1,
+        "torch": 1
+    },
+    "amount": 1,
+    "output": "small-thruster"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wooden-rod": 3,
+        "blast-powder": 2,
+        "torch": 1
+    },
+    "amount": 1,
+    "output": "large-thruster"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wooden-rod": 4
+    },
+    "amount": 1,
+    "output": "small-car-jack"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wooden-rod": 4
+    },
+    "amount": 1,
+    "output": "large-car-jack"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 3,
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "platform-bumper-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 4,
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "platform-bumper-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2,
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "vehicle-base-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 3,
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "vehicle-base-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 6
+    },
+    "amount": 1,
+    "output": "vehicle-base-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 3,
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "vehicle-base-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 7,
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "vehicle-base-05"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 3,
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "vehicle-base-06"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 4,
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "vehicle-base-07"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 5,
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "vehicle-base-08"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 7,
+        "wood": 3
+    },
+    "amount": 1,
+    "output": "vehicle-base-09"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 9,
+        "wood": 4
+    },
+    "amount": 1,
+    "output": "vehicle-base-10"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 17,
+        "wood": 16
+    },
+    "amount": 1,
+    "output": "vehicle-base-11"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 19,
+        "wood": 21
+    },
+    "amount": 1,
+    "output": "vehicle-base-12"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 4,
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "vehicle-base-single-rider"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 6
+    },
+    "amount": 1,
+    "output": "enclosed-cabin-rear"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 4
+    },
+    "amount": 1,
+    "output": "open-cabin-rear"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 4
+    },
+    "amount": 1,
+    "output": "windshield"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 4
+    },
+    "amount": 1,
+    "output": "medium-cabin-roof"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 8
+    },
+    "amount": 1,
+    "output": "large-cabin-roof"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "flexwood": 2
+    },
+    "amount": 1,
+    "output": "left-fender"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "flexwood": 2
+    },
+    "amount": 1,
+    "output": "right-fender"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "flexwood": 3
+    },
+    "amount": 1,
+    "output": "medium-fender"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "flexwood": 9
+    },
+    "amount": 1,
+    "output": "large-fender"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wooden-rod": 4,
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "small-front-brush-guard"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wooden-rod": 8,
+        "wood": 4
+    },
+    "amount": 1,
+    "output": "medium-front-brush-guard"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wooden-rod": 14,
+        "wood": 4
+    },
+    "amount": 1,
+    "output": "large-front-brush-guard"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wooden-rod": 2
+    },
+    "amount": 1,
+    "output": "small-rear-brush-guard"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wooden-rod": 4
+    },
+    "amount": 1,
+    "output": "medium-rear-brush-guard"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "suspension-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 3
+    },
+    "amount": 1,
+    "output": "suspension-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 4
+    },
+    "amount": 1,
+    "output": "suspension-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 12
+    },
+    "amount": 1,
+    "output": "suspension-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 14
+    },
+    "amount": 1,
+    "output": "suspension-05"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "torch": 1,
+        "glass": 1
+    },
+    "amount": 1,
+    "output": "angled-light-bar"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "torch": 1,
+        "glass": 1
+    },
+    "amount": 1,
+    "output": "flat-light-bar"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wooden-rod": 5,
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "vehicle-railing"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 9,
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "engine-bay"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "wood-foundation-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "wood-foundation-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "wood-foundation-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "wood-foundation-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "granite-foundation-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "granite-foundation-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "granite-foundation-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "granite-foundation-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-thin-floor-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-thin-floor-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-thin-floor-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-thin-floor-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-thin-floor-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-thin-floor-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-thin-floor-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-thin-floor-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-thin-floor-05"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "slate-thin-floor-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "slate-thin-floor-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "slate-thin-floor-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "wood-thin-floor-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "wood-thin-floor-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "wood-thin-floor-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "wood-thin-floor-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "frostpine": 1
+    },
+    "amount": 1,
+    "output": "ancient-thin-floor-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "frostpine": 1
+    },
+    "amount": 1,
+    "output": "ancient-thin-floor-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "frostpine": 1
+    },
+    "amount": 1,
+    "output": "ancient-thin-floor-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "frostpine": 1
+    },
+    "amount": 1,
+    "output": "ancient-thin-floor-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "sugi-thin-floor-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "sugi-thin-floor-01-old"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "sugi-thin-floor-02-old"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "sugi-thin-floor-03-old"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "sugi-thin-floor-04-old"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "vines": 1
+    },
+    "amount": 1,
+    "output": "tatami-thin-floor-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "vines": 1
+    },
+    "amount": 1,
+    "output": "tatami-thin-floor-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-thin-floor-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-thin-floor-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-floor-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-floor-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-floor-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-floor-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-floor-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-floor-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-floor-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-floor-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-floor-05"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "slate-floor-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "slate-floor-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "wood-floor-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "wood-floor-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "wood-floor-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "frostpine": 1
+    },
+    "amount": 1,
+    "output": "ancient-floor-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "frostpine": 1
+    },
+    "amount": 1,
+    "output": "ancient-floor-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "frostpine": 1
+    },
+    "amount": 1,
+    "output": "ancient-floor-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "sugi-floor"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "sugi-floor-01-old"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "sugi-floor-02-old"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "vines": 1
+    },
+    "amount": 1,
+    "output": "tatami-floor-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "vines": 1
+    },
+    "amount": 1,
+    "output": "tatami-floor-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "vines": 2
+    },
+    "amount": 1,
+    "output": "tatami-floor-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "vines": 4
+    },
+    "amount": 1,
+    "output": "tatami-floor-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-floor"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "rustic-wide-floor-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "rustic-wide-floor-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-wide-floor-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "castle-wide-floor-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "pattern-wide-floor-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "pattern-wide-floor-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "pattern-wide-floor-02-extra"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "wood-wide-floor-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "wood-wide-floor-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "frostpine": 1
+    },
+    "amount": 1,
+    "output": "ancient-wide-floor-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "frostpine": 2
+    },
+    "amount": 1,
+    "output": "ancient-wide-floor-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "sugi-wide-floor"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "vines": 5
+    },
+    "amount": 1,
+    "output": "tatami-wide-floor-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "vines": 8
+    },
+    "amount": 1,
+    "output": "tatami-wide-floor-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-wide-floor"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "beam-wall"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "fort-wall-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "fort-wall-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "fort-wall-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "fort-wall-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "log-corner"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "log-wall-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "log-wall-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "log-wall-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "log-wall-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "log-wall-05"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "umber-wall"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "carved-wall"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-wall-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-wall-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-wall-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-wall-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "castle-wall-05"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "castle-wall-05-arch-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "castle-wall-05-arch-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "castle-wall-05-framed-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "castle-wall-05-framed-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "castle-wall-05-smooth"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "castle-wall-06"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "brick-corner"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "brick-corner-extra"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "brick-wall-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "brick-wall-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "brick-wall-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "brick-wall-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "brick-wall-05"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "white-wall-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "white-wall-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "yellow-corner"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "yellow-wall-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "yellow-wall-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "yellow-wall-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "yellow-wall-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "yellow-wall-05"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "ancient-corner-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "ancient-corner-02-thin"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "ancient-corner-02-wide"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "ancient-slanted-wall-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "ancient-slanted-wall-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "ancient-slanted-wall-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "ancient-slanted-wall-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "ancient-slanted-wall-05"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "ancient-slanted-wall-06"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "ancient-wall-trim"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1,
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "gate-wall-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2,
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "gate-wall-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "palatial-corner"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1,
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "palatial-corner-accent"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1,
+        "vines": 1
+    },
+    "amount": 1,
+    "output": "shoji-wall-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2,
+        "vines": 2
+    },
+    "amount": 1,
+    "output": "shoji-wall-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2,
+        "vines": 2
+    },
+    "amount": 1,
+    "output": "shoji-wall-02-inverted"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2,
+        "vines": 2
+    },
+    "amount": 1,
+    "output": "shoji-wall-02-yellow-trim"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2,
+        "vines": 3
+    },
+    "amount": 1,
+    "output": "shoji-wall-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2,
+        "vines": 3
+    },
+    "amount": 1,
+    "output": "shoji-wall-03-yellow-trim"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2,
+        "vines": 4
+    },
+    "amount": 1,
+    "output": "shoji-wall-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2,
+        "vines": 4
+    },
+    "amount": 1,
+    "output": "shoji-wall-04-yellow-trim"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-wall-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-wall-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-wall-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-wall-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-wall-04-open"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "rustic-interior-door-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "rustic-interior-door-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-interior-wall-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-interior-wall-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-interior-wall-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "rustic-interior-wall-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "rustic-interior-wall-05"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-interior-arch-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "castle-interior-arch-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "castle-interior-arch-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-interior-wall-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-interior-wall-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-interior-wall-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-interior-wall-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "castle-interior-wall-05"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "pleasant-interior-door-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "pleasant-interior-door-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "pleasant-interior-door-02-wide"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "pleasant-interior-wall-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "pleasant-interior-wall-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "pleasant-interior-wall-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "pleasant-interior-wall-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "ancient-interior-wall-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "ancient-interior-wall-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "ancient-interior-wall-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "ancient-interior-wall-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "ancient-interior-wall-05"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "panel-interior-door"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1,
+        "vines": 1
+    },
+    "amount": 1,
+    "output": "panel-interior-wall-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1,
+        "vines": 2
+    },
+    "amount": 1,
+    "output": "panel-interior-wall-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "panel-interior-wall-02-brown"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "log-window-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "log-window-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "log-window-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "log-window-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-window-01-arrowslit"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-window-01-large"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-window-01-medium"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-window-01-tiny"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "castle-window-02-arrowslit"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "castle-window-02-large"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "castle-window-03-arrowslit"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "castle-window-03-elaborate"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "castle-window-03-large"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "castle-window-03-medium"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "castle-window-03-more-elaborate"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "castle-window-03-tiny"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "brick-window"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "brick-windows"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "brick-windows-shutters"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "yellow-window-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "yellow-window-02-shutters"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "yellow-window-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "yellow-window-bay"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2,
+        "vines": 2
+    },
+    "amount": 1,
+    "output": "shoji-ornate-window-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2,
+        "vines": 2
+    },
+    "amount": 1,
+    "output": "shoji-ornate-window-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2,
+        "vines": 1
+    },
+    "amount": 1,
+    "output": "shoji-window-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2,
+        "vines": 2
+    },
+    "amount": 1,
+    "output": "shoji-window-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2,
+        "vines": 2
+    },
+    "amount": 1,
+    "output": "shoji-window-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-window"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "fort-door"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "log-door-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "log-door-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "log-door-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "open-door"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-door-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2,
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "castle-door-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "castle-door-02-framed"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "castle-door-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2,
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "castle-double-doors-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2,
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "castle-double-doors-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2,
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "brick-door"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2,
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "brick-door-mantle"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2,
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "garage-door"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2,
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "yellow-door"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "ancient-door-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "frostpine": 5,
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "ancient-door-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "frostpine": 10,
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "palatial-door-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "frostpine": 10,
+        "wood": 2,
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "palatial-door-01-accent"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "frostpine": 10,
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "palatial-door-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-door"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-door-frame"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "log-half-corner"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "log-half-wall-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "log-half-wall-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "log-half-wall-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-interior-half-wall-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-interior-half-wall-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-interior-half-wall-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "umber-half-wall"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-corbel-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "castle-corbel-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-corbel-corner"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-half-wall-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-half-wall-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-half-wall-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-half-wall-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-half-wall-04-framed"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-half-wall-05"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-half-wall-05-framed"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-half-wall-06"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-half-wall-06-framed"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "slanted-castle-half-wall"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "brick-half-wall-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "brick-half-wall-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "brick-half-wall-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "yellow-half-wall-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "yellow-half-wall-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "yellow-half-wall-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "panel-half-wall"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-corner"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-half-wall-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-half-wall-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-arch-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "castle-arch-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "pavilion-arch-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "pavilion-arch-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-arch-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-arch-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "rustic-stairs-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "rustic-stairs-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "castle-stairs-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "castle-stairs-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "castle-stairs-landing"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "medieval-stairs-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "medieval-stairs-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "medieval-stairs-landing"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "pleasant-stairs-landing"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "frostpine": 4
+    },
+    "amount": 1,
+    "output": "vehicle-stair"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "ancient-stairs"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "sugi-stairs-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "sugi-stairs-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "sugi-stairs-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "rustic-railing-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "rustic-railing-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-railing"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "medieval-railing-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "medieval-railing-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "pleasant-railing"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "frostpine": 2
+    },
+    "amount": 1,
+    "output": "vehicle-stair-rail"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "ancient-post"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "ancient-railing"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-fence-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-fence-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-fence-corner"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-fence-end-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-fence-end-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2,
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "castle-gate"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "plank": 1
+    },
+    "amount": 1,
+    "output": "plank-railing-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "plank": 1
+    },
+    "amount": 1,
+    "output": "plank-railing-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "plank": 1
+    },
+    "amount": 1,
+    "output": "plank-railing-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-stair-railing-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-stair-railing-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-railing-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-railing-corner"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-railing-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-railing-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-railing-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-railing-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "castle-railing-corner"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "medieval-stair-railing-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "medieval-stair-railing-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "medieval-railing-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "medieval-railing-03-solid"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "medieval-railing-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "medieval-railing-05"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "medieval-railing-06"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "medieval-railing-corner-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "medieval-railing-corner-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "knotroot": 1
+    },
+    "amount": 1,
+    "output": "elegant-railing"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "pleasant-railing-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "pleasant-railing-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "adorned-corner"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "adorned-railing-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "adorned-railing-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "palatial-half-corner"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "palatial-railing-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "palatial-railing-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "palatial-railing-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "palatial-railing-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "beam-pillar"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "log-pillar-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "log-pillar-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "log-pillar-02-round"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-pillar"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "support-corner-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "support-corner-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "white-pillar"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "palatial-pillar-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1,
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "palatial-pillar-02-left"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1,
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "palatial-pillar-02-right"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2,
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "pavilion-pillar-left"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2,
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "pavilion-pillar-right"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-pillar-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-pillar-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-beam-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-beam-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-beam-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-beam-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "palatial-support-beam-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "palatial-support-beam-01-ornate"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "palatial-support-beam-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "palatial-support-beam-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-roof-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "rustic-roof-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "rustic-roof-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "rustic-roof-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "rustic-roof-05"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "medieval-roof-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "medieval-roof-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "medieval-roof-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "medieval-roof-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "medieval-roof-05"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2,
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "medieval-roof-05-gable"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "pleasant-roof-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "pleasant-roof-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "pleasant-roof-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "pleasant-roof-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "pleasant-roof-05"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "pleasant-roof-05-gable"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "kawara-roof-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "kawara-roof-01-support"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "kawara-roof-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "kawara-roof-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "kawara-roof-03-support"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "kawara-roof-04-ornate"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "kawara-roof-04-support"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "kawara-roof-05"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "kawara-roof-05-support"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "kawara-roof-06"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-roof-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-roof-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-roof-02-support"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-roof-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-roof-03-support"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-gable-left"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-gable-right"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "medieval-gable-left"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "medieval-gable-right"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "brick-gable-left"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "brick-gable-right"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "yellow-gable-left"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "yellow-gable-right"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "kawara-gable-01-left"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "kawara-gable-01-right"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "kawara-gable-02-left"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "kawara-gable-02-right"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-gable-left"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-gable-right"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-ridge-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-ridge-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-ridge-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-ridge-03-sloped"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-ridge-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-ridge-05"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "rustic-ridge-corner"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "medieval-ridge-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "medieval-ridge-01-gable"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "medieval-ridge-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "medieval-ridge-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "medieval-ridge-03-joint"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "medieval-ridge-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "medieval-ridge-05"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "medieval-ridge-corner"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "pleasant-ridge-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "pleasant-ridge-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "pleasant-ridge-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "pleasant-ridge-03-joint"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "pleasant-ridge-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "pleasant-ridge-05"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "pleasant-ridge-corner"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "kawara-ridge-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "kawara-ridge-01-ornate"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "kawara-ridge-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "kawara-ridge-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "kawara-ridge-end-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "kawara-ridge-end-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-ridge-01-left"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-ridge-01-right"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-ridge-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-ridge-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "shack-ridge-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "fort-palisade-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "fort-palisade-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "fort-palisade-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "fort-palisade-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "battlements-corner-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "battlements-corner-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "battlements-trim-01"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "battlements-trim-02"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "battlements-trim-03"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "battlements-trim-04"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "battlements-trim-05"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 1
+    },
+    "amount": 1,
+    "output": "pleasant-window-bay-trim"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "rustic-hip"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "medieval-hip"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "pleasant-hip"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "kawara-hip"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "rustic-valley"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "medieval-valley"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "granite": 2
+    },
+    "amount": 1,
+    "output": "pleasant-valley"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 2
+    },
+    "amount": 1,
+    "output": "kawara-valley"
+    },
+    {
+    "workbench": "buildable",
+    "items": {
+        "wood": 1
+    },
+    "amount": 1,
+    "output": "rustic-roof-wall-interior"
+    },
+    {
+        "workbench": "buildable",
+        "items": {
+          "wood": 4
+        },
+        "amount": 1,
+        "output": "ancient-table-small"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 4
+        },
+        "amount": 1,
+        "output": "ancient-table-trim"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 6
+        },
+        "amount": 1,
+        "output": "ancient-table-medium"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 4
+        },
+        "amount": 1,
+        "output": "cozy-table"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 3
+        },
+        "amount": 1,
+        "output": "palatial-table-medium"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 12
+        },
+        "amount": 1,
+        "output": "ancient-console"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "knotroot": 6
+        },
+        "amount": 1,
+        "output": "block-table"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 4
+        },
+        "amount": 1,
+        "output": "great-hall-table"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 4
+        },
+        "amount": 1,
+        "output": "modern-table"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 5
+        },
+        "amount": 1,
+        "output": "sturdy-table-medium"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 8
+        },
+        "amount": 1,
+        "output": "traditional-block-table"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 6,
+          "wood": 6
+        },
+        "amount": 1,
+        "output": "basic-table"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "knotroot": 8
+        },
+        "amount": 1,
+        "output": "cottage-table"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 4,
+          "flexwood": 4
+        },
+        "amount": 1,
+        "output": "low-dining-table"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 8
+        },
+        "amount": 1,
+        "output": "palatial-table-large"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 6
+        },
+        "amount": 1,
+        "output": "sturdy-table-large"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 1
+        },
+        "amount": 1,
+        "output": "cabin-end-table"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble": 1,
+          "knotroot": 1
+        },
+        "amount": 1,
+        "output": "classic-end-table"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 2
+        },
+        "amount": 1,
+        "output": "graceful-end-table"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 2
+        },
+        "amount": 1,
+        "output": "modern-nightstand"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 2
+        },
+        "amount": 1,
+        "output": "stately-end-table"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "knotroot": 2,
+          "marble": 1
+        },
+        "amount": 1,
+        "output": "ye-olde-end-table"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "obsidian": 3
+        },
+        "amount": 1,
+        "output": "goth-end-table"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "obsidian": 2
+        },
+        "amount": 1,
+        "output": "gothic-end-table"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 4
+        },
+        "amount": 1,
+        "output": "traditional-end-table"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 4
+        },
+        "amount": 1,
+        "output": "ancient-coffee-table"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "flexwood": 4
+        },
+        "amount": 1,
+        "output": "manor-coffee-table-small"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 2
+        },
+        "amount": 1,
+        "output": "palatial-coffee-table"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 4
+        },
+        "amount": 1,
+        "output": "blocked-coffee-table"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "flexwood": 6
+        },
+        "amount": 1,
+        "output": "manor-coffee-table-medium"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "flexwood": 8
+        },
+        "amount": 1,
+        "output": "manor-coffee-table-large"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 2
+        },
+        "amount": 1,
+        "output": "ancient-counter-small"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 2
+        },
+        "amount": 1,
+        "output": "ancient-counter-thin"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 2
+        },
+        "amount": 1,
+        "output": "ancient-counter-trim"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 2
+        },
+        "amount": 1,
+        "output": "ancient-curved-end"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 2
+        },
+        "amount": 1,
+        "output": "ancient-end"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "knotroot": 1
+        },
+        "amount": 1,
+        "output": "chopping-counter-small"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble-slab": 1,
+          "plank": 4
+        },
+        "amount": 1,
+        "output": "elegant-counter-plain"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble-slab": 1,
+          "plank": 4
+        },
+        "amount": 1,
+        "output": "elegant-counter-small"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 2
+        },
+        "amount": 1,
+        "output": "traditional-counter-small"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 8
+        },
+        "amount": 1,
+        "output": "ancient-counter-cabinet"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 8
+        },
+        "amount": 1,
+        "output": "ancient-counter-drawers"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 8,
+          "copper": 1
+        },
+        "amount": 1,
+        "output": "ancient-counter-handles"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 4,
+          "knotroot": 1
+        },
+        "amount": 1,
+        "output": "ancient-counter-medium"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "knotroot": 2
+        },
+        "amount": 1,
+        "output": "chopping-counter-medium"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble-slab": 2,
+          "plank": 6
+        },
+        "amount": 1,
+        "output": "elegant-counter-extra"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble-slab": 2,
+          "plank": 6
+        },
+        "amount": 1,
+        "output": "elegant-counter-medium"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 8
+        },
+        "amount": 1,
+        "output": "traditional-counter-medium"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 6
+        },
+        "amount": 1,
+        "output": "manor-counter"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 6,
+          "knotroot": 2
+        },
+        "amount": 1,
+        "output": "ancient-counter-large"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 8
+        },
+        "amount": 1,
+        "output": "ancient-counter-bench"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "knotroot": 4
+        },
+        "amount": 1,
+        "output": "chopping-counter-large"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble-slab": 4,
+          "plank": 8
+        },
+        "amount": 1,
+        "output": "elegant-counter-large"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 12
+        },
+        "amount": 1,
+        "output": "traditional-counter-large"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 6
+        },
+        "amount": 1,
+        "output": "ancient-corner-hole"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 6
+        },
+        "amount": 1,
+        "output": "ancient-corner-round"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 8
+        },
+        "amount": 1,
+        "output": "ancient-corner-square"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "knotroot": 4
+        },
+        "amount": 1,
+        "output": "chopping-corner"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble-slab": 4,
+          "plank": 8
+        },
+        "amount": 1,
+        "output": "elegant-corner"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 6
+        },
+        "amount": 1,
+        "output": "traditional-counter-corner"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 2,
+          "copper": 2
+        },
+        "amount": 1,
+        "output": "ancient-sink-narrow"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 8,
+          "copper": 2
+        },
+        "amount": 1,
+        "output": "ancient-sink"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble-slab": 3,
+          "plank": 6,
+          "copper-bar": 1
+        },
+        "amount": 1,
+        "output": "elegant-sink-medium"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble-slab": 4,
+          "plank": 8,
+          "copper-bar": 1
+        },
+        "amount": 1,
+        "output": "elegant-sink-large"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 12
+        },
+        "amount": 1,
+        "output": "ancient-desk"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 2
+        },
+        "amount": 1,
+        "output": "ancient-round-stool"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 2
+        },
+        "amount": 1,
+        "output": "ancient-square-stool"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 1,
+          "wood": 2
+        },
+        "amount": 1,
+        "output": "basic-stool"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 2
+        },
+        "amount": 1,
+        "output": "blue-stool"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "knotroot": 2
+        },
+        "amount": 1,
+        "output": "carved-stool"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 2
+        },
+        "amount": 1,
+        "output": "counter-stool"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 2
+        },
+        "amount": 1,
+        "output": "square-stool"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 3
+        },
+        "amount": 1,
+        "output": "ancient-seat"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "knotroot": 3,
+          "wool-fabric": 1
+        },
+        "amount": 1,
+        "output": "cushioned-chair"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 4,
+          "wool-fabric": 2
+        },
+        "amount": 1,
+        "output": "manor-chair"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 2,
+          "wood": 2
+        },
+        "amount": 1,
+        "output": "modern-chair"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "knotroot": 3,
+          "wool-fabric": 1
+        },
+        "amount": 1,
+        "output": "plush-chair-no-back"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 2
+        },
+        "amount": 1,
+        "output": "solid-wood-chair"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 2
+        },
+        "amount": 1,
+        "output": "vehicle-seat-large"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 2
+        },
+        "amount": 1,
+        "output": "vehicle-seat-medium"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "knotroot": 4
+        },
+        "amount": 1,
+        "output": "windsor-lounge-chair"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 5
+        },
+        "amount": 1,
+        "output": "ancient-throne"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 4,
+          "wool-fabric": 2
+        },
+        "amount": 1,
+        "output": "club-armchair"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 4,
+          "wool-fabric": 2
+        },
+        "amount": 1,
+        "output": "cozy-armchair"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 6,
+          "wool-fabric": 6
+        },
+        "amount": 1,
+        "output": "patches-armchair"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 4,
+          "wool-fabric": 4
+        },
+        "amount": 1,
+        "output": "velvet-armchair"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 8,
+          "wool-fabric": 4
+        },
+        "amount": 1,
+        "output": "bygone-sofa"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 6,
+          "wool-fabric": 6
+        },
+        "amount": 1,
+        "output": "college-sofa"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 8,
+          "wool-fabric": 4
+        },
+        "amount": 1,
+        "output": "cozy-sofa"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 8
+        },
+        "amount": 1,
+        "output": "medieval-sofa-brown"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble": 8
+        },
+        "amount": 1,
+        "output": "medieval-sofa-white"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 8,
+          "wool-fabric": 8
+        },
+        "amount": 1,
+        "output": "patches-sofa"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 6
+        },
+        "amount": 1,
+        "output": "ancient-sofa"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 8
+        },
+        "amount": 1,
+        "output": "ancient-sofa-red"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 4
+        },
+        "amount": 1,
+        "output": "ancient-bench-small"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 4
+        },
+        "amount": 1,
+        "output": "basic-bench-small"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 2
+        },
+        "amount": 1,
+        "output": "great-hall-bench-small"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 6
+        },
+        "amount": 1,
+        "output": "ancient-bench-medium"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 8
+        },
+        "amount": 1,
+        "output": "ancient-bench-large"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 8
+        },
+        "amount": 1,
+        "output": "basic-bench-large"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 4
+        },
+        "amount": 1,
+        "output": "great-hall-bench-large"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 3,
+          "wood": 2
+        },
+        "amount": 1,
+        "output": "park-bench"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 4,
+          "wood": 2
+        },
+        "amount": 1,
+        "output": "sleek-park-bench"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 4
+        },
+        "amount": 1,
+        "output": "water-barrel"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble": 4
+        },
+        "amount": 1,
+        "output": "cozy-sink"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble": 3,
+          "vines": 7
+        },
+        "amount": 1,
+        "output": "cozy-toilet"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 3,
+          "vines": 5
+        },
+        "amount": 1,
+        "output": "knightly-toilet"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble": 4,
+          "vines": 1
+        },
+        "amount": 1,
+        "output": "simple-toilet"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble": 8
+        },
+        "amount": 1,
+        "output": "cozy-tub"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 6
+        },
+        "amount": 1,
+        "output": "rub-a-dub-dub"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 12
+        },
+        "amount": 1,
+        "output": "casket-case"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "granite": 8,
+          "wood": 3
+        },
+        "amount": 1,
+        "output": "wishing-well"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "copper-bar": 1,
+          "brightcore": 1
+        },
+        "amount": 1,
+        "output": "happy-lamper"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "copper-bar": 1,
+          "brightcore": 1
+        },
+        "amount": 1,
+        "output": "lantern"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "copper": 2,
+          "brightcore": 1,
+          "wood": 2
+        },
+        "amount": 1,
+        "output": "lantern-table"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "granite": 2,
+          "vines": 1
+        },
+        "amount": 1,
+        "output": "courtyard-lantern"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 2,
+          "vines": 1
+        },
+        "amount": 1,
+        "output": "wooden-lantern"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 1,
+          "vines": 1
+        },
+        "amount": 1,
+        "output": "ancient-streetlight"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "iron-bar": 3,
+          "brightcore": 1
+        },
+        "amount": 1,
+        "output": "black-streetlight"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "iron-bar": 3,
+          "brightcore": 1
+        },
+        "amount": 1,
+        "output": "green-streetlight"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "vines": 1
+        },
+        "amount": 1,
+        "output": "its-wick"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wooden-rod": 1,
+          "brightcore": 1
+        },
+        "amount": 1,
+        "output": "modest-lamp"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wooden-rod": 1,
+          "brightcore": 1
+        },
+        "amount": 1,
+        "output": "night-light"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 1,
+          "brightcore": 1
+        },
+        "amount": 1,
+        "output": "simple-lamp-small"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "copper-bar": 1,
+          "brightcore": 1
+        },
+        "amount": 1,
+        "output": "swivel-desk-lamp"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "vines": 1
+        },
+        "amount": 1,
+        "output": "waxing-poetic"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 1,
+          "brightcore": 1
+        },
+        "amount": 1,
+        "output": "simple-lamp-medium"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 1,
+          "vines": 3
+        },
+        "amount": 1,
+        "output": "waxing-lyrical"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wooden-rod": 1,
+          "brightcore": 1
+        },
+        "amount": 1,
+        "output": "classic-lamp"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wooden-rod": 1,
+          "brightcore": 1
+        },
+        "amount": 1,
+        "output": "modest-standing-lamp"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wooden-rod": 1,
+          "brightcore": 1
+        },
+        "amount": 1,
+        "output": "simple-standing-lamp"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "copper-bar": 2,
+          "vines": 1
+        },
+        "amount": 1,
+        "output": "manor-torch"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wooden-rod": 1,
+          "vines": 3
+        },
+        "amount": 1,
+        "output": "candelabra"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 1,
+          "vines": 1
+        },
+        "amount": 1,
+        "output": "wall-candle"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "copper-bar": 1,
+          "brightcore": 1
+        },
+        "amount": 1,
+        "output": "wall-exposed-bulb"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble": 1,
+          "brightcore": 1
+        },
+        "amount": 1,
+        "output": "wall-light"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble": 1,
+          "brightcore": 1
+        },
+        "amount": 1,
+        "output": "wall-light-round"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 1,
+          "brightcore": 1
+        },
+        "amount": 1,
+        "output": "ceiling-light"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 1,
+          "vines": 2
+        },
+        "amount": 1,
+        "output": "wall-candles"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 5
+        },
+        "amount": 1,
+        "output": "ancient-shelf"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 1
+        },
+        "amount": 1,
+        "output": "book-nook-shelf"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 2
+        },
+        "amount": 1,
+        "output": "cozy-shelf"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 3
+        },
+        "amount": 1,
+        "output": "dining-shelf"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 2
+        },
+        "amount": 1,
+        "output": "standard-shelf"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 4
+        },
+        "amount": 1,
+        "output": "ye-olde-beauty-shelf"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 4,
+          "vines": 1
+        },
+        "amount": 1,
+        "output": "cozy-bookshelf"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 8
+        },
+        "amount": 1,
+        "output": "manor-display-cabinet"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 12
+        },
+        "amount": 1,
+        "output": "ancient-shelves-brown"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "frostpine": 10
+        },
+        "amount": 1,
+        "output": "ancient-shelves-red"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 2
+        },
+        "amount": 1,
+        "output": "arch-passageway"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 3
+        },
+        "amount": 1,
+        "output": "cookbook-shelf"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 6
+        },
+        "amount": 1,
+        "output": "edgy-bookshelf"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 4
+        },
+        "amount": 1,
+        "output": "medieval-shelf"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 6
+        },
+        "amount": 1,
+        "output": "palatial-shelves-brown"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "frostpine": 8
+        },
+        "amount": 1,
+        "output": "palatial-shelves-red"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 5
+        },
+        "amount": 1,
+        "output": "simple-chest"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 5
+        },
+        "amount": 1,
+        "output": "simple-trunk"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "obsidian-slab": 3,
+          "copper-bar": 2
+        },
+        "amount": 1,
+        "output": "ancient-chest"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "obsidian-slab": 3,
+          "copper-bar": 2
+        },
+        "amount": 1,
+        "output": "palatial-chest"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "frostpine": 8,
+          "iron-bar": 4
+        },
+        "amount": 1,
+        "output": "grand-chest"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "obsidian-slab": 6,
+          "copper-bar": 4
+        },
+        "amount": 1,
+        "output": "large-chest"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "knotroot": 8,
+          "marble-slab": 6
+        },
+        "amount": 1,
+        "output": "medium-chest"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 6
+        },
+        "amount": 1,
+        "output": "small-chest"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble-slab": 5
+        },
+        "amount": 1,
+        "output": "fridge"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 6
+        },
+        "amount": 1,
+        "output": "manor-armoire"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 6
+        },
+        "amount": 1,
+        "output": "manor-wardrobe"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 6
+        },
+        "amount": 1,
+        "output": "modern-closet"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 8
+        },
+        "amount": 1,
+        "output": "ancient-armoire"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 8
+        },
+        "amount": 1,
+        "output": "manor-armoire-large"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 8
+        },
+        "amount": 1,
+        "output": "modest-closet"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 3
+        },
+        "amount": 1,
+        "output": "manor-dresser-small"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 3
+        },
+        "amount": 1,
+        "output": "modern-dresser-small"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 5
+        },
+        "amount": 1,
+        "output": "off-the-snap-dresser"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 5
+        },
+        "amount": 1,
+        "output": "manor-dresser-medium"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 5
+        },
+        "amount": 1,
+        "output": "modern-dresser-medium"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 3
+        },
+        "amount": 1,
+        "output": "basic-barrel"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 2
+        },
+        "amount": 1,
+        "output": "basic-barrel-lid"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "granite": 3
+        },
+        "amount": 1,
+        "output": "garbage-can"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 2,
+          "copper": 1
+        },
+        "amount": 1,
+        "output": "ladel-and-barrel"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "copper-bar": 5
+        },
+        "amount": 1,
+        "output": "mailbox-small-01"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "copper-bar": 3
+        },
+        "amount": 1,
+        "output": "mailbox-small-02"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wooden-rod": 1,
+          "vines": 3
+        },
+        "amount": 1,
+        "output": "toilet-paper-stand"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 3
+        },
+        "amount": 1,
+        "output": "water-barrel"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 2
+        },
+        "amount": 1,
+        "output": "water-bucket"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 5
+        },
+        "amount": 1,
+        "output": "basic-barrels"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 3
+        },
+        "amount": 1,
+        "output": "basic-crate"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "knotroot": 2
+        },
+        "amount": 1,
+        "output": "box-assortment"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 2
+        },
+        "amount": 1,
+        "output": "crate-of-wood"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 5
+        },
+        "amount": 1,
+        "output": "garbage-bin"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble": 2
+        },
+        "amount": 1,
+        "output": "kitchen-vases"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 2
+        },
+        "amount": 1,
+        "output": "water-basin-lid"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 3
+        },
+        "amount": 1,
+        "output": "broom-and-crate"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 3,
+          "wooden-rod": 1,
+          "wool-fabric": 2
+        },
+        "amount": 1,
+        "output": "cozy-towel-rack"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "copper-bar": 4
+        },
+        "amount": 1,
+        "output": "industrial-barrel"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "copper-bar": 4
+        },
+        "amount": 1,
+        "output": "industrial-barrel-lid"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "knotroot": 2,
+          "copper": 2
+        },
+        "amount": 1,
+        "output": "pomp-and-clutter"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wooden-rod": 3,
+          "wool-fabric": 2
+        },
+        "amount": 1,
+        "output": "royal-towel-rack"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 3
+        },
+        "amount": 1,
+        "output": "crates-of-wood"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wool-fabric": 4
+        },
+        "amount": 1,
+        "output": "bathroom-mat"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wool-fabric": 4
+        },
+        "amount": 1,
+        "output": "cozy-mat"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wool-fabric": 4
+        },
+        "amount": 1,
+        "output": "puzzle-rug"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wool-fabric": 4
+        },
+        "amount": 1,
+        "output": "puzzle-rug-orange"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wool-fabric": 8
+        },
+        "amount": 1,
+        "output": "cut-a-rug"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wool-fabric": 6
+        },
+        "amount": 1,
+        "output": "cut-a-rug-yellow"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wool-fabric": 6
+        },
+        "amount": 1,
+        "output": "diamond-rug"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wool-fabric": 6
+        },
+        "amount": 1,
+        "output": "starter-mat"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wool-fabric": 6
+        },
+        "amount": 1,
+        "output": "striped-rug"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wool-fabric": 6
+        },
+        "amount": 1,
+        "output": "wavy-rug"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 2
+        },
+        "amount": 1,
+        "output": "block-colors-meadow"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 2
+        },
+        "amount": 1,
+        "output": "block-colors-sunrise"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 4
+        },
+        "amount": 1,
+        "output": "block-colors-medium"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 2,
+          "iron": 2
+        },
+        "amount": 1,
+        "output": "decorative-longsword"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 4,
+          "wool-fabric": 3
+        },
+        "amount": 1,
+        "output": "target-board"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 1,
+          "black-and-blue-shield-fish-legendary": 1
+        },
+        "amount": 1,
+        "output": "black-and-blue-shieldfish-plaque"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 1,
+          "blue-flopper-legendary": 1
+        },
+        "amount": 1,
+        "output": "blue-flopper-plaque"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 1,
+          "blue-slurpfish-legendary": 1
+        },
+        "amount": 1,
+        "output": "blue-slurpfish-plaque"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 1,
+          "blue-small-fry-legendary": 1
+        },
+        "amount": 1,
+        "output": "blue-small-fry-plaque"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 1,
+          "cuddle-jellyfish-legendary": 1
+        },
+        "amount": 1,
+        "output": "cuddle-jellyfish-plaque"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 1,
+          "green-flopper-legendary": 1
+        },
+        "amount": 1,
+        "output": "green-flopper-plaque"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 1,
+          "molten-spicy-fish-legendary": 1
+        },
+        "amount": 1,
+        "output": "molten-spicy-fish-plaque"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 1,
+          "orange-flopper-legendary": 1
+        },
+        "amount": 1,
+        "output": "orange-flopper-plaque"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 1,
+          "purple-slurpfish-legendary": 1
+        },
+        "amount": 1,
+        "output": "purple-slurpfish-plaque"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 1,
+          "purple-thermal-fish-legendary": 1
+        },
+        "amount": 1,
+        "output": "purple-thermal-fish-plaque"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 1,
+          "raven-thermal-fish-legendary": 1
+        },
+        "amount": 1,
+        "output": "raven-thermal-fish-plaque"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 1,
+          "silver-thermal-fish-legendary": 1
+        },
+        "amount": 1,
+        "output": "silver-thermal-fish-plaque"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 1,
+          "slurp-jellyfish-legendary": 1
+        },
+        "amount": 1,
+        "output": "slurp-jellyfish-plaque"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 1,
+          "vendetta-flopper-legendary": 1
+        },
+        "amount": 1,
+        "output": "vendetta-flopper-plaque"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 1,
+          "yellow-slurpfish-legendary": 1
+        },
+        "amount": 1,
+        "output": "yellow-slurpfish-plaque"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "copper-bar": 2
+        },
+        "amount": 1,
+        "output": "baking-utensiles"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "obsidian": 1,
+          "rough-amber": 1
+        },
+        "amount": 1,
+        "output": "bottle-and-glass"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble": 2
+        },
+        "amount": 1,
+        "output": "bowled-over"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble": 2,
+          "knotroot": 2
+        },
+        "amount": 1,
+        "output": "classic-jar"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 1
+        },
+        "amount": 1,
+        "output": "dish-it-out"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "vines": 6
+        },
+        "amount": 1,
+        "output": "real-stories-of-the-imagined-order"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "cut-amber": 4
+        },
+        "amount": 1,
+        "output": "sunglasses"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble": 2
+        },
+        "amount": 1,
+        "output": "tea-set"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "plank": 1,
+          "vines": 12
+        },
+        "amount": 1,
+        "output": "the-adventures-of-john-jones"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble": 1
+        },
+        "amount": 1,
+        "output": "watering-can"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "rough-amber": 1,
+          "flexwood": 1,
+          "knotroot": 1
+        },
+        "amount": 1,
+        "output": "apothecary-jars"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 2,
+          "granite": 1
+        },
+        "amount": 1,
+        "output": "barrels-and-buckets"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble": 2
+        },
+        "amount": 1,
+        "output": "bowl-and-spoons"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "copper-bar": 4
+        },
+        "amount": 1,
+        "output": "cooking-utensiles"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "copper-bar": 4
+        },
+        "amount": 1,
+        "output": "diner-decor"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble": 3
+        },
+        "amount": 1,
+        "output": "dinner-time"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "copper-bar": 1,
+          "obsidian": 1,
+          "rough-amber": 1
+        },
+        "amount": 1,
+        "output": "glasses-to-glasses"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "cut-amber": 4
+        },
+        "amount": 1,
+        "output": "inkwells"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "iron-bars": 3
+        },
+        "amount": 1,
+        "output": "iron-bars"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "obsidian": 2
+        },
+        "amount": 1,
+        "output": "iron-cookware"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble": 2
+        },
+        "amount": 1,
+        "output": "modest-dishes"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "vines": 6
+        },
+        "amount": 1,
+        "output": "of-minifigs-and-men-series"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "vines": 3
+        },
+        "amount": 1,
+        "output": "pride-and-peelys"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "vines": 9
+        },
+        "amount": 1,
+        "output": "stack-of-books"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble": 2,
+          "obsidian": 1
+        },
+        "amount": 1,
+        "output": "table-setting"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble": 2
+        },
+        "amount": 1,
+        "output": "tea-for-two"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "vines": 3
+        },
+        "amount": 1,
+        "output": "the-klombo-incident"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "vines": 9
+        },
+        "amount": 1,
+        "output": "the-looper-trilogy"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble": 2
+        },
+        "amount": 1,
+        "output": "white-cutting-board"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "vines": 3,
+          "wood": 1
+        },
+        "amount": 1,
+        "output": "calligraphy-set"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "vines": 3
+        },
+        "amount": 1,
+        "output": "scroll-and-brushes"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble": 2
+        },
+        "amount": 1,
+        "output": "supper-duper-dishes"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble": 1,
+          "vines": 2
+        },
+        "amount": 1,
+        "output": "court-vase-large"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble": 1,
+          "vines": 2
+        },
+        "amount": 1,
+        "output": "court-vase-medium"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble": 1,
+          "vines": 2
+        },
+        "amount": 1,
+        "output": "court-vase-small"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "granite": 1,
+          "vines": 3
+        },
+        "amount": 1,
+        "output": "daisies"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "granite": 1,
+          "vines": 1
+        },
+        "amount": 1,
+        "output": "houseplant"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "granite": 1,
+          "vines": 1
+        },
+        "amount": 1,
+        "output": "plants-and-pots"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "granite": 1,
+          "vines": 1
+        },
+        "amount": 1,
+        "output": "pottering-around"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "granite": 1,
+          "vines": 3
+        },
+        "amount": 1,
+        "output": "simple-pot"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "vines": 1
+        },
+        "amount": 1,
+        "output": "centerpiece"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "vines": 2
+        },
+        "amount": 1,
+        "output": "centerpiece-stand"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble": 2
+        },
+        "amount": 1,
+        "output": "decorative-column"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 2,
+          "wooden-rod": 1,
+          "marble-slab": 1
+        },
+        "amount": 1,
+        "output": "grinding-stone"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "iron-bar": 8
+        },
+        "amount": 1,
+        "output": "heavy-duty-anvil"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble": 1,
+          "wood": 1
+        },
+        "amount": 1,
+        "output": "plate-display"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 2,
+          "copper": 1
+        },
+        "amount": 1,
+        "output": "spoon-display"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "frostpine": 5
+        },
+        "amount": 1,
+        "output": "taiko-drum-small"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 3,
+          "copper-bar": 2
+        },
+        "amount": 1,
+        "output": "training-dummy-armor"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 3,
+          "copper-bar": 1
+        },
+        "amount": 1,
+        "output": "training-dummy-helmet"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "iron": 5,
+          "wood": 5
+        },
+        "amount": 1,
+        "output": "training-dummy-sword-and-shield"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 4,
+          "vines": 5
+        },
+        "amount": 1,
+        "output": "ancient-panel-display"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble": 5
+        },
+        "amount": 1,
+        "output": "guard-statue-axe"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble": 5
+        },
+        "amount": 1,
+        "output": "guard-statue-sword"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "iron": 8,
+          "granite": 2,
+          "wood": 2
+        },
+        "amount": 1,
+        "output": "kitsune-statue"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "copper": 8,
+          "granite": 2,
+          "wood": 2
+        },
+        "amount": 1,
+        "output": "kitsune-statue-gold"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wooden-rod": 1,
+          "silk-fabric": 2
+        },
+        "amount": 1,
+        "output": "noble-standard"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wooden-rod": 1
+        },
+        "amount": 1,
+        "output": "noble-standard-pole"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "frostpine": 8
+        },
+        "amount": 1,
+        "output": "taiko-drum-medium"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble": 8
+        },
+        "amount": 1,
+        "output": "knight-statue"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "iron": 8,
+          "granite": 2
+        },
+        "amount": 1,
+        "output": "llama-statue"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "copper": 8,
+          "granite": 2
+        },
+        "amount": 1,
+        "output": "llama-statue-gold"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wooden-rod": 1,
+          "silk-fabric": 4
+        },
+        "amount": 1,
+        "output": "royal-standard"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wooden-rod": 2
+        },
+        "amount": 1,
+        "output": "royal-standard-pole"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 6
+        },
+        "amount": 1,
+        "output": "ancient-gate"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 4,
+          "vines": 8
+        },
+        "amount": 1,
+        "output": "ancient-tapestry"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wooden-rod": 2,
+          "wool-fabric": 3
+        },
+        "amount": 1,
+        "output": "medieval-banner"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "frostpine": 8,
+          "copper": 5
+        },
+        "amount": 1,
+        "output": "ancient-gong"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble-slab": 5
+        },
+        "amount": 1,
+        "output": "dishwasher"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "marble-slab": 5
+        },
+        "amount": 1,
+        "output": "dryer"
+      },
+      {
+        "workbench": "buildable",
+        "items": {
+          "wood": 6
+        },
+        "amount": 1,
+        "output": "ancient-food-cart"
+      }
+]

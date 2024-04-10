@@ -1,0 +1,245 @@
+[
+    {
+        "name": "Wood Foundation 05",
+        "id": "wood-foundation-05",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": "1",
+          "dimensions": "4x4x8"
+        }
+      },
+      {
+        "name": "Wood Foundation 06",
+        "id": "wood-foundation-06",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": "1",
+          "dimensions": "4x4x12"
+        }
+      },
+      {
+        "name": "Wood Foundation 07",
+        "id": "wood-foundation-07",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": "1",
+          "dimensions": "4x16x8"
+        }
+      },
+      {
+        "name": "Wood Foundation 08",
+        "id": "wood-foundation-08",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": "1",
+          "dimensions": "4x16x12"
+        }
+      },
+      {
+        "name": "Wood Foundation 09",
+        "id": "wood-foundation-09",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": "1",
+          "dimensions": "8x8x8"
+        }
+      },
+      {
+        "name": "Wood Foundation 10",
+        "id": "wood-foundation-10",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": "1",
+          "dimensions": "8x8x12"
+        }
+      },
+      {
+        "name": "Wood Foundation 11",
+        "id": "wood-foundation-11",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": "1",
+          "dimensions": "16x16x8"
+        }
+      },
+      {
+        "name": "Wood Foundation 12",
+        "id": "wood-foundation-12",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": "1",
+          "dimensions": "16x16x12"
+        }
+      },
+      {
+        "name": "Granite Foundation 05",
+        "id": "granite-foundation-05",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": "1",
+          "dimensions": "4x4x8"
+        }
+      },
+      {
+        "name": "Granite Foundation 06",
+        "id": "granite-foundation-06",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": "1",
+          "dimensions": "4x4x12"
+        }
+      },
+      {
+        "name": "Granite Foundation 07",
+        "id": "granite-foundation-07",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": "1",
+          "dimensions": "4x16x8"
+        }
+      },
+      {
+        "name": "Granite Foundation 08",
+        "id": "granite-foundation-08",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": "1",
+          "dimensions": "4x16x12"
+        }
+      },
+      {
+        "name": "Granite Foundation 09",
+        "id": "granite-foundation-09",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": "1",
+          "dimensions": "8x8x8"
+        }
+      },
+      {
+        "name": "Granite Foundation 10",
+        "id": "granite-foundation-10",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": "1",
+          "dimensions": "8x8x12"
+        }
+      },
+      {
+        "name": "Granite Foundation 11",
+        "id": "granite-foundation-11",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": "1",
+          "dimensions": "16x16x8"
+        }
+      },
+      {
+        "name": "Granite Foundation 12",
+        "id": "granite-foundation-12",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": "1",
+          "dimensions": "16x16x12"
+        }
+      },
+      {
+        "name": "Sidewalk Foundation 01",
+        "id": "sidewalk-foundation-01",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": "1",
+          "dimensions": "4x4x12"
+        }
+      },
+      {
+        "name": "Sidewalk Foundation 01 Border",
+        "id": "sidewalk-foundation-01-border",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": "1",
+          "dimensions": "4x4x12"
+        }
+      },
+      {
+        "name": "Sidewalk Foundation 01 Round Corner",
+        "id": "sidewalk-foundation-01-round-corner",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": "1",
+          "dimensions": "4x4x12"
+        }
+      },
+      {
+        "name": "Sidewalk Foundation 01 Square Corner",
+        "id": "sidewalk-foundation-01-square-corner",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": "1",
+          "dimensions": "4x4x12"
+        }
+      },
+      {
+        "name": "Sidewalk Foundation 02",
+        "id": "sidewalk-foundation-02",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": "1",
+          "dimensions": "4x16x12"
+        }
+      },
+      {
+        "name": "Sidewalk Foundation 02 Bottom Border",
+        "id": "sidewalk-foundation-02-bottom-border",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": "1",
+          "dimensions": "4x16x12"
+        }
+      },
+      {
+        "name": "Sidewalk Foundation 02 Right Border",
+        "id": "sidewalk-foundation-02-right-border",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": "1",
+          "dimensions": "4x16x12"
+        }
+      },
+      {
+        "name": "Sidewalk Foundation 03",
+        "id": "sidewalk-foundation-03",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": "1",
+          "dimensions": "16x16x12"
+        }
+      },
+      {
+        "name": "Sidewalk Foundation 03 Border",
+        "id": "sidewalk-foundation-03-border",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": "1",
+          "dimensions": "16x16x12"
+        }
+      },
+      {
+        "name": "Sidewalk Foundation 03 Round Corner",
+        "id": "sidewalk-foundation-03-round-corner",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": "1",
+          "dimensions": "16x16x12"
+        }
+      },
+      {
+        "name": "Sidewalk Foundation 03 Square Corner",
+        "id": "sidewalk-foundation-03-square-corner",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": "1",
+          "dimensions": "16x16x12"
+        }
+      }
+]

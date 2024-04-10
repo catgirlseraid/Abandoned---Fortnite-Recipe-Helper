@@ -1,0 +1,584 @@
+[
+    {
+        "name": "Chicken",
+        "id": "chicken",
+        "description": "",
+        "flavour-text": "Give them a friendly scratch and they may offer you some loot in return. BACAWK!",
+        "attributes": {
+            "health": 3,
+            "biomes-found": [
+                "grasslands"
+            ],
+            "hostile": false,
+            "type": "docile-creatures",
+            "rarity": "common",
+            "pettable": true
+        },
+        "drops": {
+            "drops-killed": {
+                "meat": 1,
+                "feather": 1
+            },
+            "drops-petted": {
+                "egg": 1
+            },
+            "drops-fed": {
+                "feedable-items": [
+                    "corn",
+                    "raspberry",
+                    "pumpkin",
+                    "vines",
+                    "slapberry",
+                    "snowberry"
+                ],
+                "egg": "1-10"
+            },
+            "drops-idle": {
+                "fertilizer": 1
+            }
+        }
+    },
+    {
+        "name": "Cow",
+        "id": "cow",
+        "description": "",
+        "flavour-text": "Peaceful grass-grazers. Give them a scrach and they may give you loot!",
+        "attributes": {
+            "health": 10,
+            "biomes-found": [
+                "grasslands"
+            ],
+            "hostile": false,
+            "type": "docile-creatures",
+            "rarity": "common",
+            "pettable": true
+        },
+        "drops": {
+            "drops-killed": {
+                "meat": 1
+            },
+            "drops-petted": {
+                "milk": 1
+            },
+            "drops-fed": {
+                "feedable-items": [
+                    "corn",
+                    "raspberry",
+                    "pumpkin",
+                    "vines",
+                    "slapberry",
+                    "snowberry"
+                ],
+                "milk": "1-10"
+            },
+            "drops-idle": {
+                "fertilizer": 1
+            }
+        }
+    },
+    {
+        "name": "Sheep",
+        "id": "sheep",
+        "description": "",
+        "flavour-text": "Friendly and fuzzy. Will sometimes offer loot if you pet them nicely",
+        "attributes": {
+            "health": 5,
+            "biomes-found": [
+                "grasslands"
+            ],
+            "hostile": false,
+            "type": "docile-creatures",
+            "rarity": "common",
+            "pettable": true
+        },
+        "drops": {
+            "drops-killed": {
+                "meat": 1
+            },
+            "drops-petted": {
+                "wool": 1
+            },
+            "drops-fed": {
+                "feedable-items": [
+                    "corn",
+                    "raspberry",
+                    "pumpkin",
+                    "vines",
+                    "slapberry",
+                    "snowberry"
+                ],
+                "wool": "1-10"
+            },
+            "drops-idle": {
+                "fertilizer": 1
+            }
+        }
+    },
+    {
+        "name": "Mountain Cow",
+        "id": "mountain-cow",
+        "description": "",
+        "flavour-text": "Excitied to share their loot if you're nice enough to pet them. Think of them as off-road cows.",
+        "attributes": {
+            "health": 124,
+            "biomes-found": [
+                "frostlands"
+            ],
+            "hostile": false,
+            "type": "docile-creatures",
+            "rarity": "uncommon",
+            "pettable": true
+        },
+        "drops": {
+            "drops-killed": {
+                "meat": 1
+            },
+            "drops-petted": {
+                "milk": 1
+            },
+            "drops-fed": {
+                "feedable-items": [
+                    "corn",
+                    "raspberry",
+                    "pumpkin",
+                    "vines",
+                    "slapberry",
+                    "snowberry"
+                ],
+                "milk": "1-10"
+            },
+            "drops-idle": {
+                "fertilizer": 1
+            }
+        }
+    },
+    {
+        "name": "Ram",
+        "id": "ram",
+        "description": "",
+        "flavour-text": "They may be hard-headed, but if you give them a little pat they might give you little loot!",
+        "attributes": {
+            "health": 95,
+            "biomes-found": [
+                "frostlands"
+            ],
+            "hostile": false,
+            "type": "docile-creatures",
+            "rarity": "uncommon",
+            "pettable": true
+        },
+        "drops": {
+            "drops-killed": {
+                "meat": 1
+            },
+            "drops-petted": {
+                "wool": 1
+            },
+            "drops-fed": {
+                "feedable-items": [
+                    "corn",
+                    "raspberry",
+                    "pumpkin",
+                    "vines",
+                    "slapberry",
+                    "snowberry"
+                ],
+                "wool": "1-10"
+            },
+            "drops-idle": {
+                "fertilizer": 1
+            }
+        }
+    },
+    {
+        "name": "Scorpion",
+        "id": "scorpion",
+        "description": "",
+        "flavour-text": "The tiny kings of things, known for surprising their prey with vicious piercing attacks.",
+        "attributes": {
+            "health": 6,
+            "biomes-found": [
+                "grasslands"
+            ],
+            "hostile": true,
+            "type": "hostile-creatures",
+            "rarity": "common",
+            "pettable": false
+        },
+        "drops": {
+            "drops-killed": {
+                "meat": 1
+            }
+        }
+    },
+    {
+        "name": "Spider",
+        "id": "spider",
+        "description": "",
+        "flavour-text": "Will hide under rocks and attack with eight tiny legs when you least expect it!",
+        "attributes": {
+            "health": 3,
+            "biomes-found": [
+                "grasslands",
+                "grasslandcaves"
+            ],
+            "hostile": true,
+            "type": "hostile-creatures",
+            "rarity": "common",
+            "pettable": false
+        },
+        "drops": {
+            "drops-killed": {
+                "silk": 1
+            }
+        }
+    },
+    {
+        "name": "Stone Roller",
+        "id": "stone-roller",
+        "description": "",
+        "flavour-text": "Watch for their charged attacks -- they're very quick on their feet.",
+        "attributes": {
+            "health": 22,
+            "biomes-found": [
+                "grasslands"
+            ],
+            "hostile": true,
+            "type": "hostile-creatures",
+            "rarity": "common",
+            "pettable": false
+        },
+        "drops": {
+            "drops-killed": {
+                "shell": 1
+            }
+        }
+    },
+    {
+        "name": "Wild Wolf",
+        "id": "wild-wolf",
+        "description": "",
+        "flavour-text": "Fearsome canines that tend to hunt in packs. Keep your eyes peeled if you hear them howling!",
+        "attributes": {
+            "health": 16,
+            "biomes-found": [
+                "grasslands"
+            ],
+            "hostile": true,
+            "type": "hostile-creatures",
+            "rarity": "common",
+            "pettable": false
+        },
+        "drops": {
+            "drops-killed": {
+                "meat": 1,
+                "wolf-claw": 4
+            }
+        }
+    },
+    {
+        "name": "Hermit Crab",
+        "id": "hermit-crab",
+        "description": "",
+        "flavour-text": "Watch where you walk on the beach, they tend to pinch to protect their surfy-turf.",
+        "attributes": {
+            "health": 9,
+            "biomes-found": [
+                "shore"
+            ],
+            "hostile": true,
+            "type": "hostile-creatures",
+            "rarity": "uncommon",
+            "pettable": false
+        },
+        "drops": {
+            "drops-killed": {
+                "meat": 1
+            }
+        }
+    },
+    {
+        "name": "Sand Roller",
+        "id": "sand-roller",
+        "description": "",
+        "flavour-text": "",
+        "attributes": {
+            "health": ,
+            "biomes-found": [
+                "dryvalley"
+            ],
+            "hostile": true,
+            "type": "hostile-creatures",
+            "rarity": "uncommon",
+            "pettable": false
+        },
+        "drops": {
+            "drops-killed": {
+                "
+            }
+        }
+    },
+    {
+        "name": "Sand Scorpion",
+        "id": "sand-scorpion",
+        "description": "",
+        "flavour-text": "",
+        "attributes": {
+            "health": ,
+            "biomes-found": [
+                "dryvalley"
+            ],
+            "hostile": true,
+            "type": "hostile-creatures",
+            "rarity": "uncommon",
+            "pettable": false
+        },
+        "drops": {
+            "drops-killed": {
+                "
+            }
+        }
+    },
+    {
+        "name": "Sand Spider",
+        "id": "sand-spider",
+        "description": "",
+        "flavour-text": "",
+        "attributes": {
+            "health": ,
+            "biomes-found": [
+                "dryvalley"
+            ],
+            "hostile": true,
+            "type": "hostile-creatures",
+            "rarity": "uncommon",
+            "pettable": false
+        },
+        "drops": {
+            "drops-killed": {
+                "
+            }
+        }
+    },
+    {
+        "name": "Sand Wolf",
+        "id": "sand-wolf",
+        "description": "",
+        "flavour-text": "",
+        "attributes": {
+            "health": ,
+            "biomes-found": [
+                "dryvalley"
+            ],
+            "hostile": true,
+            "type": "hostile-creatures",
+            "rarity": "uncommon",
+            "pettable": false
+        },
+        "drops": {
+            "drops-killed": {
+                "
+            }
+        }
+    },
+    {
+        "name": "Blaster",
+        "id": "blaster",
+        "description": "",
+        "flavour-text": "",
+        "attributes": {
+            "health": 30,
+            "damage": "",
+            "biomes-found": [
+                "dryvalley",
+                "dryvalleycaves"
+            ],
+            "hostile": false,
+            "type": "hostile-creatures",
+            "rarity": "rare",
+            "pettable": false
+        },
+        "drops": {
+            "drops-killed": {
+                "
+            },
+        }
+    },
+    {
+        "name": "Brute",
+        "id": "brute",
+        "description": "",
+        "flavour-text": "",
+        "attributes": {
+            "health": 355,
+            "damage": "",
+            "biomes-found": [
+                "grasslands"
+            ],
+            "hostile": false,
+            "type": "hostile-creatures",
+            "rarity": "rare",
+            "pettable": false
+        },
+        "drops": {
+            "drops-killed": {
+                "
+            },
+        }
+    },
+    {
+        "name": "Sand Brute",
+        "id": "sand-brute",
+        "description": "",
+        "flavour-text": "",
+        "attributes": {
+            "health": ,
+            "damage": "",
+            "biomes-found": [
+                "dryvalley"
+            ],
+            "hostile": false,
+            "type": "hostile-creatures",
+            "rarity": "epic",
+            "pettable": false
+        },
+        "drops": {
+            "drops-killed": {
+                "
+            },
+        }
+    },
+    {
+        "name": "Frost Brute",
+        "id": "frost-brute",
+        "description": "",
+        "flavour-text": "",
+        "attributes": {
+            "health": ,
+            "damage": "",
+            "biomes-found": [
+                "frostlands"
+            ],
+            "hostile": false,
+            "type": "hostile-creatures",
+            "rarity": "epic",
+            "pettable": false
+        },
+        "drops": {
+            "drops-killed": {
+                "
+            },
+        }
+    },
+    {
+        "name": "Frost Roller",
+        "id": "frost-roller",
+        "description": "",
+        "flavour-text": "",
+        "attributes": {
+            "health": 167,
+            "damage": "",
+            "biomes-found": [
+                "frostlands"
+            ],
+            "hostile": false,
+            "type": "hostile-creatures",
+            "rarity": "rare",
+            "pettable": false
+        },
+        "drops": {
+            "drops-killed": {
+                "
+            },
+        }
+    },
+    {
+        "name": "Frost Scorpion",
+        "id": "frost-scorpion",
+        "description": "",
+        "flavour-text": "",
+        "attributes": {
+            "health": 21,
+            "damage": "",
+            "biomes-found": [
+                "frostlands"
+            ],
+            "hostile": false,
+            "type": "hostile-creatures",
+            "rarity": "rare",
+            "pettable": false
+        },
+        "drops": {
+            "drops-killed": {
+                "
+            },
+        }
+    },
+    {
+        "name": "Frost Spider",
+        "id": "frost-spider",
+        "description": "",
+        "flavour-text": "",
+        "attributes": {
+            "health": 18,
+            "damage": "",
+            "biomes-found": [
+                "frostlands"
+            ],
+            "hostile": false,
+            "type": "hostile-creatures",
+            "rarity": "rare",
+            "pettable": false
+        },
+        "drops": {
+            "drops-killed": {
+                "
+            },
+        }
+    },
+    {
+        "name": "Frost Wolf",
+        "id": "frost-wolf",
+        "description": "",
+        "flavour-text": "",
+        "attributes": {
+            "health": 100,
+            "damage": "",
+            "biomes-found": [
+                "frostlands"
+            ],
+            "hostile": false,
+            "type": "hostile-creatures",
+            "rarity": "rare",
+            "pettable": false
+        },
+        "drops": {
+            "drops-killed": {
+                "
+            },
+        }
+    },
+    {
+        "name": "Bone Wolf",
+        "id": "bone-wolf",
+        "description": "",
+        "flavour-text": "",
+        "attributes": {
+            "health": ,
+            "damage": "",
+            "biomes-found": [
+                "frostlandcaves"
+            ],
+            "hostile": false,
+            "type": "hostile-creatures",
+            "rarity": "epic",
+            "pettable": false
+        },
+        "drops": {
+            "drops-killed": {
+                "
+            },
+        }
+    },
+    
+]
