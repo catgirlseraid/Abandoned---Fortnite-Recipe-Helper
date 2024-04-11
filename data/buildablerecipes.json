@@ -306,6 +306,42 @@
         "amount": 1,
         "output": "hauler"
     },
+    {
+      "workbench": "buildable",
+      "items": {
+        "wood": 17,
+        "plank": 5
+      },
+      "amount": 1,
+      "output": "simple-dock"
+    },
+    {
+      "workbench": "buildable",
+      "items": {
+        "wood": 55,
+        "plank": 9
+      },
+      "amount": 1,
+      "output": "dock-house"
+    },
+    {
+      "workbench": "buildable",
+      "items": {
+        "wood": 56,
+        "plank": 10
+      },
+      "amount": 1,
+      "output": "double-dock-house"
+    },
+    {
+      "workbench": "buildable",
+      "items": {
+        "wood": 76,
+        "plank": 11
+      },
+      "amount": 1,
+      "output": "deluxe-dock-house"
+    },
 
 
 
@@ -468,7 +504,7 @@
       "items": {
         "wood": 3
       },
-      "amount": "1",
+      "amount": 1,
       "output": "campfire"
     },
     {
@@ -476,7 +512,7 @@
       "items": {
         "granite": 2
       },
-      "amount": "1",
+      "amount": 1,
       "output": "map-marker"
     },
     {
@@ -485,7 +521,7 @@
         "wood": 10,
         "granite": 10
       },
-      "amount": "1",
+      "amount": 1,
       "output": "village-square"
     },
     {
@@ -494,7 +530,7 @@
         "soil": 2,
         "fertilizer": 1
       },
-      "amount": "1",
+      "amount": 1,
       "output": "garden-plot"
     },
 

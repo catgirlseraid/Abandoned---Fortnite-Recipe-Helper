@@ -1,0 +1,314 @@
+[
+    {
+        "build-name": "speeder",
+        "stages": {
+            "1": {
+                "vehicle-base-single-rider": 1
+            },
+            "2": {
+                "small-power-center": 1,
+                "small-drivers-seat": 1
+            },
+            "3": {
+                "small-rear-brush-guard": 1,
+                "small-front-brush-guard": 1
+            },
+            "4": {
+                "small-turnable-wheel": 2,
+                "small-powered-wheel": 2
+            }
+        }
+    },
+    {
+        "build-name": "offroader",
+        "stages": {
+            "1": {
+                "vehicle-base-09": 1
+            },
+            "2": {
+                "vehicle-seat-large": 3,
+                "vehicle-base-07": 1,
+                "vehicle-base-05": 1
+            },
+            "3": {
+                "enclosed-cabin-rear": 1,
+                "left-fender": 1,
+                "medium-drivers-seat": 1,
+                "platform-bumper-01": 1,
+                "windshield": 1,
+                "right-fender": 1
+            },
+            "4": {
+                "suspension-02": 1,
+                "suspension-01": 1,
+                "right-fender": 1,
+                "platform-bumper-01": 1,
+                "medium-front-brush-guard": 1,
+                "left-fender": 1,
+                "large-cabin-roof": 1
+            },
+            "5": {
+                "medium-turnable-wheel": 2,
+                "medium-rear-brush-guard": 1,
+                "medium-ppowered-wheel": 1,
+                "medium-power-center": 1,
+                "angled-light-bar": 2
+            }
+        }
+    },
+    {
+        "build-name": "hauler",
+        "stages": {
+            "1": {
+                "suspension-03": 2
+            },
+            "2": {
+                "vehicle-base-02": 2,
+                "vehicle-base-11": 1,
+                "vehicle-base-09": 1
+            },
+            "3": {
+                "vehicle-stair": 1,
+                "vehicle-seat-medium": 2,
+                "vehicle-base-03": 1,
+                "suspension-05": 1,
+                "suspension-04": 2,
+                "open-cabin-rear": 1
+            },
+            "4": {
+                "vehicle-stair-rail": 1,
+                "vehicle-base-03": 1,
+                "large-turnable-wheel": 2,
+                "large-powered-wheel": 4,
+                "large-cabin-roof": 1
+            },
+            "5": {
+                "vehicle-seat-medium": 1,
+                "large-fender": 2,
+                "large-drivers-seat": 1,
+                "engine-bay": 1
+            },
+            "6": {
+                "windshield": 1,
+                "vehicle-railing": 6,
+                "vehicle-base-01": 1
+            },
+            "7": {
+                "medium-fender": 2,
+                "large-power-center": 1,
+                "large-front-brush-guard": 1,
+                "angled-light-bar": 2
+            }
+        }
+    },
+    {
+        "build-name": "simple-shack",
+        "stages": {
+            "1": {
+                "shack-wide-floor": 1,
+                "shack-wall-04": 1,
+                "shack-pillar-01": 2
+            },
+            "2": {
+                "shack-half-wall-02": 1,
+                "shack-roof-03-support": 1
+            },
+            "3": {
+                "shack-ridge-01": 1
+            }
+        }
+    },
+    {
+        "build-name": "double-shack",
+        "stages": {
+            "1": {
+                "shack-wide-floor": 2
+            },
+            "2": {
+                "shack-wall-04": 2,
+                "shack-wall-01": 2
+            },
+            "3": {
+                "shack-wall-04-open": 2,
+                "shack-wall-01": 2,
+                "shack-door": 2
+            },
+            "4": {
+                "shack-gable-left": 2
+            },
+            "5": {
+                "shack-gable-right": 2,
+                "shack-roof-03": 2
+            },
+            "6": {
+                "shack-ridge-04": 1,
+                "shack-ridge-01-right": 1
+            },
+            "7": {
+                "shack-ridge-01-left": 1
+            }
+        }
+    },
+    {
+        "build-name": "roomy-shack",
+        "stages": {
+            "1": {
+                "shack-wide-floor": 3
+            },
+            "2": {
+                "shack-wall-04": 3,
+                "shack-wall-01": 2,
+                "shack-door": 1
+            },
+            "3": {
+                "shack-wall-04-open": 3,
+                "shack-wall-01": 2,
+                "shack-door": 2
+            },
+            "4": {
+                "shack-half-wall-02": 2,
+                "shack-gable-left": 2
+            },
+            "5": {
+                "shack-gable-right": 2,
+                "shack-roof-03": 3
+            },
+            "6": {
+                "shack-ridge-04": 2,
+                "shack-ridge-01-left": 1
+            },
+            "7": {
+                "shack-ridge-01-right": 1
+            }
+        }
+    },
+    {
+        "build-name": "porch-shack",
+        "stages": {
+            "1": {
+                "shack-wide-floor": 2
+            },
+            "2": {
+                "shack-pillar-01": 2,
+                "shack-door": 2
+            },
+            "3": {
+                "shack-wall-04-open": 2,
+                "shack-wall-01": 2
+            },
+            "4": {
+                "shack-wall-04": 2,
+                "shack-wall-01": 2
+            },
+            "5": {
+                "shack-gable-left": 2
+            },
+            "6": {
+                "shack-roof-03-support": 4,
+                "shack-gable-right": 1
+            },
+            "7": {
+                "shack-ridge-01-left": 1,
+                "shack-ridge-04": 2
+            },
+            "8": {
+                "shack-ridge-01-right": 1
+            }
+        }
+    },
+    {
+        "build-name": "simple-dock",
+        "stages": {
+            "1": {
+                "shack-wide-floor": 4
+            },
+            "2": {
+                "plank-railing-03": 5
+            }
+        }
+    },
+    {
+        "build-name": "dock-house",
+        "stages": {
+            "1": {
+                "shack-wide-floor": 8
+            },
+            "2": {
+                "shack-wall-04-open": 1,
+                "shack-wall-01": 2
+            },
+            "3": {
+                "shack-wall-04-open": 1,
+                "shack-wall-01": 1
+            },
+            "4": {
+                "shack-wall-01": 1,
+                "shack-door": 2
+            },
+            "5": {
+                "plank-railing-03": 5,
+                "plank-railing-01": 4
+            },
+            "6": {
+                "shack-roof-03": 1,
+                "shack-gable-right": 1,
+                "shack-gable-left": 1
+            },
+            "7": {
+                "shack-half-wall-02": 1,
+                "shack-corner": 2
+            },
+            "8": {
+                "shack-ridge-04": 1,
+                "shack-ridge-01-right": 1,
+                "shack-ridge-01-left": 1
+            }
+        }
+    },
+    {
+        "build-name": "",
+        "stages": {
+            "1": {
+                "shack-wide-floor": 8
+            },
+            "2": {
+                "shack-wall-01": 1,
+                "shack-wall-04-open": 1
+            },
+            "3": {
+                "shack-wall-01": 1,
+                "shack-wall-04": 1
+            },
+            "4": {
+                "shack-wall-01": 2,
+                "shack-door": 2
+            },
+            "5": {
+                "plank-railing-01": 4
+            },
+            "6": {
+                "shack-door": 2
+            },
+            "7": {
+                "plank-railing-03": 4,
+                "plank-railing-02": 1,
+                "plank-railing-01": 1
+            },
+            "8": {
+                "shack-roof-03": 2,
+                "shack-gable-right": 1,
+                "shack-gable-left": 1
+            },
+            "9": {
+                "shack-half-wall-02": 2,
+                "shack-corner": 2
+            },
+            "10": {
+                "shack-ridge-04": 2,
+                "shack-ridge-01-right": 1,
+                "shack-ridge-01-left": 1
+            }
+        }
+    },
+    up to double dock, need to do deluxe dock. all vehicles done
+]

@@ -1,6 +1,6 @@
 ---------
 frost caves
-chests without a change: 0
+chests without a change: 6
 --------------
 4-11 snowberry seed
 3-9 pumpkin seed
@@ -13,7 +13,7 @@ chests without a change: 0
 
 5 - 18 arrow
 2-5 silk
-3-4 blast powder
+3-5 blast powder
 2-4 heavy wool
 2-3 arctic claw
 
@@ -23,7 +23,8 @@ chests without a change: 0
 
 1 uncommon longsword
 1 rare crossbow
-1 torch
+
+1-2 torch
 1 drawstring
 
 2-5 spicy pepper
@@ -34,7 +35,6 @@ chests without a change: 0
 1 - 3 bread
 2 slapjuice
 1-3 cheese
-
 
 
 
@@ -54,11 +54,13 @@ chests without a change: 0
 3 snowberry seeds
 2-3 corn kernel
 3 pumpkin seeds
+4 slapberry seeds
+4 pepper seed
 
 2-5 snow berry
 3-5 slap berries
 3 pepper seed
-1 pumpkin
+1-2 pumpkin
 
 1 slap juice
 1 slurp juice
@@ -71,7 +73,7 @@ chests without a change: 0
 3 slurp mushrooms
 
 5-7 arrow
-2-3 blast powder
+2-4 blast powder
 3-4 silk
 1 heavy wool
 1-2 feather
@@ -97,26 +99,26 @@ chests without a change: 0
 4-24 slapberry seeds
 5-16 snowberry seeds
 4-5 raspberry seed
-3 corn kernal
+3-4 corn kernal
 
-2-12 spicy pepper
+2-18 spicy pepper
 4-5 slurp mushroom
 2-4 flour
 
-2-6 cheese
+1-6 cheese
 3-18 milk
 2-4 slurp juice
 2-4 slap juice
 2-4 snowberry shake
-1-3 bread
+1-5 bread
 
 4-16 snow berry
 3-9 slap berry
 4-5 raspberry
-3 pumpkin
+2-3 pumpkin
 
 2-5 heavy wool
-4-14 blast powder
+3-14 blast powder
 2-7 silk
 2-5 arctic claw
 1-13 arrow
@@ -137,7 +139,7 @@ chests without a change: 0
 1 epic shovel
 2 uncommon shovels
 
-1 torch 
+1-2 torch 
 
 2 cord
 1 drawstring
@@ -153,7 +155,7 @@ chests without a change: 0
 5-6 planks
 13-16 granite
 13-27 wood
-2 glass
+1-2 glass
 
 2 flour
 2 milk
@@ -167,6 +169,7 @@ chests without a change: 0
 1-5 cheese
 2 slap juice
 2 slurp juice
+2 snowberry shake
 
 1 frost shell
 2-3 dynamite
@@ -175,12 +178,13 @@ chests without a change: 0
 4 pumpkin seeds
 4 pepper seeds
 5 raspberry seeds
-5 snowberry seeds
+5-6 snowberry seeds
+6 corn kernel
 
-4-5 silk
-2-3 heavy wool
+2-5 silk
+2-4 heavy wool
 2-4 feather
-5 arrow
+5-9 arrow
 2 arctic claw
 
 1 drawstring
@@ -251,10 +255,12 @@ chests without a change: 0
 1-4 bread
 1-2 egg
 2-4 pumpkin
+4 slurp juice
 1-2 slap juice
 1 snowberry shake
 5 snow berry
 4-8 slapberry
+2 corn
 
 5 snowberry seed
 3-6 pepper seed
@@ -378,19 +384,20 @@ chests without a change: 0
 9-13 granite
 3 sand
 
-2 wool
-
 1-2 flour
 1 wheat
 
+6 pepper seed
 3 wheat grain
 3 spicy pepper
+4 corn kernel
 
 1 slurp juice
 4-7 slap berry
 
 2 feather
-1 wool
+1-2 wool
+1 silk
 
 1 torch
 
@@ -417,25 +424,43 @@ chests without a change: 0
 grassland caves
 chests without a change: 0
 ----------------
-1-3 wolf claw
-3 wool
+1-5 wolf claw
+1 bone
+2-3 wool
 5 arrow
 3 feather
+2-3 blast powder
+3-11 silk
 
 1 wooden rod
+1 knotroot rod
 2-3 cord
+1 torch
 
-2 corn kernel
+1-4 corn kernel
 2-4 pumpkin seed
 3-4 slapberry seeds
+2-3 snowberry seed
+3 raspberry seed
+2-4 wheat grain
 
-2 pumpkin
-2 snowberry
-2 corn
+1-2 pumpkin
+1-2 snowberry
+1-3 corn
+2-4 slapberry
+1 bread
 
-8 wood
-8-10 granite
+2-10 slurp mushroom
 
+8-9 wood
+2 knotroot
+6-10 granite
+1 granite slab
+1-4 marble
+
+1 common knight shield
+1 common sword
+1 common shovel
 
 --------------
 dry valley mountain chests

@@ -10,6 +10,7 @@
     <link href="styles/mainstyle.css" rel="stylesheet">
     <link href="styles/displayperitemstyle.css" rel="stylesheet">
     <link href="styles/settings.css" rel="stylesheet">
+    <link href="styles/welcome-search-placehoder.css" rel="stylesheet">
     <!--TODO add favicon-->
 </head>
 <body>
@@ -44,93 +45,67 @@
 
 
     <div id="display">
-        <!-- example of the html below for reference -->
-        <div class="display-per-item">
-            <div class="display-per-item-header">
-                <div>
-                    <img src="fortnite-images/shortsword.png">
-                </div>
-    
-                <div class="display-per-item-title-flavour-text">
-                    <h2 class="display-per-item-title">Shortsword</h2>
-                    <p class="display-per-item-flavour-text">Get up close and personal.</p>
-                </div>
-            </div>
-    
-            <div class="display-per-item-stats">
-                <p><strong>Rarity:</strong> Common</p>
-                <p><strong>Stack Size:</strong> 1</p>
-                <p><strong>Damage:</strong> 3</p>
-            </div>
-    
-            <div class="display-per-item-description">
-                <h3>Description:</h3>
-                <p>A basic sword, ideal for melee combat with enemies up-close.</p>
-            </div>
-    
-            <details id="recipes-dropdown">
-                <summary><strong>Recipes</strong></summary>
-                <div class="display-per-item-recipe">
-                    <div class="display-per-item-recipe-header">
-                        <img src="fortnite-images/crafting-bench.png">
-                        <h3 class="display-per-item-recipe-header-bench-used">Crafting Bench</h3>
-                        <p class="display-per-item-recipe-produced-amount">x5</p>
-                    </div>
-                    <div class="display-per-item-recipe-all-items">
-                        <div class="display-per-item-single-line">
-                            <a>Wooden Rod</a> <p>x5</p>
-                        </div>
-                        <div class="display-per-item-single-line">
-                            <a>Wooden Rod</a> <p>x5</p>
-                        </div>
-                        <div class="display-per-item-single-line">
-                            <a>Wooden Rod</a> <p>x5</p>
-                        </div>
+        <!-- Everything in here will be cleared once the user searches something -->
+        <div class="welco me-container">
+            <div class="display-per-item epic-rarity-border">
+                <div class="display-per-item-header">
+                    <img src="/fortnite-images/snowberry-seed.png">
+                    <div class="display-per-item-title-flavour-text">
+                        <h2 class="display-per-item-title">Snowberry Seed</h2>
+                        <p class="display-per-item-flavour-text">Sweet and snowy!</p>
                     </div>
                 </div>
-                
+                <div class="display-per-item-stats">
+                    <p class="display-per-item-rarity-whole-line">
+                        <strong>Rarity:</strong>
+                        <p class="display-per-item-stats-rarity-display special-rarity-display">SPECIAL</p>
+                        </p>
+                        //TODO fix the rarity displaing weirdly
+                    <p></p>
+                    <p><strong>Stack Size:</strong> 50</p>
+                </div>
+                <div class="display-per-item-description">
+                    <h3>Description</h3>
+                    <p>Plant in a Garden Plot to grow Snowberries.</p>
+                </div>
+                    <details id="recipes-dropdown" open="">
+                        <summary><strong>Recipes</strong></summary>
+                        <div class="display-per-item-recipe">
+                            <div class="display-per-item-recipe-header">
+                                <img src="/fortnite-images/grain-mill.png">
+                                <h3 class="display-per-item-recipe-header-bench-used">Grain Mill</h3>
+                                <p class="display-per-item-recipe-produced-amount"><strong>x2</strong></p>
+                            </div>
+                        </div>
+                        <div class="display-per-item-recipe-all-items">
+                            <div class="display-per-item-single-line">
+                                <p>Snow Berry</p><p><strong>x1</strong></p>
+                            </div>
+                        </div>
+                    </details>
+                    <details id="obtained-in-dropdown">
+                        <summary><strong>Obtained In</strong></summary>
+                    </details>
+                    <details id="used-in-dropdown">
+                        <summary><strong>Used In</strong></summary>
+                    </details>
+                    <div class="display-per-item-todo-list-options">
+                        <button class="display-per-item-todo-add-button"><strong>Add to TODO list.</strong></button>
+                        <input placeholder="Amount To Add" min="0" maxlength="7">
+                        <div class="display-per-item-todo-list-buttons">
+                            <button class="display-per-item-todo-list-button-up">+</button>
+                            <button class="display-per-item-todo-list-button-down">-</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
-            </details>
-    
-            <details id="obtained-in-dropdown">
-                <summary><strong>Obtained In</strong></summary>
-            </details>
-    
-            <details id="used-in-dropdown">
-                <summary><strong>Used In</strong></summary>
-            </details>
-    
-            <div class="display-per-item-todo-list-options">
-                <button class="display-per-item-todo-add-button"><strong>Add to TODO list.</strong></button>
-                <input placeholder="Amount To Add" min="0">
-                <div class="display-per-item-todo-list-buttons">
-                    <button class="display-per-item-todo-list-button-up">+</button>
-                    <button class="display-per-item-todo-list-button-down">-</button>
-                </div>
-            </div>
-        </div> 
     </div>
-    <p class="display-per-item-stats-rarity-display common-rarity-display">COMMON</p>
-    <p class="display-per-item-stats-rarity-display uncommon-rarity-display">UNCOMMON</p>
-    <p class="display-per-item-stats-rarity-display rare-rarity-display">RARE</p>
-    <p class="display-per-item-stats-rarity-display epic-rarity-display">EPIC</p>
-    <p class="display-per-item-stats-rarity-display legendary-rarity-display">LEGENDARY</p>
-    <p class="display-per-item-stats-rarity-display special-rarity-display">SPECIAL</p>
-    <p class="display-per-item-stats-rarity-display buildable-rarity-display">BUILDABLE</p>
+
     <footer>
         <p id=gravytime></p>
         <p id="signedbyktrain"></p>
     </footer>
 </body>
 </html>
-
-<!-- {
-    "name": "Shortsword",
-    "id": "shortsword",
-    "description": "A basic sword, ideal for melee combat with enemies up-close.",
-    "flavour-text": "Get up close and personal.",
-    "attributes": {
-        "rarity": "common",
-        "max-stack": 1,
-        "damage": 3
-    } -->

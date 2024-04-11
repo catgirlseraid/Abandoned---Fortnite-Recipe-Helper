@@ -65,6 +65,17 @@ function search() {
     
     filtereddata = allobjects.filter((item) => item.name.toLowerCase().includes(searched.toLowerCase()))
 
+    if (filtereddata.length === 0) {
+        console.log("no items found")
+        //TODO create a reporting page and change the link
+        display.innerHTML = `<h2>No Items</h2>
+        <p>No items found for "${searched}"</p>
+        <p>If you think this is incorrect please <a href="other-pages/item-add.html">send a report</a></p>`
+
+
+        return
+    }
+
 
     
 

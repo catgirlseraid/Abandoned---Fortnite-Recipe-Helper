@@ -318,5 +318,45 @@
             "rarity": "buildable",
             "max-stack": 1
         }
-    }
+    },
+    {
+        "name": "Simple Dock",
+        "id": "simple-dock",
+        "description": "2 Stages",
+        "flavour-text": "Fishin' Docks",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": 1
+        }
+      },
+      {
+        "name": "Dock House",
+        "id": "dock-house",
+        "description": "8 Stages",
+        "flavour-text": "Fishin' Docks",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": 1
+        }
+      },
+      {
+        "name": "Double Dock House",
+        "id": "double-dock-house",
+        "description": "10 Stages",
+        "flavour-text": "Fishin' Docks",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": 1
+        }
+      },
+      {
+        "name": "Deluxe Dock House",
+        "id": "deluxe-dock-house",
+        "description": "9 Stages",
+        "flavour-text": "Fishin' Docks",
+        "attributes": {
+          "rarity": "buildable",
+          "max-stack": 1
+        }
+      }
 ]
