@@ -1,0 +1,56 @@
+.message-container {
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+    border: #0A0708 solid 5px;
+    border-radius: 10px;
+    font-family: "Montserrat", sans-serif;
+    outline: 2px solid white;
+    outline-offset: -6px;
+    padding: 10px;
+    background: rgb(175,175,175);
+    background: linear-gradient(315deg, rgba(175,175,175,0.9) 0%, rgba(185,227,255,0.9) 100%);
+    text-align: center;
+}
+
+.message-container h2 {
+    font-size: 50px;
+    margin: 0 10px;
+}
+
+.message-container p {
+    margin: 0;
+    margin-top: 10px;
+}
+
+.message-container details {
+    border-top: 2px black solid;
+    margin: 0 -10px;
+    text-align: left;
+}
+
+.message-container ul {
+    margin: 5px 10px;
+}
+
+.message-container-apply-border-above {
+    border-top: 2px black solid;
+    width: 100%;
+}
+
+.message-container summary {
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.message-container-title {
+    margin: 10px -10px;
+    margin-top: 0;
+    
+}
+
+.message-container-border {
+    border-bottom: black 2px solid;
+    margin: 0 -10px;
+}

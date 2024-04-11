@@ -10,14 +10,14 @@
     <link href="styles/mainstyle.css" rel="stylesheet">
     <link href="styles/displayperitemstyle.css" rel="stylesheet">
     <link href="styles/settings.css" rel="stylesheet">
-    <link href="styles/welcome-search-placehoder.css" rel="stylesheet">
+    <link href="styles/misc-search.css" rel="stylesheet">
     <!--TODO add favicon-->
 </head>
 <body>
     <nav class="nav-bar">
         <button id="settings-icon" class="nav-bar-settings-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-settings"><path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"/><circle cx="12" cy="12" r="3"/></svg></button>
         <div class="nav-bar-title-text">
-            <h1>LEGO Fortnite Recipe Helper</h1>
+            <h1><a href="recipe-search.html" class="nav-bar-link">LEGO Fortnite Recipe Helper</a></h1>
         </div>
         <div class="nav-bar-search">
             <input class="nav-bar-search-box" type="text" id="searchbar" placeholder="Search">
@@ -46,59 +46,22 @@
 
     <div id="display">
         <!-- Everything in here will be cleared once the user searches something -->
-        <div class="welco me-container">
-            <div class="display-per-item epic-rarity-border">
-                <div class="display-per-item-header">
-                    <img src="/fortnite-images/snowberry-seed.png">
-                    <div class="display-per-item-title-flavour-text">
-                        <h2 class="display-per-item-title">Snowberry Seed</h2>
-                        <p class="display-per-item-flavour-text">Sweet and snowy!</p>
-                    </div>
-                </div>
-                <div class="display-per-item-stats">
-                    <p class="display-per-item-rarity-whole-line">
-                        <strong>Rarity:</strong>
-                        <p class="display-per-item-stats-rarity-display special-rarity-display">SPECIAL</p>
-                        </p>
-                        //TODO fix the rarity displaing weirdly
-                    <p></p>
-                    <p><strong>Stack Size:</strong> 50</p>
-                </div>
-                <div class="display-per-item-description">
-                    <h3>Description</h3>
-                    <p>Plant in a Garden Plot to grow Snowberries.</p>
-                </div>
-                    <details id="recipes-dropdown" open="">
-                        <summary><strong>Recipes</strong></summary>
-                        <div class="display-per-item-recipe">
-                            <div class="display-per-item-recipe-header">
-                                <img src="/fortnite-images/grain-mill.png">
-                                <h3 class="display-per-item-recipe-header-bench-used">Grain Mill</h3>
-                                <p class="display-per-item-recipe-produced-amount"><strong>x2</strong></p>
-                            </div>
-                        </div>
-                        <div class="display-per-item-recipe-all-items">
-                            <div class="display-per-item-single-line">
-                                <p>Snow Berry</p><p><strong>x1</strong></p>
-                            </div>
-                        </div>
-                    </details>
-                    <details id="obtained-in-dropdown">
-                        <summary><strong>Obtained In</strong></summary>
-                    </details>
-                    <details id="used-in-dropdown">
-                        <summary><strong>Used In</strong></summary>
-                    </details>
-                    <div class="display-per-item-todo-list-options">
-                        <button class="display-per-item-todo-add-button"><strong>Add to TODO list.</strong></button>
-                        <input placeholder="Amount To Add" min="0" maxlength="7">
-                        <div class="display-per-item-todo-list-buttons">
-                            <button class="display-per-item-todo-list-button-up">+</button>
-                            <button class="display-per-item-todo-list-button-down">-</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
+        <div class="message-container">
+            <h2 class="message-container-title">Welcome!</h2>
+            <div class="message-container-border"></div>
+            <p>Type in the search bar to begin.</p><br>
+
+            <details>
+                <summary>Tutorial</summary>
+                <div class="message-container-apply-border-above"></div>
+                <ul>
+                    <li>Filters are on the right of the search bar.</li>
+                    <li>TODO list is to the right.</li>
+                    <li>idk make this better later</li>
+                </ul>
+
+            </details>
+            
         </div>
 
     </div>

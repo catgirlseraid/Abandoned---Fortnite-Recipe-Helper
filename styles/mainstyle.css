@@ -169,3 +169,8 @@ nav h1 {
     font-size: 30px;
 }
 
+.nav-bar-link {
+    color: black;
+    text-decoration: none;
+}
+
