@@ -1,0 +1,183 @@
+[
+    {
+        "type": "frostlands",
+        "level": {
+            "2": {
+                "wood": 25,
+                "granite": 30
+            },
+            "3": {
+                "knotroot": 15,
+                "plank": 15,
+                "marble": 20
+            },
+            "4": {
+                "knotroot-rod": 20,
+                "marble-slab": 25
+            },
+            "5": {
+                "flexwood-rod": 25,
+                "marble-slab": 30
+            },
+            "6": {
+                "obsidian-slab": 20,
+                "copper-bar": 10
+            },
+            "7": {
+                "frostpine": 20,
+                "copper-bar": 15
+            },
+            "8": {
+                "frostpine-rod": 25,
+                "malachite": 20,
+                "iron-bar": 15
+            },
+            "9": {
+                "malachite-slab": 25,
+                "iron-bar": 20,
+                "rough-sapphire": 20
+            },
+            "10": {
+                "malachite-slab": 30,
+                "iron-bar": 25,
+                "cut-sapphire": 30
+            }
+        }
+    },
+    {
+        "type": "grasslands",
+        "level": {
+            "2": {
+                "wood": 15,
+                "granite": 15
+            },
+            "3": {
+                "plank": 10,
+                "granite": 20
+            },
+            "4": {
+                "knotroot": 10,
+                "plank": 15,
+                "granite": 25
+            },
+            "5": {
+                "knotroot": 15,
+                "plank": 20,
+                "marble": 15
+            },
+            "6": {
+                "knotroot": 20,
+                "granite-slab": 30
+            },
+            "7": {
+                "knotroot-rod": 20,
+                "marble-slab": 20
+            },
+            "8": {
+                "marble-slab": 30,
+                "rough-amber": 10
+            },
+            "9": {
+                "flexwood": 15,
+                "obsidian": 15,
+                "cut-amber": 10
+            },
+            "10": {
+                "flexwood-rod": 15,
+                "obsidian-slab": 30,
+                "cut-amber": 20
+            }
+        }
+    },
+    {
+        "type": "dry-valley",
+        "level": {
+            "2": {
+                "wood": 20,
+                "granite": 25
+            },
+            "3": {
+                "knotroot": 10,
+                "plank": 10,
+                "marble": 15
+            },
+            "4": {
+                "knotroot-rod": 15,
+                "granite-slab": 30
+            },
+            "5": {
+                "knotroot-rod": 25,
+                "marble-slab": 20
+            },
+            "6": {
+                "marble-slab": 25,
+                "rough-amber": 15
+            },
+            "7": {
+                "flexwood": 20,
+                "marble-slab": 30,
+                "cut-amber": 15
+            },
+            "8": {
+                "flexwood-rod": 30,
+                "obsidian": 20,
+                "rough-ruby": 10
+            },
+            "9": {
+                "obsidian-slab": 20,
+                "copper-bar": 10,
+                "cut-ruby": 15
+            },
+            "10": {
+                "obsidian-slab": 30,
+                "copper-bar": 20,
+                "cut-ruby": 30
+            }
+        }
+    },
+    {
+        "type": "shore",
+        "level": {
+            "2": {
+                "wood": 15,
+                "granite": 15
+            },
+            "3": {
+                "plank": 10,
+                "granite": 20
+            },
+            "4": {
+                "knotroot": 10,
+                "plank": 15,
+                "granite": 25
+            },
+            "5": {
+                "knotroot": 15,
+                "plank": 20,
+                "marble": 15
+            },
+            "6": {
+                "knotroot": 20,
+                "granite-slab": 30
+            },
+            "7": {
+                "knotroot-rod": 20,
+                "marble-slab": 20
+            },
+            "8": {
+                "marble-slab": 30,
+                "rough-amber": 10
+            },
+            "9": {
+                "flexwood": 15,
+                "obsidian": 15,
+                "cut-amber": 10
+            },
+            "10": {
+                "flexwood-rod": 15,
+                "obsidian-slab": 30,
+                "cut-amber": 20
+            }
+        }
+    }
+]
