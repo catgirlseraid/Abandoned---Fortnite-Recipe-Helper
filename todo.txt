@@ -11,15 +11,3 @@ fix tutorial details looking weird when hovered with tab
 
 
 fix the easter egg key logging to be more efficent
-
-
-get materials used to upgrade each village - materials are village biome dependant
-
-finishing getting all building materials
-
-make json website complete with presets
-
-boulders can be found naturally spawning in all biomes, then break into smaller boulders
-
-
-chests can be obtained from builds
