@@ -11,19 +11,27 @@
 
     <script src="../scripts/settings.js" defer></script>
     <script src="../scripts/supersecretscript.js" defer></script>
-    <script src="../scripts/add-item.js" defer></script>
+    <!-- <script src="../scripts/add-item.js" defer></script> -->
 </head>
 <body>
     <nav class="nav-bar">
         <button id="settings-icon" class="nav-bar-settings-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-settings"><path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"/><circle cx="12" cy="12" r="3"/></svg></button>
         <div class="nav-bar-title-text">
-            <a href="../index.html" class="nav-bar-link"><h1>LEGO Fortnite Recipe Helper</h1></a>
+            <h1><a href="../recipe-search.html" class="nav-bar-link">LEGO Fortnite Recipe Helper</a></h1>
         </div>
-        <div>
-            <button class="nav-bar-preset-type-button">Preset Type</button>
+        <div class="nav-bar-center">
+            <select class="nav-bar-dropdown">
+                <option disabled selected hidden>Select a preset</option>
+                <option value="blahaj">blahaj</option>
+                <option value="blahaj">blahaj</option>
+                <option value="blahaj">blahaj</option>
+            </select>
         </div>
+        <button class="nav-bar-right-button"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-help"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></svg></button>
     </nav>
 
+
+    <!-- settings menu -->
     <div>
         <dialog class="dialog-settings" id="dialog-settings">
             <div class="dialog-settings-header">
@@ -39,79 +47,104 @@
         </dialog>
     </div>
 
-    <div class="page-display">
-        <div class="item-input">
-            <div class="item-input-header">
-                <!-- TODO make this a dropdown to choose what type of item to add -->
-                <h2>Buildable Structure</h2>
+    <div class="page">
+        <div class="main-content">
+            <div class="title-display">
+                <!-- set this using js -->
+                <h2>Buildables</h2>
+                <hr>
             </div>
-            <div class="item-input-field"> 
-                <input  type="text" id="name" placeholder="Item Name">
-                <input  type="text" id="id" placeholder="Item ID">
-                <input  type="text" id="description" placeholder="Item Description">
-                <input  type="text" id="flavour-text" placeholder="Item Flavour Text">
-                <div class="item-input-field-attributes">
-                    <h3>Attributes</h3>
-                    <input  type="text" id="attributes-rarity" placeholder="Item Rarity">
-                    <input  type="text" id="attributes-max-stack" placeholder="Item Max Stack">
-                    <input  type="text" id="attributes-dimensions" placeholder="Item Dimensions">
-                </div>
+            <div class="generated-by-js-options">
+    
             </div>
-            <div>
-                <button id="generateitem">Generate Item</button>
-                <p>buildables.json</p>
-                <div class="item-input-display-output" id="item-input-display-output">
-                </div>
+            <div class="item-recipe">
+                <details open>
+                    <summary>
+                        Items Needed
+                        <hr>
+                    </summary>
+                    <div class="per-item-recipe-group">
+                        <input placeholder="Item Name" class="item-name-input">
+                        <input placeholder="Amount" class="amount-input">
+                    </div>
+                    <hr class="margin-for-add-items-hr">
+                    <div class="per-item-recipe-controls">
+                        <p>Add/Remove Lines</p>
+                        <div class="buttons">
+                            <button class="left-button">+</button>
+                            <button class="right-button">-</button>
+                        </div>
+    
+                    </div>
+                </details>
+            </div>
+
+            <div class="main-content-perm-footer">
+                <p class="generate-item-error-text">generate-item-error-text</p>
+                <button id="generate-item">Generate Item</button>
             </div>
         </div>
     
-        <div class="item-input">
-            <div class="item-input-header">
-                <!-- TODO make this a dropdown to choose what type of item to add -->
-                <h2>Buildable Structure Recipe</h2>
-            </div>
-            <div class="item-input-field"> 
-                <input  type="text" id="workbench" placeholder="Workbench">
-                <div class="item-input-field-attributes">
-                    <h3>Items</h3>
-                    <div class="display-side-by-side">
-                        <input  type="text" id="items-1" placeholder="Item 1">
-                        <input  type="text" id="items-1-amount" placeholder="Amount">
-                    </div>
-                    <div class="display-side-by-side">
-                        <input  type="text" id="items-2" placeholder="Item 2">
-                        <input  type="text" id="items-2-amount" placeholder="Amount">
-                    </div>
-                    <div class="display-side-by-side">
-                        <input  type="text" id="items-3" placeholder="Item 3">
-                        <input  type="text" id="items-3-amount" placeholder="Amount">
-                    </div>
-                    <div class="display-side-by-side">
-                        <input  type="text" id="items-4" placeholder="Item 4">
-                        <input  type="text" id="items-4-amount" placeholder="Amount">
-                    </div>
-
-
-                </div>
-                <div class="display-side-by-side">
-                    <input  type="text" id="output" placeholder="Item Output">
-                    <input  type="text" id="amount" placeholder="Amount">
-                </div>
-                
-            </div>
-            <div>
-                <button id="generateitemrecipes">Generate Item</button>
-                <p>buildablerecipes.json</p>
-                <div class="item-input-display-output" id="item-input-display-output-recipe">
-                </div>
-            </div>
+        <div class="output-content">
+            <h2>Output</h2>
+            <hr>
+            <details>
+                <summary>
+                    <!-- set this using js -->
+                    Buildables.json
+                    <hr>
+                </summary>
+                <pre class="output-field">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    In non justo ornare, porttitor purus non, tincidunt quam.
+                    Proin ut purus fringilla, tristique dolor et, viverra nibh.
+                    Fusce id velit pellentesque, aliquet diam vitae, auctor nibh.
+                    In ut orci et tellus vulputate blandit.
+                    Cras dictum quam nec sapien mattis tristique.
+                    Sed vel justo placerat, vestibulum erat sagittis, eleifend enim.
+                    Aenean sit amet neque et lectus auctor eleifend vehicula sed leo.
+                    Cras tempor sapien vestibulum turpis aliquet porttitor.
+                    Integer iaculis leo sit amet tempor malesuada.
+                    Sed ac lectus nec massa facilisis posuere.
+                    Curabitur eu sem sed nisi aliquam condimentum.
+                    Vestibulum cursus sem quis justo accumsan, at posuere nibh aliquam.
+                    Pellentesque eu nunc feugiat, suscipit tortor vitae, iaculis velit.
+                    Integer at diam vel lectus luctus egestas eu at augue.
+                </pre>
+            </details>
+            <details>
+                <summary>
+                    <!-- set this using js -->
+                    Buildable-Recipes.json
+                    <hr>
+                </summary>
+                <pre class="output-field">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    In non justo ornare, porttitor purus non, tincidunt quam.
+                    Proin ut purus fringilla, tristique dolor et, viverra nibh.
+                    Fusce id velit pellentesque, aliquet diam vitae, auctor nibh.
+                    In ut orci et tellus vulputate blandit.
+                    Cras dictum quam nec sapien mattis tristique.
+                    Sed vel justo placerat, vestibulum erat sagittis, eleifend enim.
+                    Aenean sit amet neque et lectus auctor eleifend vehicula sed leo.
+                    Cras tempor sapien vestibulum turpis aliquet porttitor.
+                    Integer iaculis leo sit amet tempor malesuada.
+                    Sed ac lectus nec massa facilisis posuere.
+                    Curabitur eu sem sed nisi aliquam condimentum.
+                    Vestibulum cursus sem quis justo accumsan, at posuere nibh aliquam.
+                    Pellentesque eu nunc feugiat, suscipit tortor vitae, iaculis velit.
+                    Integer at diam vel lectus luctus egestas eu at augue.
+                </pre>
+            </details>
         </div>
-    
-        <footer>
-            <p id=gravytime></p>
-            <p id="signedbyktrain"></p>
-        </footer>
     </div>
+    
+    
+    <footer>
+        <p id=gravytime></p>
+        <p id="signedbyktrain"></p>
+    </footer>
+
     
 </body>
 </html>

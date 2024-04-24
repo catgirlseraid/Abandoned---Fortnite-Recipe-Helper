@@ -1,14 +1,22 @@
+"use strict"
 let input = undefined
 document.getElementById("generateitem").addEventListener("click", generateitems)
 document.getElementById("generateitemrecipes").addEventListener("click", generateitemrecipes)
 
 document.getElementById("name").addEventListener("blur", fillotherfieldsname)
 
+document.getElementById("add-additional-items").addEventListener("click", additeminputfield)
+document.getElementById("remove-additional-items").addEventListener("click", removeiteminputfield)
+
 // setting up defaults for buildables
 document.getElementById("attributes-rarity").value = "buildable"
 document.getElementById("attributes-max-stack").value = "1"
 document.getElementById("workbench").value = "buildable"
 document.getElementById("amount").value = "1"
+
+
+/** @type {HTMLElement[]} */
+let listofadditionalitemelements = []
 
 function generateitems() {
     let name = document.getElementById("name").value
@@ -41,15 +49,22 @@ function generateitems() {
 
 function generateitemrecipes() {
     let workbench = document.getElementById("workbench").value
-    let item1 = document.getElementById("items-1").value || undefined
-    let item2 = document.getElementById("items-2").value || undefined
-    let item3 = document.getElementById("items-3").value || undefined
-    let item4 = document.getElementById("items-4").value || undefined
 
-    let item1amount = parseInt(document.getElementById("items-1-amount").value)
-    let item2amount = parseInt(document.getElementById("items-2-amount").value)
-    let item3amount = parseInt(document.getElementById("items-3-amount").value)
-    let item4amount = parseInt(document.getElementById("items-4-amount").value)
+    let items = {}
+    listofadditionalitemelements.forEach(element => {
+
+        let item = element.querySelector("input:first-child")
+
+        let itemamount = element.querySelector("input:last-child")
+        if ((itemamount.value) && (item.value)) {
+            if (parseInt(itemamount.value)) {
+                items[item.value] = parseInt(itemamount.value)
+            } else {
+                items[item.value] = 0
+            }
+            
+        }
+    });
 
     let amount = document.getElementById("amount").value
     let output = document.getElementById("output").value
@@ -58,12 +73,7 @@ function generateitemrecipes() {
     let itemstooutput = 
     {
         "workbench": workbench === ""? undefined : workbench,
-        "items": {
-            [item1]: item1 && item1amount,
-            [item2]: item2 && item2amount,
-            [item3]: item3 && item3amount,
-            [item4]: item4 && item4amount
-        },
+        items,
         "amount": amount === ""? undefined : amount,
         "output": output === ""? undefined : output,
     }
@@ -81,4 +91,26 @@ function fillotherfieldsname() {
 
     document.getElementById("id").value = id
     document.getElementById("output").value = id
+}
+
+additeminputfield()
+function additeminputfield() {
+    let placetobeadded = document.getElementById("placetobeadded")
+
+    let settingitem = document.createElement("div")
+    settingitem.classList.add("display-side-by-side")
+    settingitem.innerHTML = `
+    <input type="text" placeholder="Item ${placetobeadded.children.length}">
+    <input type="text" placeholder="Amount">
+    `
+
+    listofadditionalitemelements.push(settingitem)
+    
+    placetobeadded.append(settingitem)
+}
+
+function removeiteminputfield() {
+    if (listofadditionalitemelements.length > 1) {
+        listofadditionalitemelements.pop().remove()
+    }
 }

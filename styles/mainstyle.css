@@ -22,9 +22,6 @@ body {
 
 
 /* nav bar */
-
-
-
 nav {
     width: 100%;
     background: rgb(175,175,175);
@@ -47,7 +44,7 @@ nav h1 {
     font-size: 20px;
 }
 
-.nav-bar-todo-list-button {
+.nav-bar-right-button {
     font-family: "Montserrat", sans-serif;
     width: 50px;
     height: 50px;
@@ -60,7 +57,7 @@ nav h1 {
     background-color: white;
 }
 
-.nav-bar-todo-list-button:hover {
+.nav-bar-right-button:hover {
     background-color: lightgray;
     cursor: pointer;
     color: white;
@@ -104,16 +101,16 @@ nav h1 {
 }
 
 
-.nav-bar-search {
+.nav-bar-center {
     display: flex;
     align-items: center;
+    justify-content: center;
     height: 50px;
 }
 
 .nav-bar-search-box {
     font-family: "Montserrat", sans-serif;
     height: 44px;
-    width: 50px;
     margin: 0;
     padding-left: 5px;
     width: 85%;
@@ -174,3 +171,13 @@ nav h1 {
     text-decoration: none;
 }
 
+.nav-bar-dropdown {
+    width: 85%;
+    border: #0A0708 solid 2px;
+    font-family: "Montserrat", sans-serif;
+    height: 50px;
+    margin: 0;
+    padding: 0 5px;
+    font-size: 30px;
+    border-radius: 10px;
+}
